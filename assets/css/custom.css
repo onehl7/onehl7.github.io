@@ -2,8 +2,11 @@
 body {
   background: #0b0f1a; /* deep space */
   color: #e0e6f5;      /* starlight text */
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 }
+
+/* Add Google Fonts Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 a {
   color: #4cc9f0;
