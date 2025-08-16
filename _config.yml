@@ -1,0 +1,22 @@
+title: "Tech & Space Blog"
+description: "Exploring technology and the cosmos"
+author: "Your Name"
+theme: minima
+timezone: "UTC"
+
+# Appearance
+minima:
+  skin: dark   # gives a modern dark theme look
+  social_links:
+    github: https://github.com/YOURUSERNAME
+    twitter: https://twitter.com/YOURHANDLE
+    rss: rss
+
+# Blog options
+paginate: 5
+paginate_path: "/page:num/"
+
+# GitHub Pages default plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
