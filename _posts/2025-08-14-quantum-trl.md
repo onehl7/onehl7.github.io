@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quantum Technology Readiness Levels (QTRL) — Where Are We Now?"
 date: 2025-08-14 12:00:00 +0000
 categories: [quantum, technology, space]
