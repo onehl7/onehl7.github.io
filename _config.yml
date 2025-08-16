@@ -1,17 +1,8 @@
-title: "a curious mind"
-description: "Exploring technology and the cosmos"
-author: "H"
-theme: minima
+
 timezone: "UTC"
 
-# Appearance
-minima:
-  skin: dark   # gives a modern dark theme look
-  social_links:
-    github: https://github.com/onehl7
-    rss: rss
+remote_theme: pages-themes/modernist@v0.2.0
 
-# Blog options
 paginate: 5
 paginate_path: "/page:num/"
 
@@ -19,3 +10,4 @@ paginate_path: "/page:num/"
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-remote-theme 
