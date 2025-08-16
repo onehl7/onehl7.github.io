@@ -1,7 +1,7 @@
 ---
 title: "Quantum Technology Readiness Levels (QTRL) — Where Are We Now?"
 date: 2025-08-14
-categories: [quantum, technology, space]
+categories: [quantum]
 ---
 
 In the technology world, we often use **Technology Readiness Levels (TRLs)** — 
