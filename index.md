@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Welcome"
+title: "Home"
 ---
 
-🌌 Welcome to **Tech & Space Blog**.  
+🌌 Welcome!  
 A curious mind exploring cutting-edge technologies and the wonders of the universe.  
 
 Check out my latest posts below!
