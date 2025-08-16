@@ -1,13 +1,9 @@
-
+title: "A Curious Mind"
+description: "Exploring technology, science, and the cosmos"
 timezone: "UTC"
 
 remote_theme: pages-themes/modernist@v0.2.0
 
-paginate: 5
-paginate_path: "/page:num/"
-
-# GitHub Pages default plugins
 plugins:
-  - jekyll-paginate
   - jekyll-feed
-  - jekyll-remote-theme 
+  - jekyll-remote-theme

@@ -1,28 +1,6 @@
-/* Space-tech inspired styling */
 body {
-  background: #0b0f1a; /* deep space */
-  color: #e0e6f5;      /* starlight text */
+  background: #0b0f1a;
+  color: #e0e6f5;
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 }
-
-/* Add Google Fonts Inter */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-
-a {
-  color: #4cc9f0;
-}
-
-a:hover {
-  color: #f72585;
-}
-
-header.site-header {
-  background: linear-gradient(90deg, #0d1b2a, #1b263b);
-  border-bottom: 2px solid #4cc9f0;
-}
-
-footer.site-footer {
-  background: #0d1b2a;
-  color: #a8b2d1;
-}
-
