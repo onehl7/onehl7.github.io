@@ -1,6 +1,6 @@
-title: "Tech & Space Blog"
+title: "a curious mind"
 description: "Exploring technology and the cosmos"
-author: "Your Name"
+author: "H"
 theme: minima
 timezone: "UTC"
 
@@ -8,8 +8,7 @@ timezone: "UTC"
 minima:
   skin: dark   # gives a modern dark theme look
   social_links:
-    github: https://github.com/YOURUSERNAME
-    twitter: https://twitter.com/YOURHANDLE
+    github: https://github.com/onehl7
     rss: rss
 
 # Blog options
