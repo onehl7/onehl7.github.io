@@ -10,43 +10,24 @@ title: "Home"
   </p>
 
   <div class="mt-4 space-x-4">
-    <a href="{{ '/quantum.html' | relative_url }}" class="inline-block m-1 px-4 py-2 bg-blue-600 text-white rounded-md no-underline hover:bg-blue-700 transition-colors">Quantum</a>
-    <a href="{{ '/technology.html' | relative_url }}" class="inline-block m-1 px-4 py-2 bg-teal-500 text-white rounded-md no-underline hover:bg-teal-600 transition-colors">Technology</a>
-    <a href="{{ '/space.html' | relative_url }}" class="inline-block m-1 px-4 py-2 bg-violet-600 text-white rounded-md no-underline hover:bg-violet-700 transition-colors">Space</a>
+    {% for topic in site.topics %}
+      <a href="{{ '/' | append: topic.slug | append: '.html' | relative_url }}" class="inline-block m-1 px-4 py-2 bg-slate-700 text-white rounded-md no-underline hover:bg-slate-600 transition-colors">{{ topic.name }}</a>
+    {% endfor %}
   </div>
 </div>
 
 <!-- Topic cards -->
 <div class="flex gap-4 justify-center flex-wrap px-4 pb-8">
-  <a href="{{ '/space.html' | relative_url }}" class="w-full sm:w-72 no-underline text-inherit">
+  {% for topic in site.topics %}
+  <a href="{{ '/' | append: topic.slug | append: '.html' | relative_url }}" class="w-full sm:w-72 no-underline text-inherit">
     <div class="rounded-lg overflow-hidden shadow-lg bg-slate-900 hover:scale-105 transition-transform duration-300">
-      <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1200&q=60&auto=format&fit=crop" alt="Space" class="w-full h-36 object-cover">
+      <img src="{{ topic.image_url | relative_url }}" alt="{{ topic.name }}" class="w-full h-36 object-cover">
       <div class="p-3">
-        <h3 class="mb-1 text-lg text-slate-200">Space</h3>
-        <p class="m-0 text-sm text-slate-400">Launches, exploration and the cosmos.</p>
+        <h3 class="mb-1 text-lg text-slate-200">{{ topic.name }}</h3>
       </div>
     </div>
   </a>
-
-  <a href="{{ '/technology.html' | relative_url }}" class="w-full sm:w-72 no-underline text-inherit">
-    <div class="rounded-lg overflow-hidden shadow-lg bg-slate-900 hover:scale-105 transition-transform duration-300">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=60&auto-format&fit=crop" alt="Technology" class="w-full h-36 object-cover">
-      <div class="p-3">
-        <h3 class="mb-1 text-lg text-slate-200">Technology</h3>
-        <p class="m-0 text-sm text-slate-400">Tools, systems and trends.</p>
-      </div>
-    </div>
-  </a>
-
-  <a href="{{ '/quantum.html' | relative_url }}" class="w-full sm:w-72 no-underline text-inherit">
-    <div class="rounded-lg overflow-hidden shadow-lg bg-slate-900 hover:scale-105 transition-transform duration-300">
-      <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?w=1200&q=60&auto=format&fit=crop" alt="Quantum" class="w-full h-36 object-cover">
-      <div class="p-3">
-        <h3 class="mb-1 text-lg text-slate-200">Quantum</h3>
-        <p class="m-0 text-sm text-slate-400">Quantum computing, sensing and theory.</p>
-      </div>
-    </div>
-  </a>
+  {% endfor %}
 </div>
 
 <!-- Latest posts -->

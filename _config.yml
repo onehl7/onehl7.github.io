@@ -7,3 +7,19 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+# Site Topics - Centralized data for categories
+# Use this section to easily update images, names, and other details.
+topics:
+  - name: Quantum
+    slug: quantum
+    emoji: "🧬"
+    image_url: "/assets/images/quantum.png"
+  - name: Technology
+    slug: technology
+    emoji: "💻"
+    image_url: "/assets/images/technology.png"
+  - name: Space
+    slug: space
+    emoji: "🚀"
+    image_url: "/assets/images/space.png"
