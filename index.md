@@ -66,8 +66,3 @@ title: "Home"
     {% endfor %}
   </ul>
 </section>
-
-<!-- Footer CTA -->
-<div class="text-center pb-12">
-  <p class="text-slate-400">Subscribe for updates (you can add a form or link here)</p>
-</div>
