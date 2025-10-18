@@ -2,7 +2,7 @@
 layout: post
 title: "Quantum Technology Readiness Levels (QTRL) — Where Are We Now?"
 date: 2025-08-14
-categories: [quantum, technology]
+categories: [quantum]
 image: /assets/images/quantum.png
 ---
 

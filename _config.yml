@@ -8,6 +8,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+# URL Structure - This is the crucial fix for post URLs
+permalink: /posts/:title.html
+
 # Site Topics - Centralized data for categories
 # Use this section to easily update images, names, and other details.
 topics:
