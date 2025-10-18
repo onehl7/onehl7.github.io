@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title | default: "A Curious Mind" }}</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Basic dark theme styling -->
+  <style>
+    body {
+      background-color: #020617; /* slate-950 */
+      color: #e2e8f0; /* slate-200 */
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
