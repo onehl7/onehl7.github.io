@@ -1,267 +1,140 @@
 ---
+layout: post
 title: "Interactive Quantum TRL Dashboard"
+date: 2025-08-16
 categories: [quantum]
+excerpt: "An interactive dashboard to explore the maturity of different quantum computing modalities, from Superconducting and Trapped-Ion to Photonic and Topological approaches."
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Quantum TRL Dashboard</title>
-    <!-- Tailwind CSS CDN for styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        /* Import the Inter font */
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-        
-        /* Apply the font and base styles */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8fafc; /* slate-50 */
-            color: #1e293b; /* slate-800 */
-        }
 
-        /* Custom table styling for better readability */
-        .styled-table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 0.9em;
-            min-width: 400px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-            margin-top: 1rem;
-        }
-        .styled-table thead tr {
-            background-color: #3b82f6; /* blue-500 */
-            color: #ffffff;
-            text-align: left;
-        }
-        .styled-table th, .styled-table td {
-            padding: 12px 15px;
-        }
-        .styled-table tbody tr {
-            border-bottom: 1px solid #dddddd;
-        }
-        .styled-table tbody tr:nth-of-type(even) {
-            background-color: #f3f4f6; /* gray-100 */
-        }
-        .styled-table tbody tr:last-of-type {
-            border-bottom: 2px solid #3b82f6;
-        }
-        /* Style for the interactive buttons */
-        .modality-button.active {
-            background-color: #3b82f6; /* blue-500 */
-            color: white;
-            border-color: #1e40af; /* blue-800 */
-        }
-    </style>
-</head>
-<body class="p-6 md:p-8">
+<style>
+    /* Custom table styling for better readability in dark mode */
+    .styled-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9em;
+        margin-top: 1rem;
+        background-color: #1e293b; /* slate-800 */
+        border-radius: 8px;
+        overflow: hidden;
+    }
+    .styled-table thead tr {
+        background-color: #3b82f6; /* blue-500 */
+        color: #ffffff;
+        text-align: left;
+    }
+    .styled-table th, .styled-table td {
+        padding: 12px 15px;
+    }
+    .styled-table tbody tr {
+        border-bottom: 1px solid #334155; /* slate-700 */
+    }
+    .styled-table tbody tr:last-of-type {
+        border-bottom: none;
+    }
+    /* Style for the interactive buttons */
+    .modality-button {
+        color: #cbd5e1; /* slate-300 */
+        border-color: #475569; /* slate-600 */
+    }
+    .modality-button.active {
+        background-color: #3b82f6; /* blue-500 */
+        color: white;
+        border-color: #3b82f6;
+    }
+</style>
 
-    <div class="max-w-3xl mx-auto">
-        <!-- Back to Home link -->
-        <div class="mb-6">
-            <a href="{{ '/' | relative_url }}" class="text-blue-600 hover:underline text-lg font-semibold">&larr; Back to Home</a>
-        </div>
-        <!-- Last update info -->
-        <div class="mb-4 text-right text-sm text-slate-500">
-            Last update : August 2025
-        </div>
-        <!-- Header section -->
-        <header class="text-center mb-12">
-            <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-2">Quantum Computing's Journey</h1>
-            <p class="text-lg text-slate-600">An Interactive Look at Technology Readiness Levels (TRL)</p>
-        </header>
+<p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">Technology Readiness Levels (TRLs) measure a technology's maturity. For quantum computing, a specialized QTRL scale is used. Below are the definitions for each level.</p>
 
-        <main>
-            <!-- Section 1: What is QTRL? -->
-            <section class="mb-16">
-                <h2 class="text-3xl font-bold text-center text-slate-900 mb-2">What is Quantum TRL?</h2>
-                <p class="text-center text-slate-600 mb-8 max-w-2xl mx-auto">Technology Readiness Levels (TRLs) measure a technology's maturity. For quantum computing, a specialized QTRL scale is used. Below are the definitions for each level.</p>
-                <div class="bg-white p-6 rounded-lg shadow-md">
-                    <h3 class="text-xl font-bold text-slate-800 mb-4">Quantum Technology Readiness Levels (QTRL)</h3>
-                    <table class="styled-table">
-                        <thead>
-                            <tr>
-                                <th>QTRL Level</th>
-                                <th>Description</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td><strong>QTRL 1</strong></td>
-                                <td>Theoretical framework for quantum computing is formulated. Basic properties are studied, moving towards applied research.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 2</strong></td>
-                                <td>Basic device principles are studied, and applications or algorithms are formulated. Technology is speculative with little experimental support.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 3</strong></td>
-                                <td>Fabricated imperfect physical qubits (basic building blocks) exist. Laboratory studies validate theoretical predictions.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 4</strong></td>
-                                <td>Multi-qubit systems are fabricated, and classical devices for qubit manipulation are developed and tested together.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 5</strong></td>
-                                <td>Components are integrated into a small quantum processor without error correction. Rigorous testing is conducted.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 6</strong></td>
-                                <td>Components are integrated into a small quantum processor with error correction. Rigorous testing is conducted.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 7</strong></td>
-                                <td>A prototype quantum computer solves small but user-relevant problems and is demonstrated in a user environment.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 8</strong></td>
-                                <td>A scalable version of a quantum computer is completed and qualified through test and demonstration.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>QTRL 9</strong></td>
-                                <td>Quantum computers exceed the computational power of classical computers for general or specific problems.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </section>
+<!-- Section 1: What is QTRL? -->
+<section class="mb-16">
+    <div class="bg-slate-900 p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold text-slate-200 mb-4">Quantum Technology Readiness Levels (QTRL)</h3>
+        <table class="styled-table">
+            <thead>
+                <tr>
+                    <th>QTRL Level</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>QTRL 1</strong></td><td>Theoretical framework for quantum computing is formulated.</td></tr>
+                <tr><td><strong>QTRL 2</strong></td><td>Basic device principles are studied, and applications or algorithms are formulated.</td></tr>
+                <tr><td><strong>QTRL 3</strong></td><td>Fabricated imperfect physical qubits exist. Laboratory studies validate theoretical predictions.</td></tr>
+                <tr><td><strong>QTRL 4</strong></td><td>Multi-qubit systems are fabricated, and classical devices for qubit manipulation are developed.</td></tr>
+                <tr><td><strong>QTRL 5</strong></td><td>Components are integrated into a small quantum processor without error correction.</td></tr>
+                <tr><td><strong>QTRL 6</strong></td><td>Components are integrated into a small quantum processor with error correction.</td></tr>
+                <tr><td><strong>QTRL 7</strong></td><td>A prototype quantum computer solves small but user-relevant problems.</td></tr>
+                <tr><td><strong>QTRL 8</strong></td><td>A scalable version of a quantum computer is completed and qualified.</td></tr>
+                <tr><td><strong>QTRL 9</strong></td><td>Quantum computers exceed the computational power of classical computers for specific problems.</td></tr>
+            </tbody>
+        </table>
+    </div>
+</section>
 
-            <!-- Section 2: Interactive 2025 Snapshot -->
-            <section class="mb-16">
-                <h2 class="text-3xl font-bold text-center text-slate-900 mb-2">2025 Snapshot: Current Maturity</h2>
-                <p class="text-center text-slate-600 mb-8 max-w-2xl mx-auto">Click on a modality to see its current status, estimated TRL, and key advancements as of 2025.</p>
-                
-                <!-- Interactive Buttons -->
-                <div class="flex flex-wrap justify-center gap-4 mb-8" id="modality-buttons">
-                    <button id="btn-superconducting" class="modality-button px-4 py-2 rounded-full border-2 border-slate-300 transition-colors duration-200">Superconducting</button>
-                    <button id="btn-trappedIon" class="modality-button px-4 py-2 rounded-full border-2 border-slate-300 transition-colors duration-200">Trapped-Ion</button>
-                    <button id="btn-photonic" class="modality-button px-4 py-2 rounded-full border-2 border-slate-300 transition-colors duration-200">Photonic</button>
-                    <button id="btn-topological" class="modality-button px-4 py-2 rounded-full border-2 border-slate-300 transition-colors duration-200">Topological</button>
-                </div>
-
-                <!-- Interactive Content Display -->
-                <div class="bg-white p-6 rounded-lg shadow-md" id="modality-content">
-                    <!-- Content will be dynamically injected here by JavaScript -->
-                    <h3 class="text-xl font-bold text-slate-800 mb-4">Select a modality above to view details.</h3>
-                </div>
-            </section>
-
-            <!-- Section 3: 5-Year Progression -->
-            <section class="mb-16">
-                <h2 class="text-3xl font-bold text-center text-slate-900 mb-2">5-Year Progression (2020-2025)</h2>
-                <p class="text-center text-slate-600 mb-8 max-w-2xl mx-auto">The last five years have seen rapid progress. This table highlights key milestones across different modalities.</p>
-                <div class="bg-white p-6 rounded-lg shadow-md">
-                    <h3 class="text-xl font-bold text-slate-800 mb-4">Timeline of Breakthroughs</h3>
-                    <table class="styled-table">
-                        <thead>
-                            <tr>
-                                <th>Year</th>
-                                <th>Modality</th>
-                                <th>Key Milestone</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>2020</td>
-                                <td>Trapped-Ion</td>
-                                <td>IonQ achieved 32-qubit systems.</td>
-                            </tr>
-                            <tr>
-                                <td>2023</td>
-                                <td>Topological</td>
-                                <td>Microsoft achieved a breakthrough with Majorana zero modes.</td>
-                            </tr>
-                            <tr>
-                                <td>2024</td>
-                                <td>Trapped-Ion</td>
-                                <td>Quantinuum demonstrated 12 logical qubits with Microsoft.</td>
-                            </tr>
-                            <tr>
-                                <td>2024</td>
-                                <td>Superconducting</td>
-                                <td>IBM unveiled a 433-qubit processor.</td>
-                            </tr>
-                            <tr>
-                                <td>2025</td>
-                                <td>Trapped-Ion</td>
-                                <td>Quantinuum launched H2-1 with 56 qubits and 99.9% gate fidelity.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </section>
-        </main>
+<!-- Section 2: Interactive 2025 Snapshot -->
+<section class="mb-16">
+    <h2 class="text-3xl font-bold text-center text-slate-200 mb-2">2025 Snapshot: Current Maturity</h2>
+    <p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">Click on a modality to see its current status, estimated TRL, and key advancements as of 2025.</p>
+    
+    <div class="flex flex-wrap justify-center gap-4 mb-8" id="modality-buttons">
+        <button id="btn-superconducting" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Superconducting</button>
+        <button id="btn-trappedIon" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Trapped-Ion</button>
+        <button id="btn-photonic" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Photonic</button>
+        <button id="btn-topological" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Topological</button>
     </div>
 
-    <script>
-        // Data for each quantum computing modality
-        const modalities = {
-            superconducting: {
-                name: "Superconducting",
-                trl: "6",
-                advancements: "Leading platform with high qubit counts. Major players like IBM are focused on error mitigation."
-            },
-            trappedIon: {
-                name: "Trapped-Ion",
-                trl: "7",
-                advancements: "Known for high fidelity. Quantinuum achieved 99.9% two-qubit gate fidelity and demonstrated logical qubits."
-            },
-            photonic: {
-                name: "Photonic",
-                trl: "5",
-                advancements: "Gaining traction due to room-temperature operation potential. Companies like PsiQuantum and Xanadu are commercializing solutions."
-            },
-            topological: {
-                name: "Topological",
-                trl: "4",
-                advancements: "A long-term bet with potential for inherent fault tolerance. Microsoft has demonstrated key breakthroughs, validating basic principles."
-            }
-        };
+    <div class="bg-slate-900 p-6 rounded-lg shadow-lg min-h-[120px]" id="modality-content">
+        <h3 class="text-xl font-bold text-slate-200 mb-4">Select a modality above to view details.</h3>
+    </div>
+</section>
 
-        // Get references to the DOM elements
+<!-- Section 3: 5-Year Progression -->
+<section class="mb-16">
+    <h2 class="text-3xl font-bold text-center text-slate-200 mb-2">5-Year Progression (2020-2025)</h2>
+    <p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">The last five years have seen rapid progress. This table highlights key milestones across different modalities.</p>
+    <div class="bg-slate-900 p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold text-slate-200 mb-4">Timeline of Breakthroughs</h3>
+        <table class="styled-table">
+            <thead>
+                <tr><th>Year</th><th>Modality</th><th>Key Milestone</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>2020</td><td>Trapped-Ion</td><td>IonQ achieved 32-qubit systems.</td></tr>
+                <tr><td>2023</td><td>Topological</td><td>Microsoft achieved a breakthrough with Majorana zero modes.</td></tr>
+                <tr><td>2024</td><td>Trapped-Ion</td><td>Quantinuum demonstrated 12 logical qubits with Microsoft.</td></tr>
+                <tr><td>2024</td><td>Superconducting</td><td>IBM unveiled a 433-qubit processor.</td></tr>
+                <tr><td>2025</td><td>Trapped-Ion</td><td>Quantinuum launched H2-1 with 56 qubits and 99.9% gate fidelity.</td></tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const modalities = {
+            superconducting: { name: "Superconducting", trl: "6", advancements: "Leading platform with high qubit counts. Major players like IBM are focused on error mitigation." },
+            trappedIon: { name: "Trapped-Ion", trl: "7", advancements: "Known for high fidelity. Quantinuum achieved 99.9% two-qubit gate fidelity and demonstrated logical qubits." },
+            photonic: { name: "Photonic", trl: "5", advancements: "Gaining traction due to room-temperature operation potential. Companies like PsiQuantum and Xanadu are commercializing solutions." },
+            topological: { name: "Topological", trl: "4", advancements: "A long-term bet with potential for inherent fault tolerance. Microsoft has demonstrated key breakthroughs, validating basic principles." }
+        };
         const buttons = document.querySelectorAll('.modality-button');
         const contentDiv = document.getElementById('modality-content');
-
-        /**
-         * Renders the content for the selected modality.
-         * @param {string} modalityKey - The key of the selected modality (e.g., 'superconducting').
-         */
         function renderContent(modalityKey) {
-            // Get the data for the selected modality
             const data = modalities[modalityKey];
-
-            // Clear any previous active button state
             buttons.forEach(btn => btn.classList.remove('active'));
-            // Set the active class for the current button
             document.getElementById(`btn-${modalityKey}`).classList.add('active');
-
-            // Construct the HTML for the modality's details
-            const htmlContent = `
-                <h3 class="text-xl font-bold text-slate-800 mb-4">${data.name}</h3>
-                <p class="text-lg text-slate-700 mb-2"><strong>Estimated QTRL 2025:</strong> ${data.trl}</p>
-                <p class="text-lg text-slate-700"><strong>Key Advancements:</strong> ${data.advancements}</p>
+            contentDiv.innerHTML = `
+                <h3 class="text-xl font-bold text-slate-200 mb-4">${data.name}</h3>
+                <p class="text-lg text-slate-300 mb-2"><strong>Estimated QTRL 2025:</strong> ${data.trl}</p>
+                <p class="text-lg text-slate-300"><strong>Key Advancements:</strong> ${data.advancements}</p>
             `;
-            
-            // Insert the new HTML into the content div
-            contentDiv.innerHTML = htmlContent;
         }
-
-        // Add event listeners to each button
         buttons.forEach(button => {
             button.addEventListener('click', (event) => {
-                // The ID is in the format 'btn-modalityName', so we extract the key
                 const modalityKey = event.target.id.replace('btn-', '');
                 renderContent(modalityKey);
             });
         });
-
-        // Initially render the content for the first modality
-        document.addEventListener('DOMContentLoaded', () => {
-            renderContent('superconducting');
-        });
-
-    </script>
-</body>
-</html>
+        renderContent('superconducting');
+    });
+</script>
