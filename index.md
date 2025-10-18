@@ -6,7 +6,7 @@ title: "Home"
 <div class="text-center py-12 px-4">
   <h1 class="text-5xl font-bold mb-1">A Curious Mind</h1>
   <p class="mx-auto mb-4 max-w-3xl text-slate-400">
-    Exploring technology, science, and the cosmos — thoughts, tutorials and interactive dashboards.
+    Exploring Technology, Space, and Quantum Frontiers -Views, Learnings, and Findings
   </p>
 
   <div class="mt-4 space-x-4">
