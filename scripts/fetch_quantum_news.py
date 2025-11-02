@@ -9,7 +9,7 @@ from time import mktime
 
 quantum_feeds = {
     "Quantum Computing Report": {"url": "https://quantumcomputingreport.com/feed/", "count": 4},
-    "ScienceDaily (Quantum Computers)": {"url": "https://www.sciencedaily.com/rss/matter_energy/quantum_computers.xml", "count": 4},
+    "ScienceDaily (Quantum Computing)": {"url": "https://www.sciencedaily.com/rss/matter_energy/quantum_computing.xml", "count": 4},
     "MIT News (Quantum Computing)": {"url": "https://news.mit.edu/topic/quantum-computing/feed", "count": 2},
     "The Quantum Insider": {"url": "https://thequantuminsider.com/category/news/feed/", "count": 4},
 }
