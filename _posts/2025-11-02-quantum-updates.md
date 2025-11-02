@@ -6,7 +6,7 @@ categories: [quantum]
 excerpt: "A dynamically updated list of recent quantum computing news from various sources."
 ---
 
-This page provides a list of recent quantum computing news, automatically updated daily from the following sources: Quantum Computing Report, ScienceDaily, MIT News, and The Quantum Insider.
+Stay up-to-date with the latest breakthroughs and developments in the world of quantum computing. This page is automatically updated daily with news from leading sources like ScienceDaily and The Quantum Insider.
 
 <div class="news-feed">
 {% for item in site.data.quantum_news %}
