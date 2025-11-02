@@ -15,12 +15,15 @@ quantum_feeds = {
 
 all_quantum_news = []
 
+# A common browser user agent
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+
 print("\nFetching quantum news...")
 for source, data in quantum_feeds.items():
     url = data["url"]
     count = data["count"]
     print(f"- {source}: {url}")
-    feed = feedparser.parse(url)
+    feed = feedparser.parse(url, agent=user_agent)
     
     if feed.bozo:
         print(f"  Error fetching or parsing feed from {source}: {feed.bozo_exception}")
