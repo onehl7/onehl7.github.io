@@ -12,16 +12,33 @@ feeds = {
 
 all_news = []
 
+print("Fetching news from the following sources:")
 for source, url in feeds.items():
+    print(f"- {source}: {url}")
     feed = feedparser.parse(url)
-    for entry in feed.entries[:10]:  # Get the 10 latest entries
+    
+    if feed.bozo:
+        print(f"  Error fetching or parsing feed from {source}: {feed.bozo_exception}")
+        continue
+
+    print(f"  Found {len(feed.entries)} entries.")
+    
+    for entry in feed.entries[:5]:  # Get the 5 latest entries
         # Convert published_parsed to a datetime object
-        dt = datetime.fromtimestamp(mktime(entry.published_parsed))
+        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+            try:
+                dt = datetime.fromtimestamp(mktime(entry.published_parsed))
+                published_date = dt.strftime('%Y-%m-%d %H:%M:%S')
+            except (ValueError, TypeError):
+                published_date = "N/A"
+        else:
+            published_date = "N/A"
+
         all_news.append({
             "source": source,
             "title": entry.title,
             "link": entry.link,
-            "published": dt.strftime('%Y-%m-%d %H:%M:%S'),
+            "published": published_date,
         })
 
 # Sort all news by publication date (newest first)
