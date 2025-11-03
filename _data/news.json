@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
+    "published": "2025-11-03 10:12:47"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
     "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
     "published": "2025-11-02 22:07:14"
@@ -22,11 +28,5 @@
     "title": "Google confirms AI search will have ads, but they may look different",
     "link": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
     "published": "2025-11-01 16:56:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/",
-    "published": "2025-11-01 16:17:22"
   }
 ]
