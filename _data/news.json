@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
+    "published": "2025-11-04 07:49:31"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
     "link": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
     "published": "2025-11-03 21:53:35"
@@ -22,11 +28,5 @@
     "title": "US cybersecurity experts indicted for BlackCat ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/",
     "published": "2025-11-03 17:15:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
-    "published": "2025-11-03 16:46:40"
   }
 ]
