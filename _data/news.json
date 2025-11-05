@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Police busts credit card fraud rings with 4.3 million victims",
+    "link": "https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/",
+    "published": "2025-11-05 12:29:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud",
+    "link": "https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/",
+    "published": "2025-11-05 10:34:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: October Windows updates trigger BitLocker recovery",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
+    "published": "2025-11-05 08:56:22"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
     "published": "2025-11-04 21:46:50"
@@ -10,23 +28,5 @@
     "title": "Apache OpenOffice disputes data breach claims by ransomware gang",
     "link": "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/",
     "published": "2025-11-04 21:18:43"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious Android apps on Google Play downloaded 42 million times",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
-    "published": "2025-11-04 20:26:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft removing Defender Application Guard from Office",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/",
-    "published": "2025-11-04 19:02:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data breach at major Swedish software supplier impacts 1.5 million",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/",
-    "published": "2025-11-04 16:53:27"
   }
 ]
