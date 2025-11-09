@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
+    "published": "2025-11-08 22:29:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
+    "published": "2025-11-08 16:17:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/",
+    "published": "2025-11-08 15:09:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Malicious NuGet packages drop disruptive 'time bombs'",
     "link": "https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/",
     "published": "2025-11-07 20:53:48"
@@ -10,23 +28,5 @@
     "title": "Microsoft testing faster Quick Machine Recovery in Windows 11",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/",
     "published": "2025-11-07 19:46:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
-    "link": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
-    "published": "2025-11-07 18:24:43"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
-    "link": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
-    "published": "2025-11-07 18:23:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
-    "published": "2025-11-07 15:44:31"
   }
 ]
