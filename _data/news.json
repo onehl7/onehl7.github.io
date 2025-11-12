@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Synnovis notifies of data breach after 2024 ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
+    "published": "2025-11-12 12:28:42"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Windows Task Manager bug affecting performance",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/",
+    "published": "2025-11-12 10:42:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
     "link": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
     "published": "2025-11-12 00:14:19"
@@ -16,17 +28,5 @@
     "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
     "published": "2025-11-11 20:01:59"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
-    "published": "2025-11-11 19:12:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases KB5068781 \u2014 The first Windows 10 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
-    "published": "2025-11-11 19:09:57"
   }
 ]
