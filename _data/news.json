@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
+    "published": "2025-11-13 12:05:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
+    "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
+    "published": "2025-11-13 10:53:39"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
+    "published": "2025-11-13 10:03:52"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google sues to dismantle Chinese phishing platform behind US toll scams",
     "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/",
     "published": "2025-11-12 20:59:44"
@@ -10,23 +28,5 @@
     "title": "Windows 11 now supports 3rd-party apps for native passkey management",
     "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
     "published": "2025-11-12 18:18:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DanaBot malware is back to infecting Windows after 6-month break",
-    "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
-    "published": "2025-11-12 16:34:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/",
-    "published": "2025-11-12 15:29:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Extending Zero Trust to AI Agents: \u201cNever Trust, Always Verify\u201d Goes Autonomous",
-    "link": "https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/",
-    "published": "2025-11-12 15:25:35"
   }
 ]
