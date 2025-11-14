@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
-    "published": "2025-11-13 12:05:55"
+    "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
+    "published": "2025-11-13 22:32:42"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
-    "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
-    "published": "2025-11-13 10:53:39"
+    "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages",
+    "link": "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/",
+    "published": "2025-11-13 22:07:05"
   },
   {
     "source": "Bleeping Computer",
-    "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
-    "published": "2025-11-13 10:03:52"
+    "title": "RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk",
+    "link": "https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/",
+    "published": "2025-11-13 19:04:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google sues to dismantle Chinese phishing platform behind US toll scams",
-    "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/",
-    "published": "2025-11-12 20:59:44"
+    "title": "Washington Post data breach impacts nearly 10K employees, contractors",
+    "link": "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/",
+    "published": "2025-11-13 16:00:36"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Windows 11 now supports 3rd-party apps for native passkey management",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
-    "published": "2025-11-12 18:18:11"
+    "title": "Kerberoasting in 2025: How to protect your service accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/",
+    "published": "2025-11-13 15:02:12"
   }
 ]
