@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
+    "published": "2025-11-15 20:42:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Decades-old \u2018Finger\u2019 protocol abused in ClickFix malware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
+    "published": "2025-11-15 18:46:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Jaguar Land Rover cyberattack cost the company over $220 million",
+    "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/",
+    "published": "2025-11-15 15:09:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Logitech confirms data breach after Clop extortion attack",
     "link": "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/",
     "published": "2025-11-14 22:18:36"
@@ -10,23 +28,5 @@
     "title": "Five plead guilty to helping North Koreans infiltrate US firms",
     "link": "https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/",
     "published": "2025-11-14 20:11:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt",
-    "link": "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/",
-    "published": "2025-11-14 18:31:16"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/",
-    "published": "2025-11-14 17:00:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Checkout.com snubs hackers after data breach, to donate ransom instead",
-    "link": "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
-    "published": "2025-11-14 16:25:42"
   }
 ]
