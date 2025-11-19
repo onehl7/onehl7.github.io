@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "California man admits to laundering crypto stolen in $230M heist",
+    "link": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
+    "published": "2025-11-19 12:13:34"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cloudflare blames this week's massive outage on database issues",
+    "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
+    "published": "2025-11-19 10:54:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
+    "published": "2025-11-19 10:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Thunderbird adds native support for Microsoft Exchange accounts",
     "link": "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/",
     "published": "2025-11-18 22:09:32"
@@ -10,23 +28,5 @@
     "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
     "link": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
     "published": "2025-11-18 20:56:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
-    "published": "2025-11-18 19:29:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
-    "published": "2025-11-18 19:01:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
-    "published": "2025-11-18 17:25:18"
   }
 ]
