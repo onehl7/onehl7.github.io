@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Crypto mixer founders sent to prison for laundering over $237 million",
+    "link": "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/",
+    "published": "2025-11-20 10:49:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages",
+    "link": "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/",
+    "published": "2025-11-20 10:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/",
+    "published": "2025-11-20 00:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
     "link": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
     "published": "2025-11-19 21:59:46"
@@ -10,23 +28,5 @@
     "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
     "published": "2025-11-19 20:39:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Search is now using AI to create interactive UI to answer your questions",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/",
-    "published": "2025-11-19 19:45:05"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
-    "link": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
-    "published": "2025-11-19 17:34:45"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
-    "published": "2025-11-19 16:43:46"
   }
 ]
