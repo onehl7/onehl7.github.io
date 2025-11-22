@@ -8,8 +8,8 @@ from time import mktime
 # --- Space News ---
 
 space_feeds = {
-    "NASA": {"url": "https://www.nasa.gov/news/releases/feed/", "count": 5},
-    "ESA": {"url": "https://www.esa.int/Services/RSS_Feeds/Images", "count": 5},
+    "NASA": {"url": "https://www.nasa.gov/news-release/feed/", "count": 5},
+    "ESA": {"url": "https://www.esa.int/rssfeed/Our_Activities/Space_News", "count": 5},
 }
 
 all_space_news = []
