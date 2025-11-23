@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
+    "published": "2025-11-22 18:53:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
+    "published": "2025-11-22 15:16:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
+    "published": "2025-11-22 13:45:53"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
     "published": "2025-11-21 23:50:27"
@@ -10,23 +28,5 @@
     "title": "Nvidia confirms October Windows updates cause gaming issues",
     "link": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
     "published": "2025-11-21 19:57:48"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
-    "published": "2025-11-21 18:02:05"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Grafana warns of max severity admin spoofing vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/",
-    "published": "2025-11-21 17:58:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CrowdStrike catches insider feeding information to hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
-    "published": "2025-11-21 16:48:41"
   }
 ]
