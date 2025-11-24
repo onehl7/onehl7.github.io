@@ -26,16 +26,3 @@ category: space
     {% endfor %}
   </ul>
 </section>
-
-<!-- Latest Space News -->
-<section class="max-w-4xl mx-auto my-12 px-4">
-  <h2 class="text-2xl mb-2">Latest Space News</h2>
-  <ul class="list-none p-0 m-0">
-    {% for item in site.data.space_news %}
-    <li class="border-l-4 border-violet-600 p-4 mb-3 bg-slate-800/20 rounded-r-md hover:bg-slate-800/40 transition-colors">
-      <a href="{{ item.link }}" class="font-semibold text-lg text-slate-200 no-underline hover:text-violet-400" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
-      <div class="text-sm text-slate-400 mt-1">{{ item.published | date: "%b %d, %Y" }} - {{ item.source }}</div>
-    </li>
-    {% endfor %}
-  </ul>
-</section>

@@ -8,7 +8,9 @@ excerpt: "An overview of NASA's Deep Space Network and the latest news on deep s
 
 Explore NASA's Deep Space Network (DSN), the international network of antennas that supports interplanetary spacecraft missions, plus radio and radar astronomy observations for the exploration of the solar system and the universe.
 
-<div class="dsn-container" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+## NASA's Deep Space Network
+
+<a href="https://eyes.nasa.gov/apps/dsn-now/dsn.html" target="_blank" rel="noopener noreferrer">NASA's Deep Space Network</a>
 
 ## Latest Deep Space News
 
