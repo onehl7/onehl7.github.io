@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Code-formatters expose thousands of secrets from banks, govt, tech orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/",
+    "published": "2025-11-25 12:01:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dartmouth College confirms data breach after Clop extortion attack",
+    "link": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
+    "published": "2025-11-25 11:12:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Malicious Blender model files deliver StealC infostealing malware",
     "link": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
     "published": "2025-11-24 22:00:45"
@@ -16,17 +28,5 @@
     "title": "Real-estate finance services giant SitusAMC breach exposes client data",
     "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
     "published": "2025-11-24 17:36:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching",
-    "link": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
-    "published": "2025-11-24 15:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-    "published": "2025-11-24 14:32:40"
   }
 ]
