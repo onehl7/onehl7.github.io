@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft to remove WINS support after Windows Server 2025",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/",
-    "published": "2025-11-24 11:47:01"
+    "title": "Malicious Blender model files deliver StealC infostealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
+    "published": "2025-11-24 22:00:45"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/",
-    "published": "2025-11-24 10:41:50"
+    "title": "ClickFix attack uses fake Windows Update screen to push malware",
+    "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
+    "published": "2025-11-24 20:42:35"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop",
-    "link": "https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/",
-    "published": "2025-11-23 15:32:46"
+    "title": "Real-estate finance services giant SitusAMC breach exposes client data",
+    "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
+    "published": "2025-11-24 17:36:28"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Enterprise password security and secrets management with Passwork 7",
-    "link": "https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/",
-    "published": "2025-11-23 14:45:54"
+    "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching",
+    "link": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
+    "published": "2025-11-24 15:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Iberia discloses customer data leak after vendor security breach",
-    "link": "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/",
-    "published": "2025-11-23 13:46:25"
+    "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+    "published": "2025-11-24 14:32:40"
   }
 ]
