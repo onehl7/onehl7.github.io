@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+    "published": "2025-11-26 11:41:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
     "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
     "published": "2025-11-25 21:48:40"
@@ -22,11 +28,5 @@
     "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
     "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
     "published": "2025-11-25 17:09:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Exchange Online outage blocks access to Outlook mailboxes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/",
-    "published": "2025-11-25 16:18:12"
   }
 ]
