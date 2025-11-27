@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
+    "published": "2025-11-27 11:27:06"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
     "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
     "published": "2025-11-26 22:24:14"
@@ -22,11 +28,5 @@
     "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers",
     "link": "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/",
     "published": "2025-11-26 18:30:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Multiple London councils' IT systems disrupted by cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/",
-    "published": "2025-11-26 17:26:11"
   }
 ]
