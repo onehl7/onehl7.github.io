@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Windows 11 KB5070311 update fixes File Explorer freezes, search issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
+    "published": "2025-12-02 11:19:31"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Glassworm malware returns in third wave of malicious VS Code packages",
     "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/",
     "published": "2025-12-01 21:08:15"
@@ -22,11 +28,5 @@
     "title": "Retail giant Coupang data breach impacts 33.7 million customers",
     "link": "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/",
     "published": "2025-12-01 16:29:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
-    "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
-    "published": "2025-12-01 15:15:25"
   }
 ]
