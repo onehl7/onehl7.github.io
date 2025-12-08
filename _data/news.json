@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
+    "published": "2025-12-07 20:51:08"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Portugal updates cybercrime law to exempt security researchers",
+    "link": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
+    "published": "2025-12-07 15:09:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
     "link": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
     "published": "2025-12-06 19:07:33"
@@ -16,17 +28,5 @@
     "title": "Barts Health NHS discloses data breach after Oracle zero-day hack",
     "link": "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/",
     "published": "2025-12-05 18:55:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns of virtual kidnapping scams using altered social media photos",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
-    "published": "2025-12-05 16:37:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "A Practical Guide to Continuous Attack Surface Visibility",
-    "link": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
-    "published": "2025-12-05 15:00:10"
   }
 ]
