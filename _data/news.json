@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft investigates Copilot outage affecting users in Europe",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/",
+    "published": "2025-12-09 11:48:39"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ransomware gangs turn to Shanya EXE packer to hide EDR killers",
     "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/",
     "published": "2025-12-09 00:00:05"
@@ -22,11 +28,5 @@
     "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment",
     "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/",
     "published": "2025-12-08 18:31:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome adds new security layer for Gemini AI agentic browsing",
-    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/",
-    "published": "2025-12-08 18:08:52"
   }
 ]
