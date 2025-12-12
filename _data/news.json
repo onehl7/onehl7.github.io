@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
+    "published": "2025-12-12 11:28:06"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Geoserver flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
+    "published": "2025-12-12 09:48:31"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
+    "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
+    "published": "2025-12-12 08:43:16"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
+    "link": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
+    "published": "2025-12-12 07:14:31"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Brave browser starts testing agentic AI mode for automated tasks",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
     "published": "2025-12-11 23:03:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/",
-    "published": "2025-12-11 21:49:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Notepad++ fixes flaw that let attackers push malicious update files",
-    "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
-    "published": "2025-12-11 21:04:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
-    "published": "2025-12-11 20:54:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
-    "published": "2025-12-11 17:09:00"
   }
 ]
