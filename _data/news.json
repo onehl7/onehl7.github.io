@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "French Interior Ministry confirms cyberattack on email servers",
+    "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
+    "published": "2025-12-15 11:06:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: December security updates cause Message Queuing failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
+    "published": "2025-12-15 09:04:59"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
     "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
     "published": "2025-12-14 16:06:10"
@@ -16,17 +28,5 @@
     "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
     "published": "2025-12-12 23:23:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Coupang data breach traced to ex-employee who retained system access",
-    "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
-    "published": "2025-12-12 18:28:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
-    "published": "2025-12-12 17:12:47"
   }
 ]
