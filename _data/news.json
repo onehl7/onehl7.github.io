@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+    "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+    "published": "2025-12-14 16:06:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CyberVolk\u2019s ransomware debut stumbles on cryptography weakness",
+    "link": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
+    "published": "2025-12-13 15:11:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
     "published": "2025-12-12 23:23:25"
@@ -16,17 +28,5 @@
     "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles",
     "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
     "published": "2025-12-12 17:12:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
-    "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
-    "published": "2025-12-12 15:27:16"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Shadow spreadsheets: The security gap your tools can\u2019t see",
-    "link": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
-    "published": "2025-12-12 15:01:11"
   }
 ]
