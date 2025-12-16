@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "European authorities dismantle call center fraud ring in Ukraine",
+    "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
+    "published": "2025-12-16 11:44:06"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
     "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
     "published": "2025-12-16 00:38:47"
@@ -22,11 +28,5 @@
     "title": "New SantaStealer malware steals data from browsers, crypto wallets",
     "link": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
     "published": "2025-12-15 22:43:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PornHub extorted after hackers steal Premium member activity data",
-    "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
-    "published": "2025-12-15 21:27:07"
   }
 ]
