@@ -1,0 +1,32 @@
+name: PR site preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install required gems
+        run: |
+          gem install bundler --no-document
+          gem install jekyll jekyll-remote-theme jekyll-seo-tag webrick --no-document
+
+      - name: Build site
+        run: |
+          jekyll build --quiet --destination _site
+
+      - name: Upload site preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
