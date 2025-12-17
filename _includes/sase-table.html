@@ -1,0 +1,23 @@
+<div class="table-responsive">
+  <table class="sase-table">
+    <thead>
+      <tr>
+        <th>Dimension</th>
+        {% for v in site.data.sase_table.vendors %}
+        <th>{{ v.name }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in site.data.sase_table.rows %}
+      <tr>
+        <td>{{ row.dimension }}</td>
+        {% for v in site.data.sase_table.vendors %}
+          {% assign key = v.key %}
+          <td>{% if row[key] %}{{ row[key] | markdownify }}{% else %}&mdash;{% endif %}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

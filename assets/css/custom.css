@@ -13,3 +13,12 @@ h1 {
   color: #e0e6f5;
   letter-spacing: 2px;
 }
+
+/* SASE table responsive styles */
+.table-responsive { overflow-x:auto; -webkit-overflow-scrolling: touch; }
+.sase-table { width:100%; border-collapse:collapse; margin-bottom:1rem; }
+.sase-table th, .sase-table td { padding:0.5rem; text-align:left; vertical-align:top; border-bottom:1px solid rgba(255,255,255,0.06); }
+.sase-table th { font-weight:600; }
+@media (max-width: 700px) {
+  .sase-table th, .sase-table td { white-space: normal; font-size:0.9rem; }
+}

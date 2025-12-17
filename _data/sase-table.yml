@@ -1,0 +1,167 @@
+vendors:
+  - key: cisco
+    name: "Cisco Secure Access"
+  - key: microsoft
+    name: "Microsoft Global Secure Access (GSA)"
+  - key: netskope
+    name: "Netskope"
+  - key: zscaler
+    name: "Zscaler"
+
+rows:
+  - dimension: "Core components"
+    cisco: |
+      Cisco Secure Access cloud
+      - Secure Client
+      - Resource connectors
+      - Unified SSE console (login.sse.cisco.com)
+      Includes: SWG, CASB, DLP, ZTNA, FWaaS with IPS, VPNaaS, DNS security, AMP, Sandbox, DEM, RBI
+      For SASE: add-on SD‑WAN, XDR, DUO MFA/SSO, CSPM
+    microsoft: |
+      Entra Internet Access
+      Entra Private Access
+      GSA client
+      Private access connectors / remote networks
+      Entra portal / Intune portal
+      Includes: SWG, CASB, DLP, ZTA, Cloud Firewall for branches (preview)
+    netskope: |
+      Netskope SSE on NewEdge PoPs
+      - Netskope Client
+      - Connectors
+      Includes: Next‑gen SWG, CASB, ZTNA, DLP, FWaaS
+    zscaler: |
+      ZIA + ZPA on Zero Trust Exchange
+      - Zscaler Digital Experience (ZDX)
+      - Client Connector
+      - App connectors / private service edge
+
+  - dimension: "Tech insights"
+    cisco: "Advanced ZTA using MASQUE / QUIC; ZTA Module; Cisco KDF (Kernel Driver Framework); socket streaming"
+    microsoft: |
+      Traffic classification:
+      - Microsoft traffic (all M365, Teams, MS SaaS)
+      - Internet traffic
+      - Private Access for self‑hosted apps
+    netskope: |
+      Netskope Client inspects end‑device packets using OS packet filtering (traffic modes & exceptions vary by OS)
+      Client uses Forward Proxy Steering: SSL tunnel from device to Netskope forward proxy in cloud; tunnel carries steered traffic
+      Netskope IP ranges must bypass local SSL inspection; client‑cloud connections are certificate‑pinned to prevent MitM
+    zscaler: |
+      Zscaler Client Connector creates a virtual network adapter and uses packet‑filter based forwarding; apps use OS routing to forward traffic via this interface to the Zscaler service
+
+  - dimension: "AI"
+    cisco: "AI & ML for threat detection, protection, detect specific AI app usage, apply DLP policies to safeguard sensitive data"
+    microsoft: |
+      AI Gateway (part of Microsoft SSE)
+      - safeguards generative AI applications, agents, language models
+      - Prompt Shield: real‑time protection against malicious prompt injection (preview)
+    netskope: |
+      Netskope Copilot / Cloud Confidence Index (CCI); MCP Server; NPA
+      Private access leverages built‑in AI/ML to audit configurations and recommend optimized application segments & ZTNA policies
+    zscaler: ""
+
+  - dimension: "Main console model"
+    cisco: |
+      Secure Access cloud console for SSE (login.sse.cisco.com)
+      Also: SD‑WAN console (sd.swan.cisco.com), ISE, etc. when in full SASE
+    microsoft: |
+      All inside Entra portal: GSA + Conditional Access/compliance as main policy brain
+      Intune for Autopilot / conditional access workflows
+    netskope: "Single SSE console for SWG, CASB, DLP, ZTNA, FWaaS (centralized security console)"
+    zscaler: |
+      ZIA and ZPA modules/console — shared platform but distinct sections for Internet vs private; ZIA for Internet/SaaS, ZPA for Private Apps; separate admin portals
+
+  - dimension: "Policy"
+    cisco: "SSE policies unified in Secure Access, but NAC/SD‑WAN/security posture live in other Cisco tools"
+    microsoft: |
+      High policy unification for identity/device: Conditional Access and compliance apply across SaaS, private, and Internet; GSA‑specific traffic controls layered on; policies enforced by priority (100 highest, 65,000 lowest)
+      Baseline 'catch‑all' security profile; link security profile to Conditional Access if required; preview: filter network file content (DLP)
+    netskope: |
+      One policy framework for Web, SaaS, Private Apps and data controls
+      Steering Profile: steers which traffic to capture/send to Netskope vs bypass
+      Policies: first match, top‑to‑bottom
+    zscaler: "Strong SWG policies in ZIA and ZTNA policies in ZPA; handled in distinct views; centralized platform but separate policy UIs"
+
+  - dimension: "Admin experience"
+    cisco: "SSE & SASE: Best if you already live in Cisco security/SD‑WAN consoles; more moving parts but good convergence story. Cisco‑heavy shops (SD‑WAN, ISE, Duo) will find alignment with Secure Access policies."
+    microsoft: "SSE focused; Best if you live in Entra/M365 already; almost everything is Entra policy‑first with GSA as an extension. GSA policies are specializations of Conditional Access you already use."
+    netskope: "Very SSE‑focused, less tied to any single ecosystem; unified policies for Web, SaaS and private apps; single place for security, web & data policy."
+    zscaler: "SSE and SASE: Mature SWG/ZTNA controls; admins commonly work in terms of ZIA vs ZPA; richer but more segmented policy constructs and consoles."
+
+  - dimension: "User Client"
+    cisco: "Single Client (Cisco Secure Access); also supports clientless (browser‑based) access from unmanaged devices"
+    microsoft: "Global Secure Access (GSA) client\nBrowser Access for Private Apps (web/http(s)) and Browser Access AnyApp feature for non‑web apps"
+    netskope: "Netskope Client: Internet security, Private Access, Endpoint posture, DLP, Digital Experience Management (DEM)"
+    zscaler: "Zscaler Client Connector with ZIA/ZPA; ZDX as a lightweight module; Zscaler Endpoint DLP (optional)"
+
+  - dimension: "Branch connectivity"
+    cisco: "VPNaaS for Branch or SD‑WAN; Branch‑to‑Branch and Branch‑to‑Internet options"
+    microsoft: "IPsec tunnel between on‑prem device and the Global Secure Access endpoint"
+    netskope: "Netskope One SASE Branch — one gateway, one client, Zero Trust Engine, NewEdge, One Orchestrator"
+    zscaler: "Zscaler Branch Connector; Zero Trust SD‑WAN for branches"
+
+  - dimension: "On‑prem integration"
+    cisco: "(varies by deployment) app connectors, backhaul VPN or SD‑WAN integration for on‑prem apps"
+    microsoft: "Entra Private Access uses app proxy/connector model to expose apps via GSA; access controlled by Conditional Access"
+    netskope: "Netskope Private Access with local broker for on‑prem; Universal ZTNA for remote apps"
+    zscaler: "ZPA with public or private service edges; app connector model for private apps"
+
+  - dimension: "Internet / SWG"
+    cisco: "Integrated SWG, FWaaS, CASB, DLP, DNS security via Secure Access"
+    microsoft: "Entra Internet Access — still evolving; tightly linked to Entra/Defender signals"
+    netskope: "Strong NG‑SWG with deep DLP and app/SaaS controls; steering and inline modes available"
+    zscaler: "Mature ZIA SWG with global PoPs, URL filtering, CASB, DLP, FWaaS"
+
+  - dimension: "Private / ZTNA"
+    cisco: "Client‑based and clientless ZTNA, app‑level access; supports MASQUE/QUIC proxies"
+    microsoft: "Entra Private Access (App Proxy / connector) + Conditional Access"
+    netskope: "Netskope Private Access / Local Broker / Universal ZTNA"
+    zscaler: "ZPA with app connectors and private service edge options"
+
+  - dimension: "Private access — how?"
+    cisco: "Cisco Secure Access cloud PoPs to on‑prem hosted apps via App Connector or backhaul VPN (or both)"
+    microsoft: "GSA integrated with Entra/Conditional Access and device compliance; app connectors control access"
+    netskope: "Netskope Private Access uses connectors or local broker; configurable app segments and access policies"
+    zscaler: "Zscaler uses App Connector / Z‑Tunnel to service edges; connectors for private apps"
+
+  - dimension: "Auth / Identity integration"
+    cisco: "Supports IdPs via SAML/OIDC for Secure Access; can integrate with Duo/ISE; identity reused across Cisco stack; MFA and posture checks supported"
+    microsoft: "Native to Entra ID: uses same users, groups, Conditional Access, and device compliance across GSA and M365; leverages Intune/Defender for device posture and device objects"
+    netskope: "External IdP (Entra/Okta/etc.) via SAML/OIDC and SCIM; integrate and sync users/groups; client can leverage IdP SSO and OS session identity (avoid separate user/password flow)"
+    zscaler: "Integrate with IdP via SAML/OIDC; use SCIM/LDAP for provisioning; ZIA/ZPA share identity configuration, but some separate items per module"
+
+  - dimension: "DNS / synthetic IPs"
+    cisco: "Domain‑based flow redirection using random non‑routable loopback/synthetic IPs; KDF handles domain rule matching, synthetic IP→FQDN mapping and local cache"
+    microsoft: ""
+    netskope: "Google DNS used for geolocation to determine closest Netskope data center; synthetic IPs / steering used for traffic capture"
+    zscaler: "Browser isolation, CBI integrated with ZIA/ZPA; (Zscaler uses its own redirection and TCP/IP handling via client connector)"
+
+  - dimension: "DX / monitoring"
+    cisco: "(Cisco DEM / telemetry where deployed)"
+    microsoft: "(Entra/Intune and Defender provide telemetry; GSA surfaced in Entra portal)"
+    netskope: "Netskope Digital Experience Management (DEM) — real‑time visibility of managed device cloud/web access from any location"
+    zscaler: "ZDX — monitor granular details for users, devices, applications; detect user experience and productivity issues"
+
+  - dimension: "Coexistence"
+    cisco: "(Supports co‑existence with VPN and SD‑WAN; typical split‑tunnel guidance depends on deployment)"
+    microsoft: "Very strong if you are Entra ID/M365/Intune/Defender heavy; everything driven from Entra portal and Conditional Access (coexistence typically identity‑first)"
+    netskope: "Netskope with VPN — split tunnel mode recommended; flexible steering modes for capture vs bypass"
+    zscaler: "Vendor‑neutral but mature SASE/SSE; common coexistence patterns with SD‑WAN and branch connectors"
+
+  - dimension: "Emergency Access"
+    cisco: "(break‑glass methods available; vendor/platform dependent)"
+    microsoft: "If GSA is down, script‑based breakglass access defined by admins"
+    netskope: "(tenant specific; admins can define bypass and emergency access patterns)"
+    zscaler: "Zscaler supports breakglass and alternate routing configurations in enterprise deployments"
+
+  - dimension: "Ecosystem fit"
+    cisco: "Strong with Cisco SD‑WAN, ISE, AnyConnect migration, Duo, Umbrella heritage"
+    microsoft: "Very strong if you are Entra ID/M365/Intune/Defender heavy; policy driven from Entra portal and Conditional Access"
+    netskope: "Vendor‑neutral, focus on SSE depth and DLP / SaaS controls; integrates with SD‑WANs and IdPs"
+    zscaler: "Vendor‑neutral and very mature SSE; integrates widely with SD‑WAN / IdPs; large market adoption"
+
+  - dimension: "Cloud Access Security Broker (CASB) & notes"
+    cisco: "Built‑in CASB features, DLP and sandboxing integrated with Secure Access"
+    microsoft: "CASB features via Entra/Defender integration; policy driven through Entra"
+    netskope: "Full CASB functionality integrated into Netskope SSE; deep app discovery & controls"
+    zscaler: "CASB functionality in ZIA; strong app controls and DLP"
