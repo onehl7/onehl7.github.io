@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Denmark blames Russia for destructive cyberattack on water utility",
+    "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
+    "published": "2025-12-19 12:28:48"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
+    "published": "2025-12-19 10:25:06"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
+    "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
+    "published": "2025-12-19 09:19:40"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
     "published": "2025-12-19 01:15:19"
@@ -10,23 +28,5 @@
     "title": "University of Sydney suffers data breach exposing student and staff info",
     "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
     "published": "2025-12-18 20:22:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
-    "published": "2025-12-18 20:16:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New password spraying attacks target Cisco, PAN VPN gateways",
-    "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
-    "published": "2025-12-18 17:27:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
-    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
-    "published": "2025-12-18 16:13:03"
   }
 ]
