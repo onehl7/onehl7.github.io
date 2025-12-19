@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "HPE warns of maximum severity RCE flaw in OneView software",
-    "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-    "published": "2025-12-18 11:35:53"
+    "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
+    "published": "2025-12-19 01:15:19"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft: Recent Windows updates break RemoteApp connections",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
-    "published": "2025-12-18 10:04:25"
+    "title": "University of Sydney suffers data breach exposing student and staff info",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
+    "published": "2025-12-18 20:22:58"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-    "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-    "published": "2025-12-17 23:09:36"
+    "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+    "published": "2025-12-18 20:16:55"
   },
   {
     "source": "Bleeping Computer",
-    "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-    "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-    "published": "2025-12-17 22:20:02"
+    "title": "New password spraying attacks target Cisco, PAN VPN gateways",
+    "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
+    "published": "2025-12-18 17:27:25"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
-    "published": "2025-12-17 21:48:33"
+    "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
+    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
+    "published": "2025-12-18 16:13:03"
   }
 ]
