@@ -7,7 +7,7 @@ category: technology
 ## SASE and SSE Vendor Comparison
 
 This table compares different SASE and SSE vendors across various dimensions. 
-The content for this table is managed in the `_data/sase_sse.yml` file, making it easy to edit and update.
+
 
 <style>
   table {
@@ -18,6 +18,7 @@ The content for this table is managed in the `_data/sase_sse.yml` file, making i
     font-family: 'Inter', sans-serif;
     background-color: #1e293b; /* A dark slate color */
     color: #e0e6f5;
+    table-layout: fixed; /* Enforce even column widths */
   }
   table thead tr {
     background-color: #0f172a; /* A darker slate color */
@@ -29,6 +30,7 @@ The content for this table is managed in the `_data/sase_sse.yml` file, making i
   table td {
     padding: 12px 15px;
     border: 1px solid #334155; /* A lighter slate for borders */
+    word-wrap: break-word; /* Wrap long words */
   }
   table tbody tr {
     border-bottom: 1px solid #334155;
