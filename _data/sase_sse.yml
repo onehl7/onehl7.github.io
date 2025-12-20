@@ -1,0 +1,274 @@
+# This file contains the data for the SASE and SSE comparison table.
+# You can easily edit this file to add, remove, or modify the table contents.
+
+# The headers for the table columns.
+headers:
+  - Dimension
+  - Cisco Secure Access
+  - Microsoft Global Secure Access
+  - Netskope
+  - Zscaler
+
+# The rows of the table. 
+# Each row is a list of strings, corresponding to the headers above.
+# The content for the vendors is currently empty. You can fill it in here.
+rows:
+  - - Core components
+    - |
+      - Cisco Secure Access cloud
+      - Secure Client, 
+      - resource Connectors
+      Unified SSE console (login.sse.cisco.com)
+
+      Includes - SWG, CASB, DLP, ZTA, FWaaS with IPS, VPNaaS, DNS security, AMP, Sandbox, DEM, RBI*
+      For SASE, add-on  SD-WAN , XDR, DUO MFA/SSO, CSPM
+    - |
+      Example - 1 - Entra Internet Access
+      - Entra Private Access
+      - GSA client
+      - Private access connectors
+      - Remote networks 
+      - Entra portal
+      Intune portal
+      Includes - SWG, CASB, DLP, ZTA , Cloud Firewall for branches (preview)
+    - |
+      - Netskope SSE on NewEdge PoPs
+      - Netskope Client
+      - Connectors
+      Includes - Next-gen SWG, CASB, ZTNA, DLP, FWaaS
+    - |
+      - ZIA + ZPA on Zero Trust Exchange
+      - Zscaler Digital Experience (ZDX)
+      - Client Connector
+      - App connectors
+      - private service edge
+      
+  - - Tech Insights
+    - |
+      Advanced ZTA using MASQUE , QUIC ZTA Module, Cisco KDF(Kernel Driver Framework), socket streaming
+      
+    - |
+      Traffic classified 
+      - Microsoft Traffic - all M365, Teams, MS SaaS etc
+      - Internet Traffic 
+      - Private Access for self-hosted apps
+      
+    - |
+      Netskope Client inspects the end device packets using OS packet filtering capabilities (Traffic mode and exceptions)- process varies according to the OS and the presence of Explicit Proxy in the network.
+      
+      Client uses Forward Proxy Steering mechanism, creates an SSL tunnel from the end device and terminates it at the Netskope forward proxy in the Cloud. Tunnel carries traffic specified in steering configuration. 
+      
+      Netskope IP range must bypass any SSL decryption/inspection, All connections between the Netskope Client and Netskope cloud are Certificate-Pinned to prevent Man-in-the-Middle attacks, so attempting to inspect this connection will cause it to fail
+            
+    - |
+      Zscaler Client Connector creates a virtual network adapter and uses  packet-filter based forwarding, The app uses OS routing to forward traffic via this interface to the Zscaler service.
+      
+  - - AI
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Main console model
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Policy
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Admin experience
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - User Client
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Branch connectivity
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - On-prem integration
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Internet SWG
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Private ZTNA
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Private access -how
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Auth Identity integration
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - DNS
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - DX monitoring
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Coexistence
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Emergency Access
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+  - - Ecosystem fit
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+    - |
+      Example - 1
+      Example - 2
+
