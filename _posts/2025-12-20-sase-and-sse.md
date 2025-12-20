@@ -15,32 +15,26 @@ The content for this table is managed in the `_data/sase_sse.yml` file, making i
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
-    font-family: sans-serif;
-    min-width: 400px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    font-family: 'Inter', sans-serif;
+    background-color: #1e293b; /* A dark slate color */
+    color: #e0e6f5;
   }
   table thead tr {
-    background-color: #009879;
+    background-color: #0f172a; /* A darker slate color */
     color: #ffffff;
     text-align: left;
+    border-bottom: 2px solid #5eead4; /* A teal color for the header bottom border */
   }
   table th,
   table td {
     padding: 12px 15px;
-    border: 1px solid #dddddd;
+    border: 1px solid #334155; /* A lighter slate for borders */
   }
   table tbody tr {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #334155;
   }
   table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
-  }
-  table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
-  }
-  table tbody tr.active-row {
-    font-weight: bold;
-    color: #009879;
+    background-color: #0f172a; /* Use the darker slate for alternating rows */
   }
 </style>
 
