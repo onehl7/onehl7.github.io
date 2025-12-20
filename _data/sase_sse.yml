@@ -15,37 +15,40 @@ headers:
 rows:
   - - Core components
     - |
-      - Cisco Secure Access cloud
-      - Secure Client, 
-      - resource Connectors
+      Cisco Secure Access cloud
+      Secure Client
+      resource Connectors
       Unified SSE console (login.sse.cisco.com)
 
       Includes - SWG, CASB, DLP, ZTA, FWaaS with IPS, VPNaaS, DNS security, AMP, Sandbox, DEM, RBI*
       For SASE, add-on  SD-WAN , XDR, DUO MFA/SSO, CSPM
     - |
-      Example - 1 - Entra Internet Access
-      - Entra Private Access
-      - GSA client
-      - Private access connectors
-      - Remote networks 
-      - Entra portal
+      Entra Internet Access
+      Entra Private Access
+      GSA client
+      Private access connectors
+      Remote networks 
+      Entra portal
       Intune portal
       Includes - SWG, CASB, DLP, ZTA , Cloud Firewall for branches (preview)
     - |
-      - Netskope SSE on NewEdge PoPs
-      - Netskope Client
-      - Connectors
+      Netskope SSE on NewEdge PoPs
+      Netskope Client
+      Connectors
       Includes - Next-gen SWG, CASB, ZTNA, DLP, FWaaS
     - |
-      - ZIA + ZPA on Zero Trust Exchange
-      - Zscaler Digital Experience (ZDX)
-      - Client Connector
-      - App connectors
-      - private service edge
+      ZIA + ZPA on Zero Trust Exchange
+      Zscaler Digital Experience (ZDX)
+      Client Connector
+      App connectors
+      Private service edge
       
   - - Tech Insights
     - |
-      Advanced ZTA using MASQUE , QUIC ZTA Module, Cisco KDF(Kernel Driver Framework), socket streaming
+      Advanced ZTA using MASQUE
+      QUIC ZTA Module
+      Cisco KDF(Kernel Driver Framework)
+      socket streaming
       
     - |
       Traffic classified 
@@ -65,20 +68,24 @@ rows:
       
   - - AI
     - |
-      Example - 1
-      Example - 2
+      AI & ML for threat detection, protection and detect specific AI app usage 
+      Apply DLP policies to safeguard sensitive data
+      
     - |
-      Example - 1
-      Example - 2
+      AI Gateway, part of Microsoft's Security Service Edge (SSE) solution
+      Safeguards generative AI applications, agents, and language models
+      The Prompt Shield capability provides real-time protection against malicious prompt injection attacks, a top risk for LLMs. (currently in preview)
     - |
-      Example - 1
-      Example - 2
+      Netskope Copilot:- Cloud Confidence Index (CCI), MCP Server, NPA- Private access leverages built-in AI/ML capabilities that audit existing configurations and recommend optimized application segments and ZTNA policies based on real-time usage data
+      AI/ML integrated in Netskope products
     - |
       Example - 1
       Example - 2
   - - Main console model
     - |
-      Example - 1
+      Secure Access cloud console for SSE + Secure Client; (login.sse.cisco.com)
+      plus other Cisco consoles SD‑WAN (ssp.sdwan.cisco.com),  ISE, etc. in full SASE
+
       Example - 2
     - |
       Example - 1
