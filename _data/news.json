@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "RansomHouse upgrades encryption with multi-layered data processing",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
+    "published": "2025-12-20 15:23:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft confirms Teams is down and messages are delayed",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
     "published": "2025-12-19 20:04:28"
@@ -22,11 +28,5 @@
     "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
     "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
     "published": "2025-12-19 15:54:48"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
-    "published": "2025-12-19 15:00:45"
   }
 ]
