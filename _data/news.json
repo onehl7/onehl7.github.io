@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
+    "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+    "published": "2025-12-22 11:09:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
+    "published": "2025-12-22 09:46:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+    "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+    "published": "2025-12-22 09:00:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Docker Hardened Images now open source and available for free",
+    "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
+    "published": "2025-12-21 15:12:14"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "RansomHouse upgrades encryption with multi-layered data processing",
     "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
     "published": "2025-12-20 15:23:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Teams is down and messages are delayed",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
-    "published": "2025-12-19 20:04:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
-    "published": "2025-12-19 19:05:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
-    "published": "2025-12-19 17:19:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
-    "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
-    "published": "2025-12-19 15:54:48"
   }
 ]
