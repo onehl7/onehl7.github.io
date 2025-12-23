@@ -15,7 +15,7 @@ rows:
     - |
       - Cisco Secure Access cloud
       - Secure Client, 
-      - resource Connectors
+      - Resource Connectors
       - Unified SSE console (login.sse.cisco.com)
 
       Includes - SWG, CASB, DLP, ZTA, FWaaS with IPS, VPNaaS, DNS security, AMP, Sandbox, DEM, RBI*
@@ -48,6 +48,8 @@ rows:
       - ZTA Module
       - Cisco KDF(Kernel Driver Framework)
       - socket streaming
+      - remote workers consume Internet and corp apps via global cloud fabric. managed devices tunnel traffc with Secure Client while unmanaged devices use browser to safely access private apps
+      - cloud edge service hosting in AWS and Cisco's own data centers, resource connectors can be deployed in groups to connect to different regions for high availability, a resource connector connects to Cisco SSSE engine hosted on a public cloud region or a Cisco cloud region.
     - |
       Traffic classified 
       - Microsoft Traffic - all M365, Teams, MS SaaS etc
@@ -136,9 +138,7 @@ rows:
       Zscaler Client Connector with ZIA , ZPA, Zscaler Digital Experience (ZDX) as lightweight module , Zscaler Endpoint Data Loss Prevention (DLP)
   - - Branch connectivity
     - |
-      Using VPNaaS for Branch or SD-WAN
-      
-      Branch to Branch
+      Using VPNaaS (Head-end) or Cisco SD-WAN native integration for baranch, intersite connectivity
       
       Branch to Internet
     - |
@@ -148,52 +148,58 @@ rows:
     - |
       Zscaler Branch Connector, Zero Trust SD-WAN for branches
   - - On-prem integration
-    - ""
-    - ""
-    - ""
-    - ""
+    - |
+      On-prem users can connect using SD-WAN or IP-Sec VPN to Cisco Secure Access cloud,
+      Connectors for on-prem apps, Duo/ISE for identity, AnyConnect migration path
+    - |
+      Microsoft ILA in preview - no on-prem integration yet
+    - |
+      Neskope - tbc
+    - |
+      Zscaler private edge/service edge with connectors for on-prem apps
+
   - - Internet/SWG
     - |
-      Integrated SWG, FWaaS, CASB, DLP, DNS security via Secure Access.​
+      Integrated SWG, FWaaS, CASB, DLP, DNS security via Secure Access, Secure Internet Access (SIA)
       
       Browser Isolation- RBI
     - |
-      Entra Internet Access, still evolving vs traditional SWGs but tightly linked to Entra/Defender signals.​
+      Entra Internet Access, still evolving vs traditional SWGs but tightly linked to Entra/Defender signals
       
       SWG includes Web content filtering, URL category (preview), threat intelligence (preview)
       
       Internet access TLS Inspection capability - look at known limitations for more info
     - |
-      Strong NG-SWG with deep SaaS/app-level and DLP controls.​
+      Strong NG-SWG with deep SaaS/app-level and DLP controls.
     - |
-      Mature SWG (ZIA) with global PoPs, URL filtering, CASB, DLP, FWaaS.​
+      Mature SWG (ZIA) with global PoPs, URL filtering, CASB, DLP, FWaaS.
       
       Browser Isolation- CBI integrated with ZIA, ZPA
   - - Private/ZTNA
     - |
-      Client-based and clientless ZTNA, app-level access, uses connectors and can leverage new MASQUE/QUIC proxying with Secure Client.​
+      Client-based and clientless ZTNA, app-level access, uses connectors and can leverage new MASQUE/QUIC proxying with Secure Client, Secure Private Access(SPA)
     - |
-      Entra Private Access builds on App Proxy/connector model to expose apps via GSA; access controlled by Conditional Access.​
+      Entra Private Access builds on App Proxy/connector model to expose apps via GSA; access controlled by Conditional Access
       
       also supports Clientless (browser based) access from unmanaged devices
       
       Additional method - Browser Access for Private Apps - for web(http/https) and non-web using Browser Access AnyApp feature
     - |
-      Netskope Private Access and Local Broker / Universal ZTNA for on-prem and remote apps.​
+      Netskope Private Access and Local Broker / Universal ZTNA for on-prem and remote apps
     - |
-      ZPA for ZTNA with public or private service edges, robust app-connector model.​​
+      ZPA for ZTNA with public or private service edges, robust app-connector model
   - - Private access - how ?
     - |
-      Cisco Secure Access cloud service (PoPs in public cloud) to on-prem hosted Apps via App Connector or backhaul VPN or both
+      Cisco Secure Access cloud service (PoPs in public cloud) to on-prem hosted Apps via App Connector or backhaul VPN or both, in shorttwo models per app basis (ZTNA, micro tunnels per application) or VPNaaS
     - |
-      Global Secure Access client integrated with Entra account and Conditional Access/device compliance.​
+      Global Secure Access client integrated with Entra account and Conditional Access/device compliance
     - |
-      Netskope Client for SWG/ZTNA/posture; traffic tunneled to NewEdge or local broker.​
+      Netskope Client for SWG/ZTNA/posture; traffic tunneled to NewEdge or local broker
     - |
-      Client Connector for ZIA/ZPA; Z-Tunnel to service edges plus app connectors.​​
+      Client Connector for ZIA/ZPA; Z-Tunnel to service edges plus app connectors
   - - Auth / Identity integration
     - |
-      Supports IdPs via SAML/OIDC for Secure Access; can also tie into Duo/ISE; identity reused across Cisco stack
+      Supports IdPs via SAML/OIDC/SCIM for Secure Access; can also tie into Duo/ISE; identity reused across Cisco stack
       
       MFA and Posture checks if required
     - |
@@ -218,18 +224,24 @@ rows:
       Google DNS is used for geolocation purposes to determine the closest Netskope data center
     - ""
   - - DX Monitoring
-    - ""
-    - ""
+    - |
+      Cisco DX Monitoring - provides end-to-end visibility , called "Experience Insights" on Secure Access cloud portal , can integrate with Cisco ThousandEyes for deeper network insights, single place for everything about the user including SaaS performance Monitoring, also has "AI Insights"
+
+    - |
+       tbc
     - |
       Netskope Digital Experience Management (DEM) - providing real-time visibility of the managed device accessing the cloud and web from any location
     - |
       ZDX -monitor granular details for users, devices, applications,  detect user experience and productivity issues.
   - - Coexistence
-    - ""
-    - ""
     - |
-      Netskope with VPN - split tunnel mode recommended
-    - ""
+       Secure Aceess can coexist with Microsoft GSA, Netskope, Zscaler - tbc
+    - |
+      Microsoft GSA can coexist with other SASE/SSE vendors- tbc
+    - |
+      Netskope with VPN - split tunnel mode recommended -tbc
+    - |
+      Zscaler can coexist with other SASE/SSE vendors -tbc
   - - Emergency Access
     - ""
     - |
