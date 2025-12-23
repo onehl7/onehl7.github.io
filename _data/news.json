@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Cyberattack knocks offline France's postal, banking services",
+    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
+    "published": "2025-12-23 12:26:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Italy fines Apple $116 million over App Store privacy policy issues",
+    "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
+    "published": "2025-12-23 11:06:22"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Baker University says 2024 data breach impacts 53,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
+    "published": "2025-12-23 09:50:08"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Nissan says thousands of customers exposed in Red Hat breach",
     "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
     "published": "2025-12-22 21:32:11"
@@ -10,23 +28,5 @@
     "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
     "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
     "published": "2025-12-22 20:43:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
-    "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
-    "published": "2025-12-22 18:38:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious npm package steals WhatsApp accounts and messages",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-    "published": "2025-12-22 16:08:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Romanian water authority hit by ransomware attack over weekend",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-    "published": "2025-12-22 15:25:50"
   }
 ]
