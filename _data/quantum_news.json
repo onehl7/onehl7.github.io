@@ -1,6 +1,12 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists made atoms behave like a quantum circuit",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251222043243.htm",
+    "published": "2025-12-23 06:52:01"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "A quantum mystery that stumped scientists for decades is solved",
     "link": "https://www.sciencedaily.com/releases/2025/12/251217082509.htm",
     "published": "2025-12-17 15:52:37"
@@ -52,11 +58,5 @@
     "title": "Scientists just teleported information using light",
     "link": "https://www.sciencedaily.com/releases/2025/11/251129044516.htm",
     "published": "2025-11-29 15:29:45"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Quantum computers just simulated physics too complex for supercomputers",
-    "link": "https://www.sciencedaily.com/releases/2025/11/251118220104.htm",
-    "published": "2025-11-19 17:32:19"
   }
 ]
