@@ -42,6 +42,7 @@ rows:
       - Zscaler Digital Experience (ZDX)
       - Client Connector
       - App connectors/private service edge
+
   - - Tech insights
     - |
       - Advanced ZTA using MASQUE , QUIC
@@ -55,6 +56,8 @@ rows:
       - Microsoft Traffic - all M365, Teams, MS SaaS etc
       - Internet Traffic 
       - Private Access for self-hosted apps
+      - uses a lightweight filter (LWF) driver to acquire traffic, acquires traffic based on the traffic forwarding profiles you configure.
+      - This distinction allows the GSA client to coexist with these other solutions
     - |
       Netskope Client inspects the end device packets using OS packet filtering capabilities (Traffic mode and exceptions)- process varies according to the OS and the presence of Explicit Proxy in the network.
       
@@ -72,7 +75,9 @@ rows:
       Netskope Copilot:- Cloud Confidence Index (CCI), MCP Server, NPA- Private access leverages built-in AI/ML capabilities that audit existing configurations and recommend optimized application segments and ZTNA policies based on real-time usage data
       
       AI/ML integrated in Netskope products
-    - ""
+    - |
+      AI-powered SSE platform , AI-poweredinline threat protection, CBI, Phishing detection, C2 detection, RAC, App segmentation
+
   - - Main console model
     - |
       Secure Access cloud console for SSE + Secure Client; (login.sse.cisco.com)
@@ -131,7 +136,7 @@ rows:
     - |
       Single Client , (Cisco Secure Access)
     - |
-      Global Secure Access (GSA) Client 
+      Global Secure Access (GSA) Client , Clients are currently available for Windows, Android, macOS, and iOS.
     - |
       Netskope Client with Internet security, Private Access, Endpoint SD-WAN, Endpoint DLP, Digital Experience Management (DEM).
     - |
@@ -219,10 +224,14 @@ rows:
       Domain-based flow redirection using random non-routable loopback synthetic IP
       
       KDF handles domain rule matching , synthetic IP to FQDN mapping and cache of records
-    - ""
+    - |
+      Private DNS service allows you to add domain suffixes for the organization,any DNS queries matching FQDN are sent to the DNS proxy at GSA edge, if cached, DNS proxy will return response , if not then DNS proxy forwards to Connector, which uses local DNS server to resolve and passes response back to GSA edge.GSA client then assigns a synthetic IP address, and returns it back to the application. The synthetic IP is used to steer the application traffic to GSA edges. On the client, an entry in the Name Resolution Policy Table (NRPT) is generated (synthetic IPs - 6.6.x.x)for the suffix to resolve via the GSA client.NSLOOKUP doesn't follow NRPT rules. To force queries with the tunnel, use nslookup fs.contoso.local 6.6.255.254.
     - |
       Google DNS is used for geolocation purposes to determine the closest Netskope data center
-    - ""
+    - |
+      Few options , ZIA - can use Zscaler Trusted Resolver (ZTR), dns traffic can be tunneled or not-tunneled (“tunnel-less”) to ZIA & ZTR. synthetic IP are termed as Ghost IPs, In the transit option, Zscaler acts as a DNS proxy.
+      ZPA - client intercepts DNS requests , Zscaler Client Connector sends a synthetic IP in response to the DNS request or replies with NXDOMAIN 
+
   - - DX Monitoring
     - |
       Cisco DX Monitoring - provides end-to-end visibility , called "Experience Insights" on Secure Access cloud portal , can integrate with Cisco ThousandEyes for deeper network insights, single place for everything about the user including SaaS performance Monitoring, also has "AI Insights"
