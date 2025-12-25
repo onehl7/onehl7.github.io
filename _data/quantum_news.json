@@ -1,6 +1,18 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists found a way to make thermodynamics work in the quantum world",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251223084615.htm",
+    "published": "2025-12-23 16:00:40"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "\u201cPurifying\u201d photons: Scientists found a way to clean light itself",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251223084534.htm",
+    "published": "2025-12-23 14:51:14"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Physicists made atoms behave like a quantum circuit",
     "link": "https://www.sciencedaily.com/releases/2025/12/251222043243.htm",
     "published": "2025-12-23 06:52:01"
@@ -46,17 +58,5 @@
     "title": "New quantum antenna reveals a hidden terahertz world",
     "link": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
     "published": "2025-12-14 04:09:18"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists are turning Earth into a giant detector for hidden forces shaping our Universe",
-    "link": "https://www.sciencedaily.com/releases/2025/12/251205054737.htm",
-    "published": "2025-12-06 15:02:33"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists just teleported information using light",
-    "link": "https://www.sciencedaily.com/releases/2025/11/251129044516.htm",
-    "published": "2025-11-29 15:29:45"
   }
 ]
