@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "SASE and SSE Vendor Comparison"
+title: "SASE and SSE"
 category: technology
 ---
 
-## SASE and SSE Vendor Comparison
+## SASE and SSE Comparison
 
-This table compares different SASE and SSE vendors across various dimensions. 
+This table compares different SASE and SSE vendors across various dimensions. Intent is to understand these vendor product & solutions and make right decision for your specific requirements.
+Tip:- Gather and understand requirements (Business & Technical) clearly before selecting a vendor solution.
 
 
 <style>
