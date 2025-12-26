@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
+    "published": "2025-12-25 22:39:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google will finally allow you to change your @gmail.com address",
+    "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
+    "published": "2025-12-25 14:30:58"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
     "published": "2025-12-24 22:31:28"
@@ -16,17 +28,5 @@
     "title": "Microsoft Teams to let admins block external users via Defender portal",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
     "published": "2025-12-24 16:22:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "MongoDB warns admins to patch severe RCE flaw immediately",
-    "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
-    "published": "2025-12-24 14:18:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
-    "published": "2025-12-24 13:17:32"
   }
 ]
