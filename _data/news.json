@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Trust Wallet Chrome extension hack tied to millions in losses",
+    "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/",
+    "published": "2025-12-26 09:47:08"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
     "published": "2025-12-25 22:39:19"
@@ -22,11 +28,5 @@
     "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
     "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
     "published": "2025-12-24 17:44:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams to let admins block external users via Defender portal",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
-    "published": "2025-12-24 16:22:44"
   }
 ]
