@@ -1,6 +1,12 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "A new superconductor breaks rules physicists thought were fixed",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251226045350.htm",
+    "published": "2025-12-26 15:55:12"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Physicists found a way to make thermodynamics work in the quantum world",
     "link": "https://www.sciencedaily.com/releases/2025/12/251223084615.htm",
     "published": "2025-12-23 16:00:40"
@@ -52,11 +58,5 @@
     "title": "Kyndryl Launches Quantum Safe Assessment for Enterprise Cryptography",
     "link": "https://thequantuminsider.com/2025/12/15/kyndryl-quantum-safe-assessment-launch/",
     "published": "2025-12-15 16:30:41"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "New quantum antenna reveals a hidden terahertz world",
-    "link": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
-    "published": "2025-12-14 04:09:18"
   }
 ]
