@@ -1,8 +1,14 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Trust Wallet Chrome extension hack tied to millions in losses",
-    "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/",
+    "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
+    "published": "2025-12-26 20:22:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/",
     "published": "2025-12-26 09:47:08"
   },
   {
@@ -22,11 +28,5 @@
     "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
     "published": "2025-12-24 22:31:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
-    "published": "2025-12-24 17:44:46"
   }
 ]
