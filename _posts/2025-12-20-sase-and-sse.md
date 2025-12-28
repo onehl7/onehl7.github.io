@@ -59,3 +59,11 @@ Tip:- Gather and understand requirements (Business & Technical) clearly before s
     {% endfor %}
   </tbody>
 </table>
+
+## References
+
+Cisco - https://securitydocs.cisco.com/docs/csa/olh/118708.ditamap
+Zscaler - https://help.zscaler.com/
+Netskope - https://docs.netskope.com/en/
+Microsoft - https://learn.microsoft.com/en-us/entra/global-secure-access/
+

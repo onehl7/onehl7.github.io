@@ -41,7 +41,8 @@ rows:
       - ZIA + ZPA on Zero Trust Exchange
       - Zscaler Digital Experience (ZDX)
       - Client Connector
-      - App connectors/private service edge
+      - App connectors , Cloud Connector
+      - Private Service Edge
 
   - - Tech insights
     - |
@@ -82,7 +83,7 @@ rows:
     - |
       Secure Access cloud console for SSE + Secure Client; (login.sse.cisco.com)
       
-      plus other Cisco consoles SD‑WAN (ssp.sdwan.cisco.com),  ISE, etc. in full SASE
+      Plus other Cisco consoles SD‑WAN (ssp.sdwan.cisco.com),  ISE, etc. in full SASE
     - |
       All inside Entra portal: GSA plus Conditional Access/compliance as main policy brain.
       
@@ -92,7 +93,6 @@ rows:
     - |
       ZIA and ZPA modules/consoles; shared platform but separate sections for Internet vs private.
       ZIA for Internet and SaaS access, ZPA for Private apps.
-      
       Zscaler Client Connector Portal, ZIA and ZPA Admin Portals
   - - Policy
     - |
@@ -106,7 +106,7 @@ rows:
       
       Link a security profile to a Conditional Access policy if required.
       
-      Fileter network file content (preview) - DLP
+      Filter network file content (preview) - DLP
     - |
       One policy framework for web, SaaS, private apps and data controls.
       
@@ -115,6 +115,7 @@ rows:
       Netskope policies operate on the principle of first match, top-to-bottom.
     - |
       Strong, but SWG policies in ZIA and ZTNA policies in ZPA are handled in distinct views
+
   - - Admin experience
     - |
       SSE & SASE, Best if you already live in Cisco security/SD‑WAN consoles; more moving parts but good convergence story.
@@ -131,7 +132,7 @@ rows:
     - |
       SSE and SASE, Mature SWG/ZTNA controls; admins think in terms of ZIA vs ZPA daily.
       
-      Rich but more segmented policy constructs; admins commonly work across multiple consoles or modules for ZIA vs ZPA.
+      Rich but more segmented policy constructs; admins commonly work across multiple consoles or modules for ZIA, ZPA and ZDX
   - - User Client
     - |
       Single Client , (Cisco Secure Access)
@@ -140,7 +141,9 @@ rows:
     - |
       Netskope Client with Internet security, Private Access, Endpoint SD-WAN, Endpoint DLP, Digital Experience Management (DEM).
     - |
-      Zscaler Client Connector with ZIA , ZPA, Zscaler Digital Experience (ZDX) as lightweight module , Zscaler Endpoint Data Loss Prevention (DLP)
+      Managed using Zscaler Client Connector with ZIA , ZPA, Zscaler Digital Experience (ZDX) as lightweight module , Zscaler Endpoint Data Loss Prevention (DLP)
+      Unmanaged devices using CBI (Clientless)
+
   - - Branch connectivity
     - |
       Using VPNaaS (Head-end) or Cisco SD-WAN native integration for baranch, intersite connectivity
@@ -152,6 +155,7 @@ rows:
       Netskope One SASE Branch - One gateway, One Client, Zero Trust Engine, NewEdge, One Orchestrator
     - |
       Zscaler Branch Connector, Zero Trust SD-WAN for branches
+
   - - On-prem integration
     - |
       On-prem users can connect using SD-WAN or IP-Sec VPN to Cisco Secure Access cloud,
@@ -255,8 +259,10 @@ rows:
     - ""
     - |
       If Global Secure Access is down, script based breakglass access defined by admins.
-    - ""
-    - ""
+    - |
+      Netskope NPA using browser based or clientless can be used as emergency access feature
+    - |
+      Using browser based or clientless can be used and/or using Emergency Access feature, with limited availability, only supported for Privileged Remote Access (this feature is on top of IdP)
   - - Ecosystem fit
     - |
       Strong with Cisco SD‑WAN, ISE, AnyConnect migration, Duo, Umbrella heritage.​
