@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
+    "published": "2025-12-29 12:23:35"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
+    "published": "2025-12-29 11:16:03"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
     "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
     "published": "2025-12-28 20:38:15"
@@ -16,17 +28,5 @@
     "title": "Massive Rainbow Six Siege breach gives players billions of credits",
     "link": "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/",
     "published": "2025-12-28 05:44:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/",
-    "published": "2025-12-27 09:46:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake Grubhub emails promise tenfold return on sent cryptocurrency",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
-    "published": "2025-12-26 20:22:28"
   }
 ]
