@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "IBM warns of critical API Connect auth bypass vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
+    "published": "2025-12-31 10:34:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
+    "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
+    "published": "2025-12-31 09:43:26"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
     "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
     "published": "2025-12-30 21:08:28"
@@ -16,17 +28,5 @@
     "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
     "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
     "published": "2025-12-30 15:41:53"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
-    "published": "2025-12-30 15:25:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
-    "published": "2025-12-30 14:40:13"
   }
 ]
