@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
+    "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
+    "published": "2025-12-31 22:52:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+    "published": "2025-12-31 15:54:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+    "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+    "published": "2025-12-31 14:58:51"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "IBM warns of critical API Connect auth bypass vulnerability",
     "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
     "published": "2025-12-31 10:34:38"
@@ -10,23 +28,5 @@
     "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
     "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
     "published": "2025-12-31 09:43:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
-    "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
-    "published": "2025-12-30 21:08:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "European Space Agency confirms breach of \"external servers\"",
-    "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
-    "published": "2025-12-30 16:26:56"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
-    "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
-    "published": "2025-12-30 15:41:53"
   }
 ]
