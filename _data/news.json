@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
+    "published": "2026-01-01 19:18:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The biggest cybersecurity and cyberattack stories of 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/",
+    "published": "2026-01-01 16:15:26"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
+    "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
+    "published": "2026-01-01 15:18:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
     "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
     "published": "2025-12-31 22:52:44"
@@ -10,23 +28,5 @@
     "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
     "published": "2025-12-31 15:54:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
-    "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
-    "published": "2025-12-31 14:58:51"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "IBM warns of critical API Connect auth bypass vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
-    "published": "2025-12-31 10:34:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
-    "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
-    "published": "2025-12-31 09:43:26"
   }
 ]
