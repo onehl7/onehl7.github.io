@@ -1,6 +1,18 @@
 [
   {
     "source": "NASA",
+    "title": "Hubble Glimpses Galactic Gas Making a Getaway",
+    "link": "https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/",
+    "published": "2026-01-02 15:39:01"
+  },
+  {
+    "source": "ESA",
+    "title": "A neighbouring vista of stellar birth",
+    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth",
+    "published": "2026-01-02 09:37:00"
+  },
+  {
+    "source": "NASA",
     "title": "2026 AAS Town Hall Schedule",
     "link": "https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/",
     "published": "2025-12-31 02:00:43"
@@ -24,12 +36,6 @@
     "published": "2025-12-30 17:11:30"
   },
   {
-    "source": "NASA",
-    "title": "NASA\u2019s Chandra Rings in New Year With Champagne Cluster",
-    "link": "https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/",
-    "published": "2025-12-30 16:45:09"
-  },
-  {
     "source": "ESA",
     "title": "Fly through Webb\u2019s cosmic vistas",
     "link": "https://www.esa.int/ESA_Multimedia/Videos/2025/12/Fly_through_Webb_s_cosmic_vistas",
@@ -46,12 +52,6 @@
     "title": "Year in images 2025",
     "link": "https://www.esa.int/About_Us/Week_in_images/Year_in_images_2025",
     "published": "2025-12-21 11:05:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Galileo: the journey of satellites 33 and 34",
-    "link": "https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34",
-    "published": "2025-12-19 16:30:00"
   },
   {
     "source": "ESA",
