@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
+    "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
+    "published": "2026-01-06 11:16:54"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
     "published": "2026-01-05 22:52:16"
@@ -22,11 +28,5 @@
     "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
     "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
     "published": "2026-01-05 16:41:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ledger customers impacted by third-party Global-e data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-    "published": "2026-01-05 15:14:04"
   }
 ]
