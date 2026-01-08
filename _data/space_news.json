@@ -1,33 +1,51 @@
 [
   {
     "source": "NASA",
+    "title": "NASA Celebrates Artemis II During Houston Texans Space City Day",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/",
+    "published": "2026-01-07 22:40:11"
+  },
+  {
+    "source": "NASA",
+    "title": "25 Years in Orbit: Science, Innovation, and the Future of Exploration",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/",
+    "published": "2026-01-07 21:05:57"
+  },
+  {
+    "source": "NASA",
+    "title": "Lightning from Above",
+    "link": "https://www.nasa.gov/image-article/lightning-from-above/",
+    "published": "2026-01-07 16:26:56"
+  },
+  {
+    "source": "ESA",
+    "title": "Snow-covered Amsterdam",
+    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Snow-covered_Amsterdam",
+    "published": "2026-01-07 13:09:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Sentinel-1's decade of essential data over shifting ice sheets",
+    "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_s_decade_of_essential_data_over_shifting_ice_sheets",
+    "published": "2026-01-07 10:00:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Sandblasting on Mars",
+    "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars",
+    "published": "2026-01-07 10:00:00"
+  },
+  {
+    "source": "NASA",
+    "title": "Algae Swirls Across a South African Reservoir",
+    "link": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
+    "published": "2026-01-07 05:00:00"
+  },
+  {
+    "source": "NASA",
     "title": "Supernova Remnant Video From NASA\u2019s Chandra Is Decades in Making",
     "link": "https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/",
     "published": "2026-01-06 21:30:45"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Awards Launch Range Contract for Wallops Flight Facility",
-    "link": "https://www.nasa.gov/news-release/nasa-awards-launch-range-contract-for-wallops-flight-facility/",
-    "published": "2026-01-06 21:19:24"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Marshall Prepares for Demolition of Historic Test, Simulation Facilities",
-    "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-prepares-for-demolition-of-historic-test-simulation-facilities/",
-    "published": "2026-01-06 18:44:30"
-  },
-  {
-    "source": "NASA",
-    "title": "Scientists Identify \u2018Astronomy\u2019s Platypus\u2019 with NASA\u2019s Webb Telescope",
-    "link": "https://science.nasa.gov/missions/webb/scientists-identify-astronomys-platypus-with-nasas-webb-telescope/",
-    "published": "2026-01-06 17:16:00"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Webb Finds Early-Universe Analog\u2019s Unexpected Talent for Making Dust",
-    "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-early-universe-analogs-unexpected-talent-for-making-dust/",
-    "published": "2026-01-06 17:14:00"
   },
   {
     "source": "ESA",
@@ -40,23 +58,5 @@
     "title": "Press conference with ESA astronaut Sophie Adenot",
     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/Press_conference_with_ESA_astronaut_Sophie_Adenot",
     "published": "2026-01-05 16:30:00"
-  },
-  {
-    "source": "ESA",
-    "title": "From roots to rocket",
-    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/From_roots_to_rocket",
-    "published": "2026-01-05 08:20:00"
-  },
-  {
-    "source": "ESA",
-    "title": "A neighbouring vista of stellar birth",
-    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth",
-    "published": "2026-01-02 09:37:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Ministerial Council 2025",
-    "link": "https://www.esa.int/About_Us/Ministerial_Council_2025",
-    "published": "2025-11-18 10:39:00"
   }
 ]
