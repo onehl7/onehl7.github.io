@@ -1,6 +1,12 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum structured light could transform secure communication and computing",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260106001911.htm",
+    "published": "2026-01-07 01:28:28"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Tiny 3D-printed light cages could unlock the quantum internet",
     "link": "https://www.sciencedaily.com/releases/2026/01/260106001907.htm",
     "published": "2026-01-06 07:14:34"
@@ -24,39 +30,33 @@
     "published": "2025-12-23 14:51:14"
   },
   {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Physicists made atoms behave like a quantum circuit",
-    "link": "https://www.sciencedaily.com/releases/2025/12/251222043243.htm",
-    "published": "2025-12-23 06:52:01"
+    "source": "The Quantum Insider",
+    "title": "Photonic Inc. Selected for Canadian Quantum Champions Program",
+    "link": "https://thequantuminsider.com/2025/12/15/photonic-inc-canadian-quantum-champions/",
+    "published": "2025-12-15 17:51:01"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Italy\u2019s National Quantum Polo Aims to Boost Technological Sovereignty",
-    "link": "https://thequantuminsider.com/2025/12/19/italy-national-quantum-polo-initiative/",
-    "published": "2025-12-19 14:47:54"
+    "title": "Nord Quantique Receives $16 Million in Non-Dilutive Funding Through Canadian Quantum Champions Program",
+    "link": "https://thequantuminsider.com/2025/12/15/nord-quantique-canadian-quantum-champions-program/",
+    "published": "2025-12-15 17:31:51"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Guest Post \u2014 Building a Quantum Ready Nation",
-    "link": "https://thequantuminsider.com/2025/12/19/uk-quantum-leadership-2025/",
-    "published": "2025-12-19 13:40:50"
+    "title": "Atomic Josephson Junctions: How Bose-Einstein Condensates Replicate Shapiro Steps",
+    "link": "https://thequantuminsider.com/2025/12/15/bose-einstein-condensates-simulate-josephson-junctions/",
+    "published": "2025-12-15 16:47:44"
   },
   {
     "source": "The Quantum Insider",
-    "title": "TQI\u2019s Top Quantum Research Stories of 2025",
-    "link": "https://thequantuminsider.com/2025/12/19/tqis-top-quantum-research-stories-of-2025/",
-    "published": "2025-12-19 13:04:33"
+    "title": "Xanadu Selected for Canada\u2019s Quantum Champions Program",
+    "link": "https://thequantuminsider.com/2025/12/15/xanadu-23m-quantum-champions-canada/",
+    "published": "2025-12-15 16:46:29"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Quantum Technology Signals New Frontier for the Gaming Industry",
-    "link": "https://thequantuminsider.com/2025/12/19/quantum-technology-signals-new-frontier-for-the-gaming-industry/",
-    "published": "2025-12-19 08:26:07"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "QubitSolve Wins $1.2M NSF SBIR Grant to Unlock More Affordable Product Development with Quantum CFD",
-    "link": "https://thequantuminsider.com/2025/12/18/qubitsolve-nsf-phase-ii-quantum-cfd/",
-    "published": "2025-12-18 19:46:44"
+    "title": "Kyndryl Launches Quantum Safe Assessment for Enterprise Cryptography",
+    "link": "https://thequantuminsider.com/2025/12/15/kyndryl-quantum-safe-assessment-launch/",
+    "published": "2025-12-15 16:30:41"
   }
 ]
