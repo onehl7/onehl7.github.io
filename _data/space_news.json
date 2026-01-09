@@ -1,21 +1,51 @@
 [
   {
     "source": "NASA",
+    "title": "NASA to Provide Media with International Space Station Update Today",
+    "link": "https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/",
+    "published": "2026-01-08 19:26:06"
+  },
+  {
+    "source": "NASA",
+    "title": "Best of 2025: Artemis II Countdown Demonstration Test",
+    "link": "https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/",
+    "published": "2026-01-08 17:20:46"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA Starts Up Gateway\u2019s Power System for First Time",
+    "link": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/",
+    "published": "2026-01-08 17:04:25"
+  },
+  {
+    "source": "ESA",
+    "title": "ESA Director General\u2019s 2026 annual press briefing",
+    "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_Director_General_s_2026_annual_press_briefing",
+    "published": "2026-01-08 11:30:00"
+  },
+  {
+    "source": "ESA",
+    "title": "ESA preview 2026",
+    "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_preview_2026",
+    "published": "2026-01-08 10:00:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Tiny patches of deforestation drive tropical carbon loss",
+    "link": "https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tiny_patches_of_deforestation_drive_tropical_carbon_loss",
+    "published": "2026-01-08 07:30:00"
+  },
+  {
+    "source": "NASA",
+    "title": "Meltwater Turns Iceberg A-23A Blue",
+    "link": "https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/",
+    "published": "2026-01-08 05:01:00"
+  },
+  {
+    "source": "NASA",
     "title": "NASA Celebrates Artemis II During Houston Texans Space City Day",
     "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/",
     "published": "2026-01-07 22:40:11"
-  },
-  {
-    "source": "NASA",
-    "title": "25 Years in Orbit: Science, Innovation, and the Future of Exploration",
-    "link": "https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/",
-    "published": "2026-01-07 21:05:57"
-  },
-  {
-    "source": "NASA",
-    "title": "Lightning from Above",
-    "link": "https://www.nasa.gov/image-article/lightning-from-above/",
-    "published": "2026-01-07 16:26:56"
   },
   {
     "source": "ESA",
@@ -28,35 +58,5 @@
     "title": "Sentinel-1's decade of essential data over shifting ice sheets",
     "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_s_decade_of_essential_data_over_shifting_ice_sheets",
     "published": "2026-01-07 10:00:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Sandblasting on Mars",
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars",
-    "published": "2026-01-07 10:00:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Algae Swirls Across a South African Reservoir",
-    "link": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
-    "published": "2026-01-07 05:00:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Supernova Remnant Video From NASA\u2019s Chandra Is Decades in Making",
-    "link": "https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/",
-    "published": "2026-01-06 21:30:45"
-  },
-  {
-    "source": "ESA",
-    "title": "Cloud-9: a new celestial object found by Hubble",
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble",
-    "published": "2026-01-05 17:15:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Press conference with ESA astronaut Sophie Adenot",
-    "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/Press_conference_with_ESA_astronaut_Sophie_Adenot",
-    "published": "2026-01-05 16:30:00"
   }
 ]
