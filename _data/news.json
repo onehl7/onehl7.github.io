@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
-    "published": "2026-01-08 12:10:34"
+    "title": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails",
+    "link": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
+    "published": "2026-01-08 23:46:30"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Cisco warns of Identity Service Engine flaw with exploit code",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
-    "published": "2026-01-08 09:13:17"
+    "title": "New China-linked hackers breach telcos using edge device exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/",
+    "published": "2026-01-08 23:39:12"
   },
   {
     "source": "Bleeping Computer",
-    "title": "CISA tags max severity HPE OneView flaw as actively exploited",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
-    "published": "2026-01-08 07:45:25"
+    "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
+    "published": "2026-01-08 22:57:05"
   },
   {
     "source": "Bleeping Computer",
-    "title": "OpenAI says ChatGPT won't use your health information to train its models",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
-    "published": "2026-01-07 23:28:45"
+    "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
+    "published": "2026-01-08 22:43:00"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
-    "published": "2026-01-07 23:18:14"
+    "title": "VMware ESXi zero-days likely exploited a year before disclosure",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
+    "published": "2026-01-08 21:27:19"
   }
 ]
