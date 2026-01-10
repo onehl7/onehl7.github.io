@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
+    "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
+    "published": "2026-01-10 10:27:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
     "published": "2026-01-10 00:06:26"
@@ -22,11 +28,5 @@
     "title": "Hackers target misconfigured proxies to access paid LLM services",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
     "published": "2026-01-09 19:56:49"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Illinois Department of Human Services data breach affects 700K people",
-    "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
-    "published": "2026-01-09 15:37:41"
   }
 ]
