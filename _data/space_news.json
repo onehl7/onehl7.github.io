@@ -1,21 +1,39 @@
 [
   {
     "source": "NASA",
-    "title": "NASA to Provide Media with International Space Station Update Today",
-    "link": "https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/",
-    "published": "2026-01-08 19:26:06"
+    "title": "Final Steps Underway for NASA\u2019s First Crewed Artemis Moon Mission",
+    "link": "https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/",
+    "published": "2026-01-10 00:00:48"
   },
   {
     "source": "NASA",
-    "title": "Best of 2025: Artemis II Countdown Demonstration Test",
-    "link": "https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/",
-    "published": "2026-01-08 17:20:46"
+    "title": "Shaken, Not Stirred: NASA\u2019s StarBurst Aces Extreme Temperature Tests",
+    "link": "https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/",
+    "published": "2026-01-09 21:41:42"
   },
   {
     "source": "NASA",
-    "title": "NASA Starts Up Gateway\u2019s Power System for First Time",
-    "link": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/",
-    "published": "2026-01-08 17:04:25"
+    "title": "Flight Engineers Give NASA\u2019s Dragonfly Lift",
+    "link": "https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/",
+    "published": "2026-01-09 18:17:30"
+  },
+  {
+    "source": "NASA",
+    "title": "I Am Artemis: Dave Reynolds",
+    "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dave-reynolds/",
+    "published": "2026-01-09 17:29:03"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA\u2019s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond",
+    "link": "https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/",
+    "published": "2026-01-09 14:40:59"
+  },
+  {
+    "source": "ESA",
+    "title": "Week in images: 05-09 January 2026",
+    "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026",
+    "published": "2026-01-09 14:15:00"
   },
   {
     "source": "ESA",
@@ -31,32 +49,14 @@
   },
   {
     "source": "ESA",
+    "title": "ESA and Playmobil launch Mars mission collection",
+    "link": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Playmobil_launch_Mars_mission_collection",
+    "published": "2026-01-08 09:10:00"
+  },
+  {
+    "source": "ESA",
     "title": "Tiny patches of deforestation drive tropical carbon loss",
     "link": "https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tiny_patches_of_deforestation_drive_tropical_carbon_loss",
     "published": "2026-01-08 07:30:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Meltwater Turns Iceberg A-23A Blue",
-    "link": "https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/",
-    "published": "2026-01-08 05:01:00"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Celebrates Artemis II During Houston Texans Space City Day",
-    "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/",
-    "published": "2026-01-07 22:40:11"
-  },
-  {
-    "source": "ESA",
-    "title": "Snow-covered Amsterdam",
-    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Snow-covered_Amsterdam",
-    "published": "2026-01-07 13:09:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Sentinel-1's decade of essential data over shifting ice sheets",
-    "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_s_decade_of_essential_data_over_shifting_ice_sheets",
-    "published": "2026-01-07 10:00:00"
   }
 ]
