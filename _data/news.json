@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft is retiring 'Send to Kindle' in Word",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
+    "published": "2026-01-11 00:29:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
+    "published": "2026-01-10 18:17:31"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Spain arrests 34 suspects linked to Black Axe cyber crime",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/",
+    "published": "2026-01-10 15:17:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
     "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
     "published": "2026-01-10 10:27:38"
@@ -10,23 +28,5 @@
     "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
     "published": "2026-01-10 00:06:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-    "published": "2026-01-09 23:23:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft may soon allow IT admins to uninstall Copilot",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
-    "published": "2026-01-09 20:34:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers target misconfigured proxies to access paid LLM services",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
-    "published": "2026-01-09 19:56:49"
   }
 ]
