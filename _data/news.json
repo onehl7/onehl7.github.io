@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Instagram denies breach amid claims of 17 million account data leak",
+    "link": "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/",
+    "published": "2026-01-11 19:13:01"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "California bans data broker reselling health data of millions",
+    "link": "https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/",
+    "published": "2026-01-11 15:23:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft is retiring 'Send to Kindle' in Word",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
     "published": "2026-01-11 00:29:10"
@@ -16,17 +28,5 @@
     "title": "Spain arrests 34 suspects linked to Black Axe cyber crime",
     "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/",
     "published": "2026-01-10 15:17:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
-    "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
-    "published": "2026-01-10 10:27:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
-    "published": "2026-01-10 00:06:26"
   }
 ]
