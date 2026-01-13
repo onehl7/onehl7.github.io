@@ -1,27 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Guest Post \u2014 From Lab to Market: Rethinking Product-Market Fit in Quantum Computing",
-    "link": "https://thequantuminsider.com/2026/01/10/guest-post-from-lab-to-market-rethinking-product-market-fit-in-quantum-computing/",
-    "published": "2026-01-10 14:25:00"
+    "title": "NordVPN Outlines Major Quantum and Cyber Threats Emerging in 2026",
+    "link": "https://thequantuminsider.com/2026/01/12/cybersecurity-risks-2026-nordvpn/",
+    "published": "2026-01-12 17:07:48"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Lawmakers Introduce National Quantum Initiative Reauthorization Act After Lapse",
-    "link": "https://thequantuminsider.com/2026/01/08/lawmakers-reauthorize-national-quantum-initiative-reauthorization-act-after-lapse/",
-    "published": "2026-01-08 19:03:18"
+    "title": "The Quantum Economy Podcast: Before Q-Day With Andrew Cheung and Anders Indset",
+    "link": "https://thequantuminsider.com/2026/01/12/the-quantum-economy-podcast-before-q-day-with-andrew-cheung-and-anders-indset/",
+    "published": "2026-01-12 16:42:54"
   },
   {
     "source": "The Quantum Insider",
-    "title": "The Bloch Quantum Advances in EDA Tech Hub Competition",
-    "link": "https://thequantuminsider.com/2026/01/08/bloch-quantum-eda-final-stage/",
-    "published": "2026-01-08 13:23:34"
+    "title": "Rigetti Updates Timeline for Cepheus-1-108Q Quantum Processor",
+    "link": "https://thequantuminsider.com/2026/01/12/rigetti-delays-108-qubit-cepheus-system/",
+    "published": "2026-01-12 16:19:16"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Infleqtion and Churchill X Move Forward on SPAC Combination",
-    "link": "https://thequantuminsider.com/2026/01/08/infleqtion-and-churchill-x-move-forward-on-spac-combination/",
-    "published": "2026-01-08 12:48:11"
+    "title": "BTQ Technologies Launches Bitcoin Quantum Testnet",
+    "link": "https://thequantuminsider.com/2026/01/12/btq-technologies-launches-bitcoin-quantum-testnet/",
+    "published": "2026-01-12 14:51:10"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Guest Post \u2014 Beyond Post-Quantum Cryptography: Why Execution Integrity Is Central to Quantum-Safe Web3",
+    "link": "https://thequantuminsider.com/2026/01/12/execution-integrity-post-quantum-web3/",
+    "published": "2026-01-12 14:44:58"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A new crystal makes magnetism twist in surprising ways",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260112001039.htm",
+    "published": "2026-01-12 13:28:51"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -36,12 +48,6 @@
     "published": "2026-01-08 12:10:25"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "KAIST Researchers Develop Direct Printing of Nanolasers for Optical Computing and Quantum Security\u200b",
-    "link": "https://thequantuminsider.com/2026/01/08/kaist-researchers-develop-direct-printing-of-nanolasers-for-optical-computing-and-quantum-security/",
-    "published": "2026-01-08 11:39:13"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Quantum structured light could transform secure communication and computing",
     "link": "https://www.sciencedaily.com/releases/2026/01/260106001911.htm",
@@ -52,11 +58,5 @@
     "title": "Tiny 3D-printed light cages could unlock the quantum internet",
     "link": "https://www.sciencedaily.com/releases/2026/01/260106001907.htm",
     "published": "2026-01-06 07:14:34"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A new superconductor breaks rules physicists thought were fixed",
-    "link": "https://www.sciencedaily.com/releases/2025/12/251226045350.htm",
-    "published": "2025-12-26 15:55:12"
   }
 ]
