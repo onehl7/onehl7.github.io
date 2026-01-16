@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
+    "published": "2026-01-16 12:12:41"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
+    "published": "2026-01-16 10:29:58"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
+    "published": "2026-01-16 09:20:58"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Some Windows PCs fail to shut down after January update",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/",
+    "published": "2026-01-16 08:35:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google now lets you change your @gmail.com address, rolling out",
     "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
     "published": "2026-01-16 00:36:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ChatGPT is now more reliable at finding and remembering your past chat",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
-    "published": "2026-01-16 00:14:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
-    "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
-    "published": "2026-01-15 22:54:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Grubhub confirms hackers stole data in recent security breach",
-    "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
-    "published": "2026-01-15 21:38:51"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/",
-    "published": "2026-01-15 20:49:50"
   }
 ]
