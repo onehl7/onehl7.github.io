@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
+    "published": "2026-01-18 02:05:01"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
+    "link": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
+    "published": "2026-01-17 16:19:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Malicious GhostPoster browser extensions found with 840,000 installs",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/",
+    "published": "2026-01-17 15:23:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
     "published": "2026-01-16 23:43:49"
@@ -10,23 +28,5 @@
     "title": "OpenAI says its new ChatGPT ads won't influence answers",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/",
     "published": "2026-01-16 23:06:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "StealC hackers hacked as researchers hijack malware control panels",
-    "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
-    "published": "2026-01-16 21:00:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
-    "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
-    "published": "2026-01-16 19:00:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "China-linked hackers exploited Sitecore zero-day for initial access",
-    "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/",
-    "published": "2026-01-16 17:10:15"
   }
 ]
