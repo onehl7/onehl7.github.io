@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
+    "published": "2026-01-19 01:47:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New OpenAI leak hints at upcoming ChatGPT features",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
     "published": "2026-01-19 00:29:05"
@@ -22,11 +28,5 @@
     "title": "Google Chrome tests Gemini-powered AI \"Skills\"",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/",
     "published": "2026-01-18 03:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
-    "published": "2026-01-18 02:05:01"
   }
 ]
