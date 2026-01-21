@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
+    "published": "2026-01-21 12:16:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
+    "published": "2026-01-21 02:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
     "published": "2026-01-21 00:00:00"
@@ -16,17 +28,5 @@
     "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
     "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
     "published": "2026-01-20 22:12:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "VoidLink cloud malware shows clear signs of being AI-generated",
-    "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
-    "published": "2026-01-20 19:35:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
-    "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
-    "published": "2026-01-20 18:54:38"
   }
 ]
