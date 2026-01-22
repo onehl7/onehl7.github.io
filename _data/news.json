@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
+    "published": "2026-01-22 12:30:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
+    "published": "2026-01-22 11:49:12"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Zendesk ticket systems hijacked in massive global spam wave",
     "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
     "published": "2026-01-21 23:46:53"
@@ -16,17 +28,5 @@
     "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
     "published": "2026-01-21 22:16:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Android malware uses AI to click on hidden browser ads",
-    "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
-    "published": "2026-01-21 22:07:53"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Online retailer PcComponentes says data breach claims are fake",
-    "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
-    "published": "2026-01-21 20:55:19"
   }
 ]
