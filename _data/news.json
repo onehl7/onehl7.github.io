@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
-    "published": "2026-01-22 12:30:30"
+    "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
+    "published": "2026-01-22 21:43:43"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
-    "published": "2026-01-22 11:49:12"
+    "title": "Curl ending bug bounty program after flood of AI slop reports",
+    "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
+    "published": "2026-01-22 19:01:36"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Zendesk ticket systems hijacked in massive global spam wave",
-    "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
-    "published": "2026-01-21 23:46:53"
+    "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
+    "published": "2026-01-22 18:44:21"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Chainlit AI framework bugs let hackers breach cloud environments",
-    "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
-    "published": "2026-01-21 22:37:04"
+    "title": "Microsoft Teams to add brand impersonation warnings to calls",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
+    "published": "2026-01-22 16:28:47"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
-    "published": "2026-01-21 22:16:21"
+    "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/",
+    "published": "2026-01-22 16:21:17"
   }
 ]
