@@ -1,33 +1,51 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Oxford Team Engineer Quantum-enabled Proteins, Opening a New Frontier in Biotechnology",
-    "link": "https://thequantuminsider.com/2026/01/21/oxford-team-engineer-quantum-enabled-proteins-opening-a-new-frontier-in-biotechnology/",
-    "published": "2026-01-21 16:04:29"
+    "title": "01 Quantum Reports Fiscal 2025 Progress Across PQC Products and Revenue Growth",
+    "link": "https://thequantuminsider.com/2026/01/22/01-quantum-reports-fiscal-2025-progress-across-pqc-products-and-revenue-growth/",
+    "published": "2026-01-22 18:01:30"
   },
   {
     "source": "The Quantum Insider",
-    "title": "KAUST Establishes Quantum Foundry for National Quantum Hardware Development in Saudi Arabia",
-    "link": "https://thequantuminsider.com/2026/01/21/kaust-establishes-quantum-foundry-national-quantum-hardware-saudi-arabia/",
-    "published": "2026-01-21 15:07:18"
+    "title": "Qunnect Adds Scott Faris to Board of Directors",
+    "link": "https://thequantuminsider.com/2026/01/22/qunnect-scott-faris-board-appointment/",
+    "published": "2026-01-22 17:07:28"
   },
   {
     "source": "The Quantum Insider",
-    "title": "MIT Researchers Demonstrate Faster Cooling Method for Chip-Based Trapped-Ion Quantum Systems",
-    "link": "https://thequantuminsider.com/2026/01/21/mit-researchers-demonstrate-faster-cooling-chip-based-trapped-ion-quantum-systems/",
-    "published": "2026-01-21 14:56:44"
+    "title": "IBM and Keyfactor Partner for Enterprise Post-Quantum Security",
+    "link": "https://thequantuminsider.com/2026/01/22/ibm-keyfactor-partner-enterprise-post-quantum-security/",
+    "published": "2026-01-22 14:42:01"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Alice & Bob Develops \u2018Elevator Codes\u2019 to Slash Error Rates on Cat Qubit Quantum Computers",
-    "link": "https://thequantuminsider.com/2026/01/21/alice-bob-develops-elevator-codes-to-slash-error-rates-on-cat-qubit-quantum-computers/",
-    "published": "2026-01-21 14:02:00"
+    "title": "01Quantum to Host Webinar on Securing AI Inference Against Adversarial Threats in 2026",
+    "link": "https://thequantuminsider.com/2026/01/22/01quantum-to-host-webinar-on-securing-ai-inference-against-adversarial-threats-in-2026/",
+    "published": "2026-01-22 14:00:00"
   },
   {
     "source": "The Quantum Insider",
-    "title": "50 Million Euro European Pilot \u2018Photonics For Quantum\u2019 Launched",
-    "link": "https://thequantuminsider.com/2026/01/21/50-million-euro-european-pilot-photonics-for-quantum-launched/",
-    "published": "2026-01-21 13:57:41"
+    "title": "New Insight Into Light\u2013Matter Thermalization Could Advance Neutral-Atom Quantum Computing",
+    "link": "https://thequantuminsider.com/2026/01/22/new-insight-into-light-matter-thermalization-could-advance-neutral-atom-quantum-computing/",
+    "published": "2026-01-22 09:44:27"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists challenge a 200-year-old law of thermodynamics at the atomic scale",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260121034140.htm",
+    "published": "2026-01-22 07:27:26"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Researchers unlocked a new shortcut to quantum materials",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
+    "published": "2026-01-22 05:03:43"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A tiny spin change just flipped a famous quantum effect",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260121233400.htm",
+    "published": "2026-01-22 04:43:56"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -40,23 +58,5 @@
     "title": "A new crystal makes magnetism twist in surprising ways",
     "link": "https://www.sciencedaily.com/releases/2026/01/260112001039.htm",
     "published": "2026-01-12 13:28:51"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists tried to break Einstein\u2019s speed of light rule",
-    "link": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
-    "published": "2026-01-08 12:37:11"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A quantum discovery that breaks the rules of heating",
-    "link": "https://www.sciencedaily.com/releases/2026/01/260107225539.htm",
-    "published": "2026-01-08 12:10:25"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Quantum structured light could transform secure communication and computing",
-    "link": "https://www.sciencedaily.com/releases/2026/01/260106001911.htm",
-    "published": "2026-01-07 01:28:28"
   }
 ]
