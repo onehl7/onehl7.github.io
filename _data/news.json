@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA says critical VMware RCE flaw now actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
+    "published": "2026-01-26 11:49:41"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
     "published": "2026-01-26 01:01:12"
@@ -22,11 +28,5 @@
     "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
     "published": "2026-01-25 01:59:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems",
-    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
-    "published": "2026-01-24 21:58:42"
   }
 ]
