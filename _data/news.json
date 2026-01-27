@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+    "published": "2026-01-27 12:25:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New malware service guarantees phishing extensions on Chrome web store",
     "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
     "published": "2026-01-26 23:46:09"
@@ -22,11 +28,5 @@
     "title": "Cloudflare misconfiguration behind recent BGP route leak",
     "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
     "published": "2026-01-26 17:50:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "EU launches investigation into X over Grok-generated sexual images",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
-    "published": "2026-01-26 17:14:29"
   }
 ]
