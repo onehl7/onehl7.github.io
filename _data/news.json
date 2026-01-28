@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Slovakian man pleads guilty to operating darknet marketplace",
+    "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
+    "published": "2026-01-28 12:49:05"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
+    "published": "2026-01-28 11:48:26"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
     "published": "2026-01-28 00:04:45"
@@ -16,17 +28,5 @@
     "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
     "published": "2026-01-27 22:26:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WinRAR path traversal flaw still exploited by numerous hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
-    "published": "2026-01-27 19:38:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nike investigates data breach after extortion gang leaks files",
-    "link": "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/",
-    "published": "2026-01-27 16:45:46"
   }
 ]
