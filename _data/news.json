@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Crypto wallets received a record $158 billion in illicit funds last year",
+    "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
+    "published": "2026-01-30 18:49:51"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft to disable NTLM by default in future Windows releases",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
+    "published": "2026-01-30 17:08:57"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Operation Switch Off dismantles major pirate TV streaming services",
+    "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
+    "published": "2026-01-30 16:39:43"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
+    "published": "2026-01-30 14:48:49"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
     "published": "2026-01-30 12:02:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
-    "published": "2026-01-30 00:21:49"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hugging Face abused to spread thousands of Android malware variants",
-    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
-    "published": "2026-01-29 22:08:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
-    "published": "2026-01-29 22:07:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
-    "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
-    "published": "2026-01-29 19:29:17"
   }
 ]
