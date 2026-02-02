@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug causing password sign-in option to disappear",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
+    "published": "2026-02-02 11:34:34"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NationStates confirms data breach, shuts down game site",
+    "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
+    "published": "2026-02-02 10:05:57"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Exposed MongoDB instances still targeted in data extortion attacks",
     "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
     "published": "2026-02-01 16:27:00"
@@ -16,17 +28,5 @@
     "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
     "published": "2026-02-01 02:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-    "published": "2026-02-01 01:26:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
-    "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
-    "published": "2026-01-31 17:33:42"
   }
 ]
