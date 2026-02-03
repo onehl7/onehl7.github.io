@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+    "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+    "published": "2026-02-03 12:43:37"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
     "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
     "published": "2026-02-02 22:04:19"
@@ -22,11 +28,5 @@
     "title": "Mozilla announces switch to disable all Firefox AI features",
     "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
     "published": "2026-02-02 18:09:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: January update shutdown bug affects more Windows PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
-    "published": "2026-02-02 17:17:30"
   }
 ]
