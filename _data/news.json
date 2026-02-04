@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
+    "published": "2026-02-04 12:58:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
+    "published": "2026-02-04 11:24:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
+    "published": "2026-02-04 02:04:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
     "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
     "published": "2026-02-03 21:33:23"
@@ -10,23 +28,5 @@
     "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
     "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
     "published": "2026-02-03 20:25:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
-    "published": "2026-02-03 19:37:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Iron Mountain: Data breach mostly limited to marketing materials",
-    "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
-    "published": "2026-02-03 16:49:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
-    "published": "2026-02-03 15:01:11"
   }
 ]
