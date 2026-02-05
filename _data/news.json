@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Newsletter platform Substack notifies users of data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
+    "published": "2026-02-05 12:54:48"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
+    "published": "2026-02-05 11:16:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
+    "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
+    "published": "2026-02-05 10:22:36"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers compromise NGINX servers to redirect user traffic",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
     "published": "2026-02-04 23:26:56"
@@ -10,23 +28,5 @@
     "title": "Critical n8n flaws disclosed along with public exploits",
     "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
     "published": "2026-02-04 21:14:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-    "published": "2026-02-04 17:38:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
-    "published": "2026-02-04 15:42:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Double-Edged Sword of Non-Human Identities",
-    "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
-    "published": "2026-02-04 15:05:15"
   }
 ]
