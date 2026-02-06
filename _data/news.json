@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+    "published": "2026-02-06 12:34:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Flickr discloses potential data breach exposing users' names, emails",
+    "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
+    "published": "2026-02-06 09:43:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders federal agencies to replace end-of-life edge devices",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+    "published": "2026-02-06 08:41:11"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Spain's Ministry of Science shuts down systems after breach claims",
     "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
     "published": "2026-02-05 21:23:00"
@@ -10,23 +28,5 @@
     "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
     "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
     "published": "2026-02-05 20:57:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to shut down Exchange Online EWS in April 2027",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
-    "published": "2026-02-05 18:07:41"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Italian university La Sapienza goes offline after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-    "published": "2026-02-05 17:02:45"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
-    "published": "2026-02-05 15:15:49"
   }
 ]
