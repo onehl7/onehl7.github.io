@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Payments platform BridgePay confirms ransomware attack behind outage",
+    "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
+    "published": "2026-02-07 09:47:10"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Germany warns of Signal account hijacking targeting senior figures",
     "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
     "published": "2026-02-06 20:00:33"
@@ -22,11 +28,5 @@
     "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
     "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
     "published": "2026-02-06 15:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "EU says TikTok faces large fine over \"addictive design\"",
-    "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
-    "published": "2026-02-06 13:53:53"
   }
 ]
