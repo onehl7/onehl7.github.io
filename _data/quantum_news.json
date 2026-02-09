@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists solve a quantum mystery that stumped scientists for decades",
+    "link": "https://www.sciencedaily.com/releases/2026/02/260208011010.htm",
+    "published": "2026-02-08 11:29:16"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Podcast with Joe Ghalbouni \u2013 Ghalbouni consulting, formerly with Point72 hedge fund",
     "link": "https://thequantuminsider.com/2026/02/07/podcast-with-joe-ghalbouni-ghalbouni-consulting-formerly-with-point72-hedge-fund/",
@@ -52,11 +58,5 @@
     "title": "Scientists discover hidden geometry that bends electrons like gravity",
     "link": "https://www.sciencedaily.com/releases/2026/01/260131084616.htm",
     "published": "2026-02-01 10:04:50"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A hidden magnetic order could unlock superconductivity",
-    "link": "https://www.sciencedaily.com/releases/2026/01/260126231849.htm",
-    "published": "2026-01-27 04:39:16"
   }
 ]
