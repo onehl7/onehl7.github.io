@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "BeyondTrust warns of critical RCE flaw in remote support software",
+    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
+    "published": "2026-02-09 13:07:03"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
+    "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
+    "published": "2026-02-09 11:41:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
+    "published": "2026-02-09 10:47:25"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "European Commission discloses breach that exposed staff data",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
+    "published": "2026-02-09 09:49:04"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New tool blocks imposter attacks disguised as safe commands",
     "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
     "published": "2026-02-08 15:26:48"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
-    "link": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
-    "published": "2026-02-07 15:09:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Payments platform BridgePay confirms ransomware attack behind outage",
-    "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
-    "published": "2026-02-07 09:47:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Germany warns of Signal account hijacking targeting senior figures",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
-    "published": "2026-02-06 20:00:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
-    "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
-    "published": "2026-02-06 18:35:11"
   }
 ]
