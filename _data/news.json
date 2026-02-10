@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Chinese cyberspies breach Singapore's four largest telcos",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
+    "published": "2026-02-09 22:47:53"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
+    "published": "2026-02-09 20:28:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers breach SmarterTools network using flaw in its own software",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
+    "published": "2026-02-09 19:08:58"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Password guessing without AI: How attackers build targeted wordlists",
+    "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
+    "published": "2026-02-09 15:01:11"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BeyondTrust warns of critical RCE flaw in remote support software",
     "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
     "published": "2026-02-09 13:07:03"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
-    "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
-    "published": "2026-02-09 11:41:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
-    "published": "2026-02-09 10:47:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "European Commission discloses breach that exposed staff data",
-    "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
-    "published": "2026-02-09 09:49:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New tool blocks imposter attacks disguised as safe commands",
-    "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
-    "published": "2026-02-08 15:26:48"
   }
 ]
