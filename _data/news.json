@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
+    "link": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
+    "published": "2026-02-10 13:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+    "published": "2026-02-10 08:17:54"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Chinese cyberspies breach Singapore's four largest telcos",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
     "published": "2026-02-09 22:47:53"
@@ -16,17 +28,5 @@
     "title": "Hackers breach SmarterTools network using flaw in its own software",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
     "published": "2026-02-09 19:08:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Password guessing without AI: How attackers build targeted wordlists",
-    "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
-    "published": "2026-02-09 15:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BeyondTrust warns of critical RCE flaw in remote support software",
-    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
-    "published": "2026-02-09 13:07:03"
   }
 ]
