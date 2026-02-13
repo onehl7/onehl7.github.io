@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+    "published": "2026-02-13 12:35:09"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug that blocked Google Chrome from launching",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
+    "published": "2026-02-13 09:31:01"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
     "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
     "published": "2026-02-12 22:57:54"
@@ -16,17 +28,5 @@
     "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
     "published": "2026-02-12 21:34:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-    "published": "2026-02-12 21:01:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
-    "published": "2026-02-12 19:16:38"
   }
 ]
