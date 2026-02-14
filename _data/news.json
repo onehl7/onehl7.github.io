@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Fake job recruiters hide malware in developer coding challenges",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
+    "published": "2026-02-13 22:35:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+    "published": "2026-02-13 20:21:43"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
+    "published": "2026-02-13 18:35:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
+    "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
+    "published": "2026-02-13 15:05:15"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
     "published": "2026-02-13 12:35:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug that blocked Google Chrome from launching",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
-    "published": "2026-02-13 09:31:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
-    "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
-    "published": "2026-02-12 22:57:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bitwarden introduces \u2018Cupid Vault\u2019 for secure password sharing",
-    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
-    "published": "2026-02-12 21:55:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
-    "published": "2026-02-12 21:34:12"
   }
 ]
