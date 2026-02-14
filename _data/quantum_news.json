@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "UCLA Launches SoCal Quantum Alliance to Accelerate Quantum Innovation And Workforce Development",
-    "link": "https://thequantuminsider.com/2026/02/12/ucla-launches-socal-quantum-alliance-to-accelerate-quantum-innovation-and-workforce-development/",
-    "published": "2026-02-12 21:44:10"
+    "title": "AI Scientist Spots What Physicists Missed in Gluon Scattering",
+    "link": "https://thequantuminsider.com/2026/02/13/ai-scientist-spots-what-physicists-missed-in-gluon-scattering/",
+    "published": "2026-02-13 23:14:48"
   },
   {
     "source": "The Quantum Insider",
-    "title": "EuroHPC Deploys Euro-Q-Exa Quantum Computer in Germany",
-    "link": "https://thequantuminsider.com/2026/02/12/europe-launches-euro-q-exa-quantum-computer-germany/",
-    "published": "2026-02-12 20:35:39"
+    "title": "Xanadu Publishes Quantum Algorithm for Simulating Photochemical Reactions",
+    "link": "https://thequantuminsider.com/2026/02/13/xanadu-quantum-algorithm-photochemical-simulation/",
+    "published": "2026-02-13 15:31:00"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Florida Awards $4.95 Million to Palm Beach State College to Launch Quantum Workforce Training Program",
-    "link": "https://thequantuminsider.com/2026/02/12/florida-awards-4-95-million-to-palm-beach-state-college-to-launch-quantum-workforce-training-program/",
-    "published": "2026-02-12 19:31:23"
+    "title": "NSF Launches $100 Million National Quantum And Nanotechnology Research Infrastructure program",
+    "link": "https://thequantuminsider.com/2026/02/13/nsf-launches-100-million-national-quantum-and-nanotechnology-research-infrastructure-program/",
+    "published": "2026-02-13 15:11:49"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Investment Firm Plays Down Near-Term Quantum Threats to Bitcoin, Outlines Security Coordination Effort",
-    "link": "https://thequantuminsider.com/2026/02/12/investment-firm-plays-down-near-term-quantum-threats-to-bitcoin-outlines-security-coordination-effort/",
-    "published": "2026-02-12 14:47:50"
+    "title": "Photonic and TELUS Demonstrate Quantum Teleportation Over Commercial Fibre Network",
+    "link": "https://thequantuminsider.com/2026/02/13/photonic-telus-quantum-teleportation-commercial-fibre/",
+    "published": "2026-02-13 15:05:58"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Q.ANT Appoints Dr. Lars Bach as Vice President Operations",
-    "link": "https://thequantuminsider.com/2026/02/12/q-ant-appoints-lars-bach-vp-operations/",
-    "published": "2026-02-12 13:59:10"
+    "title": "Cosylab Webinar Explores Engineering Barriers to Scaling Quantum Sensing and NV Technologies",
+    "link": "https://thequantuminsider.com/2026/02/13/cosylab-webinar-explores-engineering-barriers-to-scaling-quantum-sensing-and-nv-technologies/",
+    "published": "2026-02-13 13:59:44"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Twisted 2D magnet creates skyrmions for ultra dense data storage",
+    "link": "https://www.sciencedaily.com/releases/2026/02/260212234158.htm",
+    "published": "2026-02-13 12:36:20"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "A superfluid freezes and breaks the rules of physics",
     "link": "https://www.sciencedaily.com/releases/2026/02/260204121545.htm",
     "published": "2026-02-06 04:15:38"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A tiny light trap could unlock million qubit quantum computers",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260201223737.htm",
-    "published": "2026-02-02 05:01:14"
   }
 ]
