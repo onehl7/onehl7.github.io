@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
+    "published": "2026-02-14 16:02:34"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
+    "published": "2026-02-14 15:15:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake job recruiters hide malware in developer coding challenges",
     "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
     "published": "2026-02-13 22:35:37"
@@ -16,17 +28,5 @@
     "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
     "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
     "published": "2026-02-13 18:35:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
-    "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
-    "published": "2026-02-13 15:05:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
-    "published": "2026-02-13 12:35:09"
   }
 ]
