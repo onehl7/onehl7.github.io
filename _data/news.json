@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
+    "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
+    "published": "2026-02-16 00:29:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
+    "published": "2026-02-15 22:08:53"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
+    "published": "2026-02-15 16:30:41"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
+    "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
+    "published": "2026-02-15 15:17:27"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
     "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
     "published": "2026-02-14 16:02:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
-    "published": "2026-02-14 15:15:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake job recruiters hide malware in developer coding challenges",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
-    "published": "2026-02-13 22:35:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
-    "published": "2026-02-13 20:21:43"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
-    "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
-    "published": "2026-02-13 18:35:15"
   }
 ]
