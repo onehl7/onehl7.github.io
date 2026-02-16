@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
+    "published": "2026-02-16 12:33:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google patches first Chrome zero-day exploited in attacks this year",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
+    "published": "2026-02-16 08:19:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Canada Goose investigating as hackers leak 600K customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
+    "published": "2026-02-16 04:45:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
     "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
     "published": "2026-02-16 00:29:00"
@@ -10,23 +28,5 @@
     "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
     "published": "2026-02-15 22:08:53"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-    "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-    "published": "2026-02-15 16:30:41"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
-    "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
-    "published": "2026-02-15 15:17:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
-    "published": "2026-02-14 16:02:34"
   }
 ]
