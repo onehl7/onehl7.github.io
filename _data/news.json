@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
-    "published": "2026-02-16 12:33:11"
+    "title": "Washington Hotel in Japan discloses ransomware infection incident",
+    "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
+    "published": "2026-02-16 21:10:38"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google patches first Chrome zero-day exploited in attacks this year",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
-    "published": "2026-02-16 08:19:19"
+    "title": "Eurail says stolen traveler data now up for sale on dark web",
+    "link": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
+    "published": "2026-02-16 19:19:09"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Canada Goose investigating as hackers leak 600K customer records",
-    "link": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
-    "published": "2026-02-16 04:45:32"
+    "title": "Man arrested for demanding reward after accidental police data leak",
+    "link": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
+    "published": "2026-02-16 19:13:39"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-    "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-    "published": "2026-02-16 00:29:00"
+    "title": "Infostealer malware found stealing OpenClaw secrets for first time",
+    "link": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
+    "published": "2026-02-16 17:32:26"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-    "published": "2026-02-15 22:08:53"
+    "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
+    "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
+    "published": "2026-02-16 15:02:12"
   }
 ]
