@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Mississippi medical center closes all clinics after ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
+    "published": "2026-02-20 11:50:14"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
+    "published": "2026-02-20 10:08:49"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ukrainian gets 5 years for helping North Koreans infiltrate US firms",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/",
+    "published": "2026-02-20 09:00:15"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
     "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
     "published": "2026-02-19 22:36:25"
@@ -10,23 +28,5 @@
     "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
     "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
     "published": "2026-02-19 17:16:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google blocked over 1.75 million Play Store app submissions in 2025",
-    "link": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/",
-    "published": "2026-02-19 17:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-    "published": "2026-02-19 15:30:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How infostealers turn stolen credentials into real identities",
-    "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
-    "published": "2026-02-19 15:05:15"
   }
 ]
