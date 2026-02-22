@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+    "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+    "published": "2026-02-21 16:13:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
+    "published": "2026-02-21 13:50:58"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Japanese tech giant Advantest hit by ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
     "published": "2026-02-20 18:30:44"
@@ -16,17 +28,5 @@
     "title": "Data breach at French bank registry impacts 1.2 million accounts",
     "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
     "published": "2026-02-20 16:20:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why the shift left dream has become a nightmare for security and developers",
-    "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-    "published": "2026-02-20 14:45:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PayPal discloses data breach that exposed user info for 6 months",
-    "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-    "published": "2026-02-20 13:12:01"
   }
 ]
