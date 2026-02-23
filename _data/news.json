@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+    "published": "2026-02-23 11:44:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
     "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
     "published": "2026-02-22 15:33:26"
@@ -22,11 +28,5 @@
     "title": "Japanese tech giant Advantest hit by ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
     "published": "2026-02-20 18:30:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
-    "published": "2026-02-20 17:02:25"
   }
 ]
