@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
+    "published": "2026-02-24 13:00:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+    "published": "2026-02-24 11:40:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+    "published": "2026-02-24 11:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Android mental health apps with 14.7M installs filled with security flaws",
     "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
     "published": "2026-02-23 22:59:04"
@@ -10,23 +28,5 @@
     "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
     "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
     "published": "2026-02-23 21:59:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
-    "published": "2026-02-23 19:40:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
-    "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
-    "published": "2026-02-23 18:04:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "When identity isn\u2019t the weak link, access still is",
-    "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
-    "published": "2026-02-23 15:00:10"
   }
 ]
