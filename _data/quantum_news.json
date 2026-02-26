@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "SEALSQ Deepens Technology Focus on CMOS-Compatible Quantum Architectures",
-    "link": "https://thequantuminsider.com/2026/02/24/sealsq-cmos-compatible-quantum-architectures/",
-    "published": "2026-02-24 15:18:44"
+    "title": "IonQ Surpasses $100 Million in Annual Revenue, Reports Quantum Sales Accelerating",
+    "link": "https://thequantuminsider.com/2026/02/25/ionq-surpasses-100-million-in-annual-revenue-reports-quantum-sales-accelerating/",
+    "published": "2026-02-25 22:04:02"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Researchers Build High-Dimensional Quantum Logic Gate",
-    "link": "https://thequantuminsider.com/2026/02/24/researchers-build-high-dimensional-quantum-logic-gate/",
-    "published": "2026-02-24 14:57:54"
+    "title": "QuSecure Selected for Missile Defense Agency SHIELD Contract Vehicle",
+    "link": "https://thequantuminsider.com/2026/02/25/qusecure-missile-defense-agency-shield-contract/",
+    "published": "2026-02-25 14:45:29"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Rail Vision Subsidiary Deploys Quantum Error Correction Decoder on AWS",
-    "link": "https://thequantuminsider.com/2026/02/24/rail-vision-quantum-decoder-aws-deployment/",
-    "published": "2026-02-24 14:56:24"
+    "title": "Bloq Joins IBM Quantum Network to Build Quantum Algorithms at Utility Scale",
+    "link": "https://thequantuminsider.com/2026/02/25/bloq-joins-ibm-quantum-network-to-build-quantum-algorithms-at-utility-scale/",
+    "published": "2026-02-25 13:18:00"
   },
   {
     "source": "The Quantum Insider",
-    "title": "QPerfect and SDT Launch Cloud Quantum Emulation Service",
-    "link": "https://thequantuminsider.com/2026/02/24/btq-qperfect-sdt-mimiq-quantum-emulation-qureka/",
-    "published": "2026-02-24 14:48:03"
+    "title": "Keeper Security Integrates NIST-Approved Kyber Encryption",
+    "link": "https://thequantuminsider.com/2026/02/25/keeper-post-quantum-cryptography-deployment/",
+    "published": "2026-02-25 12:48:19"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Amazon Braket Expands Qiskit Integration With New Primitives and Compilation Tools",
-    "link": "https://thequantuminsider.com/2026/02/24/amazon-braket-expands-qiskit-integration-with-new-primitives-and-compilation-tools/",
-    "published": "2026-02-24 14:23:43"
+    "title": "Quantum-Inspired Chip Powers Real-Time Navigation in Autonomous Robot",
+    "link": "https://thequantuminsider.com/2026/02/25/quantum-inspired-chip-powers-real-time-navigation-in-autonomous-robot/",
+    "published": "2026-02-25 12:34:46"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A simple chemical tweak could supercharge quantum computers",
+    "link": "https://www.sciencedaily.com/releases/2026/02/260224023211.htm",
+    "published": "2026-02-25 11:43:17"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Twisted 2D magnet creates skyrmions for ultra dense data storage",
     "link": "https://www.sciencedaily.com/releases/2026/02/260212234158.htm",
     "published": "2026-02-13 12:36:20"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Physicists discover what controls the speed of quantum time",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260209221713.htm",
-    "published": "2026-02-10 03:21:59"
   }
 ]
