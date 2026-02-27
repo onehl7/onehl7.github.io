@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
+    "published": "2026-02-27 12:30:07"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Previously harmless Google API keys now expose Gemini AI data",
     "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
     "published": "2026-02-26 20:55:29"
@@ -22,11 +28,5 @@
     "title": "Critical Juniper Networks PTX flaw allows full router takeover",
     "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
     "published": "2026-02-26 16:42:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-    "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-    "published": "2026-02-26 16:11:30"
   }
 ]
