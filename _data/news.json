@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+    "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
+    "published": "2026-02-28 19:18:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
+    "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
+    "published": "2026-02-28 15:17:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft testing Windows 11 batch file security improvements",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
     "published": "2026-02-27 20:00:27"
@@ -16,17 +28,5 @@
     "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
     "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
     "published": "2026-02-27 18:20:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
-    "published": "2026-02-27 15:57:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Third-Party Patching and the Business Footprint We All Share",
-    "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
-    "published": "2026-02-27 15:00:10"
   }
 ]
