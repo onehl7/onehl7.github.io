@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "For the first time, light mimics a Nobel Prize quantum effect",
+    "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
+    "published": "2026-03-01 13:40:10"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Podcast with Jonathan Reiner, Director of Product Solutions, Quantum Machines",
     "link": "https://thequantuminsider.com/2026/02/28/podcast-with-jonathan-reiner-director-of-product-solutions-quantum-machines/",
@@ -52,11 +58,5 @@
     "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
     "link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
     "published": "2026-02-20 14:03:48"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Majorana qubits decoded in quantum computing breakthrough",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260216084525.htm",
-    "published": "2026-02-16 13:45:25"
   }
 ]
