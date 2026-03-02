@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
+    "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
+    "published": "2026-03-01 21:44:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent",
+    "link": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
+    "published": "2026-03-01 15:23:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
     "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
     "published": "2026-02-28 19:18:52"
@@ -16,17 +28,5 @@
     "title": "Microsoft testing Windows 11 batch file security improvements",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
     "published": "2026-02-27 20:00:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "APT37 hackers use new malware to breach air-gapped networks",
-    "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
-    "published": "2026-02-27 19:21:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
-    "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
-    "published": "2026-02-27 18:20:15"
   }
 ]
