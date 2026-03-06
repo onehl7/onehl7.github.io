@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
+    "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
+    "published": "2026-03-06 10:08:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI investigates breach of surveillance and wiretap systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
+    "published": "2026-03-06 08:44:53"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Chinese state hackers target telcos with new malware toolkit",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
     "published": "2026-03-05 23:19:49"
@@ -16,17 +28,5 @@
     "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
     "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
     "published": "2026-03-05 20:42:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress membership plugin bug exploited to create admin accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
-    "published": "2026-03-05 18:44:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
-    "published": "2026-03-05 18:36:18"
   }
 ]
