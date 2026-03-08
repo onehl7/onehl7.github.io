@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
+    "published": "2026-03-07 16:14:32"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
+    "published": "2026-03-07 15:15:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
     "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
     "published": "2026-03-06 19:50:21"
@@ -16,17 +28,5 @@
     "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
     "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
     "published": "2026-03-06 15:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-    "published": "2026-03-06 15:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-    "published": "2026-03-06 14:21:09"
   }
 ]
