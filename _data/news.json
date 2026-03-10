@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+    "published": "2026-03-10 11:36:13"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft to enable Windows hotpatch security updates by default",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
+    "published": "2026-03-10 10:35:33"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
+    "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
+    "published": "2026-03-10 10:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
     "published": "2026-03-09 22:50:38"
@@ -10,23 +28,5 @@
     "title": "Google: Cloud attacks exploit flaws more than weak credentials",
     "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
     "published": "2026-03-09 21:45:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
-    "published": "2026-03-09 21:24:49"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ericsson US discloses data breach after service provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
-    "published": "2026-03-09 19:07:50"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams will tag third-party bots trying to join meetings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
-    "published": "2026-03-09 17:12:49"
   }
 ]
