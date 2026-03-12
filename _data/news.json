@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "US charges another ransomware negotiator linked to BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/",
+    "published": "2026-03-12 11:31:57"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "WhatsApp introduces parent-managed accounts for pre-teens",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/",
     "published": "2026-03-11 20:06:39"
@@ -22,11 +28,5 @@
     "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
     "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
     "published": "2026-03-11 17:21:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
-    "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
-    "published": "2026-03-11 17:09:42"
   }
 ]
