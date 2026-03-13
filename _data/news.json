@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Starbucks discloses data breach affecting hundreds of employees",
+    "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+    "published": "2026-03-13 08:16:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google fixes two new Chrome zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
+    "published": "2026-03-13 06:56:58"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Canadian retail giant Loblaw notifies customers of data breach",
     "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
     "published": "2026-03-12 21:32:21"
@@ -16,17 +28,5 @@
     "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
     "published": "2026-03-12 20:01:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
-    "published": "2026-03-12 16:59:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US disrupts SocksEscort proxy network powered by Linux malware",
-    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
-    "published": "2026-03-12 16:19:56"
   }
 ]
