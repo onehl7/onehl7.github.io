@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+    "published": "2026-03-15 23:13:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
+    "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
+    "published": "2026-03-15 14:17:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
     "published": "2026-03-14 21:48:14"
@@ -16,17 +28,5 @@
     "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
     "published": "2026-03-13 22:11:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI seeks victims of Steam games used to spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-    "published": "2026-03-13 20:52:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Poland's nuclear research centre targeted by cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
-    "published": "2026-03-13 17:11:37"
   }
 ]
