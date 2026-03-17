@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
+    "published": "2026-03-17 12:09:35"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
+    "published": "2026-03-17 12:03:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
+    "published": "2026-03-17 11:07:05"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+    "published": "2026-03-17 10:37:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
     "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
     "published": "2026-03-16 19:17:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-    "published": "2026-03-16 18:00:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK\u2019s Companies House confirms security flaw exposed business data",
-    "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
-    "published": "2026-03-16 17:07:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Exchange Online outage blocks access to mailboxes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
-    "published": "2026-03-16 16:05:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
-    "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
-    "published": "2026-03-16 14:01:11"
   }
 ]
