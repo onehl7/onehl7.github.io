@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Musician admits to $10M streaming royalty fraud using AI bots",
+    "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
+    "published": "2026-03-20 09:33:33"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "International joint action disrupts world\u2019s largest DDoS botnets",
+    "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
+    "published": "2026-03-20 08:05:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+    "published": "2026-03-20 07:33:32"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+    "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
+    "published": "2026-03-20 06:57:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Navia discloses data breach impacting 2.7 million people",
     "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
     "published": "2026-03-19 20:43:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
-    "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-    "published": "2026-03-19 20:01:03"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
-    "published": "2026-03-19 17:08:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-    "published": "2026-03-19 16:14:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-    "published": "2026-03-19 14:55:50"
   }
 ]
