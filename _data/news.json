@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+    "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+    "published": "2026-03-21 17:30:41"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android",
+    "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+    "published": "2026-03-21 14:18:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+    "published": "2026-03-21 14:09:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FBI links Signal phishing attacks to Russian intelligence services",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
     "published": "2026-03-20 20:45:52"
@@ -10,23 +28,5 @@
     "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
     "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
     "published": "2026-03-20 18:48:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
-    "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
-    "published": "2026-03-20 17:19:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-    "published": "2026-03-20 15:09:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
-    "published": "2026-03-20 14:01:11"
   }
 ]
