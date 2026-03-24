@@ -1,39 +1,45 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Podcast with Zach Yerushalmi, CEO, Elevate Quantum",
-    "link": "https://thequantuminsider.com/2026/03/21/podcast-with-zach-yerushalmi-ceo-elevate-quantum/",
-    "published": "2026-03-21 13:56:00"
+    "title": "Dell Technologies Expands Cybersecurity And Resilience For The AI Era And Emerging Quantum Risks",
+    "link": "https://thequantuminsider.com/2026/03/23/dell-technologies-expands-cybersecurity-and-resilience-for-the-ai-era-and-emerging-quantum-risks/",
+    "published": "2026-03-23 14:46:39"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Designing Intuitive Dashboards for Hybrid Quantum-Classical Operations",
-    "link": "https://thequantuminsider.com/2026/03/21/designing-intuitive-dashboards-for-hybrid-quantum-classical-operations/",
-    "published": "2026-03-21 13:18:00"
+    "title": "Canada Invests $900 Million in Quantum Technology for Defence Applications",
+    "link": "https://thequantuminsider.com/2026/03/23/canada-advances-defence-industrial-strategy-strengthen-security-sovereignty-prosperity/",
+    "published": "2026-03-23 13:59:42"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "\u2018Quantum Telepathy\u2019 Could Tap Near-Term Quantum Computers For Real-World Applications",
+    "link": "https://thequantuminsider.com/2026/03/23/quantum-telepathy-could-tap-near-term-quantum-computers-for-real-world-applications/",
+    "published": "2026-03-23 11:24:08"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Walton Institute at SETU And Q*Bird Deploy Ireland\u2019s First QKD Network With Expandable Architecture",
+    "link": "https://thequantuminsider.com/2026/03/23/walton-institute-at-setu-and-qbird-deploy-irelands-first-qkd-network-with-expandable-architecture/",
+    "published": "2026-03-23 10:55:36"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Scientists Fuse Quantum And Classical Computing to Improve Accuracy",
+    "link": "https://thequantuminsider.com/2026/03/23/scientists-fuse-quantum-and-classical-computing-to-improve-accuracy/",
+    "published": "2026-03-23 07:51:23"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "World\u2019s first quantum battery could enable ultra fast charging",
+    "link": "https://www.sciencedaily.com/releases/2026/03/260322020249.htm",
+    "published": "2026-03-23 03:14:57"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Scientists just found a hidden 48-dimensional world in quantum light",
     "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
     "published": "2026-03-21 11:26:44"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "SEEQC Reports First Quantum Computer with Integrated Qubit Control on a Chip at Millikelvin Temperatures",
-    "link": "https://thequantuminsider.com/2026/03/20/seeqc-reports-first-quantum-computer-with-integrated-qubit-control-on-a-chip-at-millikelvin-temperatures/",
-    "published": "2026-03-20 14:11:21"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Alice & Bob Accelerates Quantum Error Correction with NVIDIA CUDA-Q",
-    "link": "https://thequantuminsider.com/2026/03/20/alice-bob-accelerates-quantum-error-correction-nvidia-cuda-q/",
-    "published": "2026-03-20 11:51:03"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Researchers Find Ways to Stretch, Blur And Reverse Quantum Time Flow",
-    "link": "https://thequantuminsider.com/2026/03/20/researchers-find-ways-to-stretch-blur-and-reverse-quantum-time-flow/",
-    "published": "2026-03-20 11:38:54"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Particles may not follow Einstein\u2019s paths after all",
     "link": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
     "published": "2026-03-09 04:16:40"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "For the first time, light mimics a Nobel Prize quantum effect",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
-    "published": "2026-03-01 13:40:10"
   }
 ]
