@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
+    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
+    "published": "2026-03-25 12:31:26"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TP-Link warns users to patch critical router auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+    "published": "2026-03-25 11:11:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+    "published": "2026-03-25 08:47:29"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
     "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
     "published": "2026-03-24 23:04:36"
@@ -10,23 +28,5 @@
     "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
     "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
     "published": "2026-03-24 22:29:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FCC bans new routers made outside the USA over security risks",
-    "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-    "published": "2026-03-24 20:41:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-    "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-    "published": "2026-03-24 17:23:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-    "published": "2026-03-24 15:12:13"
   }
 ]
