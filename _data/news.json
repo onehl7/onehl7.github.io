@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Dutch Ministry of Finance discloses breach affecting employees",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
-    "published": "2026-03-24 12:03:08"
+    "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+    "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+    "published": "2026-03-24 23:04:36"
   },
   {
     "source": "Bleeping Computer",
-    "title": "OpenAI rolls out ChatGPT Library to store your personal files",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
-    "published": "2026-03-23 23:47:14"
+    "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+    "published": "2026-03-24 22:29:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Mazda discloses security breach exposing employee and partner data",
-    "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-    "published": "2026-03-23 22:12:52"
+    "title": "FCC bans new routers made outside the USA over security risks",
+    "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
+    "published": "2026-03-24 20:41:30"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Tycoon2FA phishing platform returns after recent police disruption",
-    "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
-    "published": "2026-03-23 21:52:58"
+    "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
+    "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
+    "published": "2026-03-24 17:23:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
-    "published": "2026-03-23 20:09:10"
+    "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
+    "published": "2026-03-24 15:12:13"
   }
 ]
