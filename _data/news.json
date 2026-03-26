@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+    "published": "2026-03-26 13:10:14"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
+    "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
+    "published": "2026-03-26 12:50:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Suspected RedLine infostealer malware admin extradited to US",
+    "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+    "published": "2026-03-26 11:51:59"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "GitHub adds AI-powered bug detection to expand security coverage",
     "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
     "published": "2026-03-25 23:23:39"
@@ -10,23 +28,5 @@
     "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
     "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
     "published": "2026-03-25 21:40:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bubble AI app builder abused to steal Microsoft account credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
-    "published": "2026-03-25 19:48:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
-    "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-    "published": "2026-03-25 18:32:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-    "published": "2026-03-25 15:52:10"
   }
 ]
