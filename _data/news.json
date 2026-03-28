@@ -1,8 +1,26 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "European Commission investigating breach after Amazon cloud hack",
-    "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+    "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+    "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+    "published": "2026-03-27 21:13:26"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake VS Code alerts on GitHub spread malware to developers",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+    "published": "2026-03-27 16:51:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
+    "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
+    "published": "2026-03-27 14:02:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "European Commission investigating breach after Amazon cloud account hack",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
     "published": "2026-03-27 12:22:19"
   },
   {
@@ -10,23 +28,5 @@
     "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
     "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
     "published": "2026-03-27 10:40:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
-    "published": "2026-03-27 09:20:59"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch Police discloses security breach after phishing attack",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
-    "published": "2026-03-27 08:20:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-    "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-    "published": "2026-03-26 20:37:25"
   }
 ]
