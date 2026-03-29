@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+    "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
+    "published": "2026-03-28 14:35:10"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
     "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
     "published": "2026-03-27 21:13:26"
@@ -22,11 +28,5 @@
     "title": "European Commission investigating breach after Amazon cloud account hack",
     "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
     "published": "2026-03-27 12:22:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
-    "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
-    "published": "2026-03-27 10:40:17"
   }
 ]
