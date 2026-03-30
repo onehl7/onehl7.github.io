@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "FBI confirms hack of Director Patel's personal email inbox",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+    "published": "2026-03-29 21:09:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+    "published": "2026-03-29 14:38:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
     "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
     "published": "2026-03-28 14:35:10"
@@ -16,17 +28,5 @@
     "title": "Fake VS Code alerts on GitHub spread malware to developers",
     "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
     "published": "2026-03-27 16:51:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
-    "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
-    "published": "2026-03-27 14:02:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "European Commission investigating breach after Amazon cloud account hack",
-    "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
-    "published": "2026-03-27 12:22:19"
   }
 ]
