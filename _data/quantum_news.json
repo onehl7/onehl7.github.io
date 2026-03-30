@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "This quantum computing breakthrough may not be what it seemed",
+    "link": "https://www.sciencedaily.com/releases/2026/03/260328043600.htm",
+    "published": "2026-03-29 13:14:37"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Google Opens Early Access to \u2018Willow\u2019 Quantum Processor, Invites Experimental Proposals",
     "link": "https://thequantuminsider.com/2026/03/28/google-opens-early-access-to-willow-quantum-processor-invites-experimental-proposals/",
@@ -52,11 +58,5 @@
     "title": "Scientists just found a hidden 48-dimensional world in quantum light",
     "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
     "published": "2026-03-21 11:26:44"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A strange new quantum state appears when atoms get \u201cfrustrated\u201d",
-    "link": "https://www.sciencedaily.com/releases/2026/03/260315225137.htm",
-    "published": "2026-03-16 10:19:03"
   }
 ]
