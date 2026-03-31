@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+    "published": "2026-03-31 12:04:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+    "published": "2026-03-31 09:15:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+    "published": "2026-03-31 07:52:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+    "published": "2026-03-31 07:05:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Healthcare tech firm CareCloud says hackers stole patient data",
     "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
     "published": "2026-03-30 21:44:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-    "published": "2026-03-30 20:49:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-    "published": "2026-03-30 18:28:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-    "published": "2026-03-30 14:32:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-    "published": "2026-03-30 14:01:11"
   }
 ]
