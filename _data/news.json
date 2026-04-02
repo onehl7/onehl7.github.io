@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+    "published": "2026-04-02 11:01:14"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft links Classic Outlook issue to email delivery problems",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
+    "published": "2026-04-02 09:12:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
+    "published": "2026-04-02 08:25:50"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
     "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
     "published": "2026-04-01 23:17:09"
@@ -10,23 +28,5 @@
     "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
     "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
     "published": "2026-04-01 21:50:49"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-    "published": "2026-04-01 21:35:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-    "published": "2026-04-01 19:42:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
-    "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-    "published": "2026-04-01 18:07:21"
   }
 ]
