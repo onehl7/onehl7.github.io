@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-    "published": "2026-04-01 11:39:10"
+    "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+    "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+    "published": "2026-04-01 23:17:09"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-    "published": "2026-04-01 10:25:36"
+    "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+    "published": "2026-04-01 21:50:49"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google Drive ransomware detection now on by default for paying users",
-    "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-    "published": "2026-04-01 06:35:34"
+    "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+    "published": "2026-04-01 21:35:47"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New Windows 11 emergency update fixes preview update install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-    "published": "2026-04-01 05:33:43"
+    "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+    "published": "2026-04-01 19:42:25"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Claude Code source code accidentally leaked in NPM package",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-    "published": "2026-04-01 00:32:25"
+    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
+    "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+    "published": "2026-04-01 18:07:21"
   }
 ]
