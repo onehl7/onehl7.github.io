@@ -1,9 +1,33 @@
 [
   {
+    "source": "NASA",
+    "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
+    "link": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/",
+    "published": "2026-04-01 23:44:57"
+  },
+  {
     "source": "ESA",
-    "title": "Watch live: Artemis II launch",
-    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch",
-    "published": "2026-03-31 16:07:00"
+    "title": "Artemis II mission begins",
+    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins",
+    "published": "2026-04-01 22:00:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Christine Klein takes up duty as acting Director of Controlling, Finance and Operational Procurement",
+    "link": "https://www.esa.int/About_Us/Corporate_news/Christine_Klein_takes_up_duty_as_acting_Director_of_Controlling_Finance_and_Operational_Procurement",
+    "published": "2026-04-01 05:15:00"
+  },
+  {
+    "source": "ESA",
+    "title": "G\u00e9raldine Naja takes up duty as Director of Space Transportation",
+    "link": "https://www.esa.int/About_Us/Corporate_news/Geraldine_Naja_takes_up_duty_as_Director_of_Space_Transportation",
+    "published": "2026-04-01 05:15:00"
+  },
+  {
+    "source": "NASA",
+    "title": "March of the Harmattan",
+    "link": "https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/",
+    "published": "2026-04-01 04:00:00"
   },
   {
     "source": "NASA",
@@ -24,34 +48,10 @@
     "published": "2026-03-31 08:05:00"
   },
   {
-    "source": "ESA",
-    "title": "European eyes on Artemis",
-    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_eyes_on_Artemis",
-    "published": "2026-03-31 08:00:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Eight more satellites added to IRIDE space programme",
-    "link": "https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme",
-    "published": "2026-03-31 07:00:00"
-  },
-  {
     "source": "NASA",
     "title": "Fires Tear Through Nebraska Grasslands",
     "link": "https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/",
     "published": "2026-03-31 04:01:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Sendoff for Artemis II Crew",
-    "link": "https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/",
-    "published": "2026-03-30 18:18:27"
-  },
-  {
-    "source": "NASA",
-    "title": "Seeing Blue During Schirmacher\u2019s Summer Melt Season",
-    "link": "https://science.nasa.gov/earth/earth-observatory/seeing-blue-during-schirmachers-summer-melt-season/",
-    "published": "2026-03-30 04:01:00"
   },
   {
     "source": "ESA",
