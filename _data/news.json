@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft still working to fix Exchange Online mailbox access issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+    "published": "2026-04-03 11:25:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man admits to locking thousands of Windows devices in extortion plot",
+    "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+    "published": "2026-04-03 09:04:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+    "published": "2026-04-03 07:55:40"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+    "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+    "published": "2026-04-03 06:33:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Claude Code leak used to push infostealer malware on GitHub",
     "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
     "published": "2026-04-02 20:30:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drift loses $280 million as hackers seize Security Council powers",
-    "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
-    "published": "2026-04-02 19:03:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
-    "published": "2026-04-02 15:21:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-    "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-    "published": "2026-04-02 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-    "published": "2026-04-02 13:33:11"
   }
 ]
