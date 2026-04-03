@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
-    "published": "2026-04-02 11:01:14"
+    "title": "Claude Code leak used to push infostealer malware on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+    "published": "2026-04-02 20:30:55"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft links Classic Outlook issue to email delivery problems",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
-    "published": "2026-04-02 09:12:12"
+    "title": "Drift loses $280 million as hackers seize Security Council powers",
+    "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+    "published": "2026-04-02 19:03:39"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-    "published": "2026-04-02 08:25:50"
+    "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+    "published": "2026-04-02 15:21:02"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
-    "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-    "published": "2026-04-01 23:17:09"
+    "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+    "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+    "published": "2026-04-02 14:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-    "published": "2026-04-01 21:50:49"
+    "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+    "published": "2026-04-02 13:33:11"
   }
 ]
