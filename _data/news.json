@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft rolls out fix for broken Windows Start Menu search",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+    "published": "2026-04-08 07:00:55"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
     "published": "2026-04-07 22:03:01"
@@ -22,11 +28,5 @@
     "title": "US warns of Iranian hackers targeting critical infrastructure",
     "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
     "published": "2026-04-07 18:02:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
-    "published": "2026-04-07 17:02:05"
   }
 ]
