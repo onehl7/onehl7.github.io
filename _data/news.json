@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+    "published": "2026-04-11 14:20:40"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
     "published": "2026-04-11 02:08:16"
@@ -22,11 +28,5 @@
     "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
     "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
     "published": "2026-04-10 13:12:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-    "published": "2026-04-10 11:56:14"
   }
 ]
