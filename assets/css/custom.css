@@ -1,15 +1,67 @@
-body {
-  background: #0b0f1a;
-  color: #e0e6f5;
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-}
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+  /* Light theme variables */
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --h1-color: #111111;
+  --nav-bg: #ffffff;
+  --nav-border: #e5e7eb;
+  --nav-text: #4b5563;
+  --nav-hover: #111111;
+  --table-bg: #ffffff;
+  --table-alt-bg: #f8fafc;
+  --table-border: #cbd5e1;
+  --table-header-bg: #f1f5f9;
+  --table-header-text: #0f172a;
+  --table-header-border: #3b82f6;
+}
+
+[data-theme="dark"] {
+  /* Dark theme variables */
+  --bg-color: #0b0f1a;
+  --text-color: #e0e6f5;
+  --h1-color: #e0e6f5;
+  --nav-bg: rgba(15, 23, 42, 0.9);
+  --nav-border: #1e293b;
+  --nav-text: #cbd5e1;
+  --nav-hover: #ffffff;
+  --table-bg: #1e293b;
+  --table-alt-bg: #0f172a;
+  --table-border: #334155;
+  --table-header-bg: #0f172a;
+  --table-header-text: #ffffff;
+  --table-header-border: #5eead4;
+}
+
+body {
+  background: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
 
 h1 {
   font-size: 3em;
   font-weight: 700;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  color: #e0e6f5;
+  color: var(--h1-color);
   letter-spacing: 2px;
+}
+
+/* Navigation custom styles */
+.nav-header {
+  background-color: var(--nav-bg);
+  border-color: var(--nav-border);
+}
+.nav-brand {
+  color: var(--h1-color);
+}
+.nav-brand:hover, .nav-link:hover {
+  color: var(--nav-hover);
+}
+.nav-link {
+  color: var(--nav-text);
+  transition: color 0.2s ease;
 }
