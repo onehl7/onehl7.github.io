@@ -15,6 +15,9 @@
   --table-header-bg: #f1f5f9;
   --table-header-text: #0f172a;
   --table-header-border: #3b82f6;
+  --footer-bg: #f8fafc;
+  --footer-border: #e2e8f0;
+  --footer-text: #64748b;
 }
 
 :root[data-theme="dark"] {
@@ -32,6 +35,9 @@
   --table-header-bg: #0f172a;
   --table-header-text: #ffffff;
   --table-header-border: #5eead4;
+  --footer-bg: #020617;
+  --footer-border: #1e293b;
+  --footer-text: #64748b;
 }
 
 body {
@@ -64,4 +70,11 @@ h1 {
 .nav-link {
   color: var(--nav-text);
   transition: color 0.2s ease;
+}
+
+/* Footer custom styles */
+.site-footer {
+  background-color: var(--footer-bg);
+  border-top: 1px solid var(--footer-border);
+  color: var(--footer-text);
 }

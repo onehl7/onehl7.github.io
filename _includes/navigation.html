@@ -1,3 +1,6 @@
+<!-- Load our custom CSS with Jekyll's native cache-busting -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+
 <header class="nav-header backdrop-blur-md sticky top-0 z-50 border-b">
   <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
