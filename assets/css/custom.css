@@ -53,27 +53,27 @@ body {
 
 /* Typography & Element Overrides for Base Theme */
 body h1, body h2, body h3, body h4, body h5, body h6 {
-  color: var(--h1-color);
+  color: var(--h1-color) !important;
   transition: color 0.3s ease;
 }
 
-body p, body ul, body ol, body li, body blockquote, body strong, body em, body small, body time, body span, body article {
-  color: var(--text-color);
+body p, body ul, body ol, body li, body blockquote, body strong, body em, body small, body time, body span, body article, body section, body table, body th, body td {
+  color: var(--text-color) !important;
   transition: color 0.3s ease;
 }
 
 body a {
-  color: var(--link-color);
+  color: var(--link-color) !important;
   transition: color 0.2s ease;
 }
 
 body a:hover {
-  color: var(--link-hover);
+  color: var(--link-hover) !important;
 }
 
 body hr {
-  border-color: var(--nav-border);
-  transition: border-color 0.3s ease;
+  border-color: var(--nav-border) !important;
+  transition: border-color 0.3s ease !important;
 }
 
 h1 {
@@ -82,6 +82,13 @@ h1 {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   letter-spacing: 2px;
+}
+
+/* Code block overrides */
+body pre, body code {
+  background-color: var(--table-alt-bg) !important;
+  color: var(--text-color) !important;
+  border: 1px solid var(--table-border) !important;
 }
 
 /* Navigation custom styles */
