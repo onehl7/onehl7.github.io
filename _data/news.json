@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-    "published": "2026-04-12 14:20:31"
+    "title": "European Gym giant Basic-Fit data breach affects 1 million members",
+    "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
+    "published": "2026-04-13 21:50:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Over 20,000 crypto fraud victims identified in international crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
-    "published": "2026-04-11 14:20:40"
+    "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+    "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+    "published": "2026-04-13 20:08:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
-    "published": "2026-04-11 02:08:16"
+    "title": "Critical flaw in wolfSSL library enables forged certificate use",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+    "published": "2026-04-13 19:56:03"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-    "published": "2026-04-10 15:52:45"
+    "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+    "published": "2026-04-13 18:55:50"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-    "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-    "published": "2026-04-10 14:01:11"
+    "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+    "published": "2026-04-13 17:39:10"
   }
 ]
