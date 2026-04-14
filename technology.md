@@ -7,10 +7,10 @@ category: technology
 {% assign topic = site.topics | where: "slug", page.category | first %}
 
 <!-- Hero Section -->
-<div class="relative h-64 bg-cover bg-center" style="background-image: url('{{ topic.image_url | relative_url }}');">
-  <div class="absolute inset-0 bg-black/60"></div>
+<div class="topic-hero relative h-64 bg-cover bg-center" style="background-image: url('{{ topic.image_url | relative_url }}');">
+  <div class="absolute inset-0 bg-black/30"></div>
   <div class="relative max-w-4xl mx-auto px-4 h-full flex items-center justify-center">
-    <h1 class="text-5xl font-bold text-white text-center">{{ topic.emoji }} {{ topic.name }}</h1>
+    <h1 class="text-5xl font-bold hero-title text-center">{{ topic.emoji }} {{ topic.name }}</h1>
   </div>
 </div>
 
