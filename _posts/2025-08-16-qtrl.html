@@ -7,48 +7,51 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
 ---
 
 <style>
-    /* Custom table styling for better readability in dark mode */
     .styled-table {
         width: 100%;
         border-collapse: collapse;
         font-size: 0.9em;
         margin-top: 1rem;
-        background-color: #1e293b; /* slate-800 */
+        background-color: var(--table-bg);
         border-radius: 8px;
         overflow: hidden;
     }
     .styled-table thead tr {
-        background-color: #3b82f6; /* blue-500 */
-        color: #ffffff;
+        background-color: var(--table-header-bg);
+        color: var(--table-header-text);
         text-align: left;
     }
     .styled-table th, .styled-table td {
         padding: 12px 15px;
     }
     .styled-table tbody tr {
-        border-bottom: 1px solid #334155; /* slate-700 */
+        border-bottom: 1px solid var(--table-border);
     }
     .styled-table tbody tr:last-of-type {
         border-bottom: none;
     }
-    /* Style for the interactive buttons */
     .modality-button {
-        color: #cbd5e1; /* slate-300 */
-        border-color: #475569; /* slate-600 */
+        color: var(--text-color);
+        border-color: var(--border-color);
     }
     .modality-button.active {
-        background-color: #3b82f6; /* blue-500 */
-        color: white;
-        border-color: #3b82f6;
+        background-color: var(--button-bg);
+        color: var(--button-text);
+        border-color: var(--button-bg);
+    }
+    .content-card {
+        background-color: var(--card-bg);
+        border: 1px solid var(--card-border);
+        box-shadow: var(--card-shadow);
     }
 </style>
 
-<p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">Technology Readiness Levels (TRLs) measure a technology's maturity. For quantum computing, a specialized QTRL scale is used. Below are the definitions for each level.</p>
+<p class="text-center text-muted mb-8 max-w-2xl mx-auto">Technology Readiness Levels (TRLs) measure a technology's maturity. For quantum computing, a specialized QTRL scale is used. Below are the definitions for each level.</p>
 
 <!-- Section 1: What is QTRL? -->
 <section class="mb-16">
-    <div class="bg-slate-900 p-6 rounded-lg shadow-lg">
-        <h3 class="text-xl font-bold text-slate-200 mb-4">Quantum Technology Readiness Levels (QTRL)</h3>
+    <div class="content-card p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold card-heading mb-4">Quantum Technology Readiness Levels (QTRL)</h3>
         <table class="styled-table">
             <thead>
                 <tr>
@@ -73,8 +76,8 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
 
 <!-- Section 2: Interactive 2025 Snapshot -->
 <section class="mb-16">
-    <h2 class="text-3xl font-bold text-center text-slate-200 mb-2">2025 Snapshot: Current Maturity</h2>
-    <p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">Click on a modality to see its current status, estimated TRL, and key advancements as of 2025.</p>
+    <h2 class="text-3xl font-bold text-center card-heading mb-2">2025 Snapshot: Current Maturity</h2>
+    <p class="text-center text-muted mb-8 max-w-2xl mx-auto">Click on a modality to see its current status, estimated TRL, and key advancements as of 2025.</p>
     
     <div class="flex flex-wrap justify-center gap-4 mb-8" id="modality-buttons">
         <button id="btn-superconducting" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Superconducting</button>
@@ -83,17 +86,17 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
         <button id="btn-topological" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Topological</button>
     </div>
 
-    <div class="bg-slate-900 p-6 rounded-lg shadow-lg min-h-[120px]" id="modality-content">
-        <h3 class="text-xl font-bold text-slate-200 mb-4">Select a modality above to view details.</h3>
+    <div class="content-card p-6 rounded-lg shadow-lg min-h-[120px]" id="modality-content">
+        <h3 class="text-xl font-bold card-heading mb-4">Select a modality above to view details.</h3>
     </div>
 </section>
 
 <!-- Section 3: 5-Year Progression -->
 <section class="mb-16">
-    <h2 class="text-3xl font-bold text-center text-slate-200 mb-2">5-Year Progression (2020-2025)</h2>
-    <p class="text-center text-slate-400 mb-8 max-w-2xl mx-auto">The last five years have seen rapid progress. This table highlights key milestones across different modalities.</p>
-    <div class="bg-slate-900 p-6 rounded-lg shadow-lg">
-        <h3 class="text-xl font-bold text-slate-200 mb-4">Timeline of Breakthroughs</h3>
+    <h2 class="text-3xl font-bold text-center card-heading mb-2">5-Year Progression (2020-2025)</h2>
+    <p class="text-center text-muted mb-8 max-w-2xl mx-auto">The last five years have seen rapid progress. This table highlights key milestones across different modalities.</p>
+    <div class="content-card p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold card-heading mb-4">Timeline of Breakthroughs</h3>
         <table class="styled-table">
             <thead>
                 <tr><th>Year</th><th>Modality</th><th>Key Milestone</th></tr>
@@ -124,9 +127,9 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
             buttons.forEach(btn => btn.classList.remove('active'));
             document.getElementById(`btn-${modalityKey}`).classList.add('active');
             contentDiv.innerHTML = `
-                <h3 class="text-xl font-bold text-slate-200 mb-4">${data.name}</h3>
-                <p class="text-lg text-slate-300 mb-2"><strong>Estimated QTRL 2025:</strong> ${data.trl}</p>
-                <p class="text-lg text-slate-300"><strong>Key Advancements:</strong> ${data.advancements}</p>
+                <h3 class="text-xl font-bold card-heading mb-4">${data.name}</h3>
+                <p class="text-lg text-muted mb-2"><strong>Estimated QTRL 2025:</strong> ${data.trl}</p>
+                <p class="text-lg text-muted"><strong>Key Advancements:</strong> ${data.advancements}</p>
             `;
         }
         buttons.forEach(button => {
