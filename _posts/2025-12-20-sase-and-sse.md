@@ -17,27 +17,27 @@ Tip:- Gather and understand requirements (Business & Technical) clearly before s
     margin: 25px 0;
     font-size: 0.9em;
     font-family: 'Inter', sans-serif;
-    background-color: #1e293b; /* A dark slate color */
-    color: #e0e6f5;
+    background-color: var(--table-bg);
+    color: var(--text-color);
     table-layout: fixed; /* Enforce even column widths */
   }
   table thead tr {
-    background-color: #0f172a; /* A darker slate color */
-    color: #ffffff;
+    background-color: var(--table-header-bg);
+    color: var(--table-header-text);
     text-align: left;
-    border-bottom: 2px solid #5eead4; /* A teal color for the header bottom border */
+    border-bottom: 2px solid var(--table-header-border);
   }
   table th,
   table td {
     padding: 12px 15px;
-    border: 1px solid #334155; /* A lighter slate for borders */
+    border: 1px solid var(--table-border);
     word-wrap: break-word; /* Wrap long words */
   }
   table tbody tr {
-    border-bottom: 1px solid #334155;
+    border-bottom: 1px solid var(--table-border);
   }
   table tbody tr:nth-of-type(even) {
-    background-color: #0f172a; /* Use the darker slate for alternating rows */
+    background-color: var(--table-alt-bg);
   }
 </style>
 
@@ -66,4 +66,3 @@ Cisco - https://securitydocs.cisco.com/docs/csa/olh/118708.ditamap
 Zscaler - https://help.zscaler.com/
 Netskope - https://docs.netskope.com/en/
 Microsoft - https://learn.microsoft.com/en-us/entra/global-secure-access/
-

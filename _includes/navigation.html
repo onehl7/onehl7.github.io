@@ -1,42 +1,55 @@
-<header class="bg-slate-900/80 backdrop-blur-md sticky top-0 z-50 border-b border-slate-800">
+<!-- Load our custom CSS with Jekyll's native cache-busting -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+
+<header class="nav-header backdrop-blur-md sticky top-0 z-50 border-b">
   <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <div class="flex items-center">
-        <a href="{{ '/' | relative_url }}" class="text-xl font-bold text-white hover:text-blue-400 transition-colors">
+        <a href="{{ '/' | relative_url }}" class="text-xl font-bold nav-brand transition-colors">
           A Curious Mind
         </a>
       </div>
-      <!-- Desktop Menu -->
-      <div class="hidden md:flex items-center">
-        <div class="ml-10 flex items-baseline space-x-4">
-          <a href="{{ '/quantum.html' | relative_url }}" class="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Quantum</a>
-          <a href="{{ '/technology.html' | relative_url }}" class="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Technology</a>
-          <a href="{{ '/space.html' | relative_url }}" class="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Space</a>
+      
+      <div class="flex items-center">
+        <!-- Desktop Menu -->
+        <div class="hidden md:flex items-center">
+          <div class="ml-10 flex items-baseline space-x-4">
+            <a href="{{ '/quantum.html' | relative_url }}" class="nav-link px-3 py-2 rounded-md text-sm font-medium">Quantum</a>
+            <a href="{{ '/technology.html' | relative_url }}" class="nav-link px-3 py-2 rounded-md text-sm font-medium">Technology</a>
+            <a href="{{ '/space.html' | relative_url }}" class="nav-link px-3 py-2 rounded-md text-sm font-medium">Space</a>
+          </div>
         </div>
-      </div>
-      <!-- Mobile Menu Button -->
-      <div class="md:hidden flex items-center">
-        <button id="mobile-menu-button" class="inline-flex items-center justify-center p-2 rounded-md text-slate-400 hover:text-white hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-controls="mobile-menu" aria-expanded="false">
-          <span class="sr-only">Open main menu</span>
-          <!-- Icon for menu closed -->
-          <svg id="menu-closed-icon" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-          </svg>
-          <!-- Icon for menu open -->
-          <svg id="menu-open-icon" class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-          </svg>
+
+        <!-- Theme Toggle Button -->
+        <button id="theme-toggle" class="nav-link ml-4 p-2 rounded-md focus:outline-none" aria-label="Toggle Theme">
+          <span id="theme-toggle-dark-icon" class="hidden text-xl">🌙</span>
+          <span id="theme-toggle-light-icon" class="hidden text-xl">☀️</span>
         </button>
+
+        <!-- Mobile Menu Button -->
+        <div class="md:hidden flex items-center ml-2">
+          <button id="mobile-menu-button" class="nav-link inline-flex items-center justify-center p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-controls="mobile-menu" aria-expanded="false">
+            <span class="sr-only">Open main menu</span>
+            <!-- Icon for menu closed -->
+            <svg id="menu-closed-icon" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            <!-- Icon for menu open -->
+            <svg id="menu-open-icon" class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
   </nav>
 
   <!-- Mobile Menu, show/hide based on menu state. -->
-  <div class="md:hidden hidden" id="mobile-menu">
+  <div class="md:hidden hidden nav-header border-t" id="mobile-menu">
     <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-      <a href="{{ '/quantum.html' | relative_url }}" class="text-slate-300 hover:bg-slate-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Quantum</a>
-      <a href="{{ '/technology.html' | relative_url }}" class="text-slate-300 hover:bg-slate-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Technology</a>
-      <a href="{{ '/space.html' | relative_url }}" class="text-slate-300 hover:bg-slate-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Space</a>
+      <a href="{{ '/quantum.html' | relative_url }}" class="nav-link block px-3 py-2 rounded-md text-base font-medium">Quantum</a>
+      <a href="{{ '/technology.html' | relative_url }}" class="nav-link block px-3 py-2 rounded-md text-base font-medium">Technology</a>
+      <a href="{{ '/space.html' | relative_url }}" class="nav-link block px-3 py-2 rounded-md text-base font-medium">Space</a>
     </div>
   </div>
 </header>
@@ -46,5 +59,36 @@
     document.getElementById('mobile-menu').classList.toggle('hidden');
     document.getElementById('menu-closed-icon').classList.toggle('hidden');
     document.getElementById('menu-open-icon').classList.toggle('hidden');
+  });
+
+  // Theme toggle logic
+  const themeToggleBtn = document.getElementById('theme-toggle');
+  const darkIcon = document.getElementById('theme-toggle-dark-icon');
+  const lightIcon = document.getElementById('theme-toggle-light-icon');
+
+  const storedTheme = localStorage.getItem('theme');
+  const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const initialTheme = storedTheme ? storedTheme : (systemPrefersDark ? 'dark' : 'light');
+
+  document.documentElement.setAttribute('data-theme', initialTheme);
+
+  if (initialTheme === 'dark') {
+      lightIcon.classList.remove('hidden');
+  } else {
+      darkIcon.classList.remove('hidden');
+  }
+
+  themeToggleBtn.addEventListener('click', function () {
+      const nextTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', nextTheme);
+      localStorage.setItem('theme', nextTheme);
+
+      if (nextTheme === 'dark') {
+          lightIcon.classList.remove('hidden');
+          darkIcon.classList.add('hidden');
+      } else {
+          darkIcon.classList.remove('hidden');
+          lightIcon.classList.add('hidden');
+      }
   });
 </script>
