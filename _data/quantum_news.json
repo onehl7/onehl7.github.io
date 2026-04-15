@@ -1,39 +1,45 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "IonQ and University of Maryland Expand QLab Collaboration to Advance Quantum Networking and Research",
-    "link": "https://thequantuminsider.com/2026/04/14/ionq-umd-qlab-quantum-networking-expansion/",
-    "published": "2026-04-14 01:18:39"
+    "title": "UK Start-ups to Power a New Wave of Quantum Innovation",
+    "link": "https://thequantuminsider.com/2026/04/14/uk-start-ups-to-power-a-new-wave-of-quantum-innovation/",
+    "published": "2026-04-14 15:56:50"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Australian Quantum Sensing Company Deteqt Closes $5 Million AUD Seed Round",
-    "link": "https://thequantuminsider.com/2026/04/13/australian-quantum-sensing-company-deteqt-closes-5-million-aud-seed-round/",
-    "published": "2026-04-13 22:03:38"
+    "title": "A Quantum Payload Reaches Orbit, Commercial Quantum Communication Is on the Horizon",
+    "link": "https://thequantuminsider.com/2026/04/14/a-quantum-payload-reaches-orbit-commercial-quantum-communication-is-on-the-horizon/",
+    "published": "2026-04-14 15:24:32"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Bloq Selected for Funding Under India\u2019s National Quantum Mission to Accelerate Enterprise Quantum Adoption",
-    "link": "https://thequantuminsider.com/2026/04/13/bloq-selected-for-funding-under-indias-national-quantum-mission-to-accelerate-enterprise-quantum-adoption/",
-    "published": "2026-04-13 12:53:00"
+    "title": "Quandela Deploys Photonic Quantum Computer Integrated with HPC System",
+    "link": "https://thequantuminsider.com/2026/04/14/quandela-photonic-quantum-hpc/",
+    "published": "2026-04-14 15:21:17"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "IQM Introduces AI-Based Calibration for Scalable Quantum Systems",
+    "link": "https://thequantuminsider.com/2026/04/14/iqm-ai-based-calibration-scalable-quantum-systems/",
+    "published": "2026-04-14 15:05:21"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Bull and Equal1 Partner on Hybrid Quantum and HPC Integration",
+    "link": "https://thequantuminsider.com/2026/04/14/bull-equal1-hybrid-quantum-hpc-integration-europe/",
+    "published": "2026-04-14 14:58:27"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum systems can remember and forget at the same time, scientists discover",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm",
+    "published": "2026-04-14 05:55:52"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
     "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
     "published": "2026-04-13 12:38:46"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "BMO Announces Partnership with Quantum Industry Canada and Chicago Quantum Exchange",
-    "link": "https://thequantuminsider.com/2026/04/13/bmo-announces-partnership-with-quantum-industry-canada-and-chicago-quantum-exchange/",
-    "published": "2026-04-13 11:53:01"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Making Light Spin With a Gold Nanorod",
-    "link": "https://thequantuminsider.com/2026/04/13/making-light-spin-with-a-gold-nanorod/",
-    "published": "2026-04-13 11:18:56"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Scientists find quantum computers forget most of their work",
     "link": "https://www.sciencedaily.com/releases/2026/04/260406045126.htm",
     "published": "2026-04-06 09:08:06"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists built a quantum battery that breaks the rules of charging",
-    "link": "https://www.sciencedaily.com/releases/2026/04/260403224452.htm",
-    "published": "2026-04-05 03:00:42"
   }
 ]
