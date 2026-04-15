@@ -1,12 +1,12 @@
-name: Fetch Latest News
+name: Fetch Latest AI News
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
+    - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  fetch-news:
+  fetch-ai-news:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -20,11 +20,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch and process news
-        run: python scripts/fetch_news.py
+      - name: Fetch and process AI news
+        run: python scripts/fetch_ai_news.py
 
       - name: Commit and push if it changed
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update news data"
-          file_pattern: "_data/news.json"
+          commit_message: "Update AI news data"
+          file_pattern: "_data/ai_news.json"

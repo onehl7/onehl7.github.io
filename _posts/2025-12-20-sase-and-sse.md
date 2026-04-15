@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SASE and SSE"
-category: technology
+category: tech
 ---
 
 ## SASE and SSE Comparison

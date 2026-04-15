@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Technology"
-category: technology
+title: "Tech"
+category: tech
 ---
 
 {% assign topic = site.topics | where: "slug", page.category | first %}
