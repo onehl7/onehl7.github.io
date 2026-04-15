@@ -1,5 +1,5 @@
 title: "A Curious Mind"
-description: "Exploring technology, science, and the cosmos"
+description: "Exploring tech, science, and the cosmos"
 timezone: "UTC"
 
 remote_theme: pages-themes/modernist@v0.2.0
@@ -19,10 +19,14 @@ topics:
     slug: quantum
     emoji: "🧬"
     image_url: "/assets/images/quantum.png"
-  - name: Technology
-    slug: technology
+  - name: Tech
+    slug: tech
     emoji: "💻"
-    image_url: "/assets/images/technology.png"
+    image_url: "/assets/images/tech.png"
+  - name: AI
+    slug: ai
+    emoji: "🤖"
+    image_url: "/assets/images/ai.png"
   - name: Space
     slug: space
     emoji: "🚀"

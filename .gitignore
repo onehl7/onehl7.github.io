@@ -7,5 +7,15 @@ _site/
 # Ruby / Bundler
 .bundle/
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.python-version
+
 # OS-specific
 .DS_Store

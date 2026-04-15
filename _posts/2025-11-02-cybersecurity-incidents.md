@@ -2,7 +2,7 @@
 layout: post
 title: "Cybersecurity Incidents"
 date: 2025-11-02 12:00:00 +0000
-categories: [technology]
+categories: [tech]
 excerpt: "A dynamically updated list of recent cybersecurity incidents from various sources."
 ---
 
