@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-    "published": "2026-04-15 11:41:35"
+    "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+    "published": "2026-04-15 22:35:09"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
-    "published": "2026-04-15 10:24:53"
+    "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+    "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+    "published": "2026-04-15 21:57:17"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-    "published": "2026-04-14 22:23:33"
+    "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+    "published": "2026-04-15 20:33:50"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-    "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-    "published": "2026-04-14 21:58:31"
+    "title": "Signed software abused to deploy antivirus-killing scripts",
+    "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+    "published": "2026-04-15 17:59:30"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-    "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-    "published": "2026-04-14 20:33:00"
+    "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+    "published": "2026-04-15 16:20:21"
   }
 ]
