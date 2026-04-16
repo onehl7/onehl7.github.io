@@ -1,62 +1,62 @@
 [
   {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "published": "2026-04-15 15:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "published": "2026-04-15 12:07:25",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "published": "2026-04-15 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Meet HoloTab by HCompany. Your AI browser companion.",
     "link": "https://huggingface.co/blog/Hcompany/holotab",
-    "published": "2026-04-15 10:25:20",
+    "published": "2026-04-15 09:25:20",
     "source": "Hugging Face Blog"
   },
   {
     "title": "Building trust in the AI era with privacy-led UX",
     "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-    "published": "2026-04-15 07:00:00",
+    "published": "2026-04-15 06:00:00",
     "source": "MIT Technology Review AI"
   },
   {
     "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
     "link": "https://arxiv.org/abs/2604.11828",
-    "published": "2026-04-15 05:00:00",
+    "published": "2026-04-15 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
     "link": "https://arxiv.org/abs/2604.11914",
-    "published": "2026-04-15 05:00:00",
+    "published": "2026-04-15 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Redefining the future of software engineering",
     "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-    "published": "2026-04-14 19:00:00",
+    "published": "2026-04-14 18:00:00",
     "source": "MIT Technology Review AI"
   },
   {
     "title": "Turn your best AI prompts into one-click tools in Chrome",
     "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "published": "2026-04-14 18:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Bringing people together at AI for the Economy Forum",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-    "published": "2026-04-14 10:00:00",
+    "published": "2026-04-14 17:00:00",
     "source": "Google AI Blog"
   },
   {
     "title": "Trusted access for the next era of cyber defense",
     "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "published": "2026-04-14 01:00:00",
+    "published": "2026-04-14 00:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "published": "2026-04-13 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-    "link": "https://huggingface.co/blog/waypoint-1-5",
-    "published": "2026-04-09 01:00:00",
-    "source": "Hugging Face Blog"
   }
 ]
