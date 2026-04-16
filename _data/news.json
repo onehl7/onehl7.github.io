@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Cisco says critical Webex Services flaw requires customer action",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+    "published": "2026-04-16 12:01:42"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+    "published": "2026-04-16 10:35:09"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
+    "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
+    "published": "2026-04-16 08:32:13"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: April Windows Server 2025 update may fail to install",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+    "published": "2026-04-16 07:37:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
     "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
     "published": "2026-04-15 22:35:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
-    "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-    "published": "2026-04-15 21:57:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress plugin suite hacked to push malware to thousands of sites",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-    "published": "2026-04-15 20:33:50"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Signed software abused to deploy antivirus-killing scripts",
-    "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
-    "published": "2026-04-15 17:59:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
-    "published": "2026-04-15 16:20:21"
   }
 ]
