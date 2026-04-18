@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+    "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+    "published": "2026-04-17 19:10:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
+    "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+    "published": "2026-04-17 15:08:53"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
+    "published": "2026-04-17 14:01:11"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
     "published": "2026-04-17 12:20:28"
@@ -10,23 +28,5 @@
     "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
     "published": "2026-04-17 09:30:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-    "published": "2026-04-17 07:59:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-    "published": "2026-04-17 07:10:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Recently leaked Windows zero-days now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-    "published": "2026-04-17 06:14:52"
   }
 ]
