@@ -1,25 +1,43 @@
 [
   {
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "published": "2026-04-17 16:17:55",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "published": "2026-04-17 14:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "How robots learn: A brief, contemporary history",
+    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "published": "2026-04-17 10:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms",
+    "link": "https://arxiv.org/abs/2604.14160",
+    "published": "2026-04-17 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+    "link": "https://arxiv.org/abs/2604.14178",
+    "published": "2026-04-17 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "A new way to explore the web with AI Mode in Chrome",
     "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
     "published": "2026-04-16 17:00:00",
     "source": "Google AI Blog"
   },
   {
-    "title": "New ways to create personalized images in the Gemini app",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-    "published": "2026-04-16 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
     "title": "Making AI operational in constrained public sector environments",
     "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-    "published": "2026-04-16 13:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Treating enterprise AI as an operating layer",
-    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
     "published": "2026-04-16 13:00:00",
     "source": "MIT Technology Review AI"
   },
@@ -30,32 +48,14 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-    "link": "https://arxiv.org/abs/2604.13151",
-    "published": "2026-04-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
-    "link": "https://arxiv.org/abs/2604.13180",
-    "published": "2026-04-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Introducing GPT-Rosalind for life sciences research",
     "link": "https://openai.com/index/introducing-gpt-rosalind",
     "published": "2026-04-16 01:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "The PR you would have opened yourself",
-    "link": "https://huggingface.co/blog/transformers-to-mlx",
-    "published": "2026-04-16 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "link": "https://huggingface.co/blog/ecom-rlve",
     "published": "2026-04-16 00:00:00",
     "source": "Hugging Face Blog"
   }
