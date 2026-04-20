@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "published": "2026-04-19 17:32:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Apple account change alerts abused to send phishing emails",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+    "published": "2026-04-19 16:03:01"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NIST to stop rating non-priority flaws due to volume increase",
+    "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+    "published": "2026-04-19 14:17:43"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical flaw in Protobuf library enables JavaScript code execution",
     "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
     "published": "2026-04-18 15:09:44"
@@ -10,23 +28,5 @@
     "title": "Microsoft Teams right-click paste broken by Edge update bug",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
     "published": "2026-04-18 14:11:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-    "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-    "published": "2026-04-18 13:45:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-    "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-    "published": "2026-04-17 19:10:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
-    "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-    "published": "2026-04-17 15:08:53"
   }
 ]
