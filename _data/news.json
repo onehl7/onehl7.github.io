@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+    "published": "2026-04-20 13:33:42"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft tests Windows Explorer speed, performance improvements",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+    "published": "2026-04-20 12:04:02"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft pulls service update causing Teams launch failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+    "published": "2026-04-20 09:40:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases emergency updates to fix Windows Server issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+    "published": "2026-04-20 08:30:56"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Vercel confirms breach as hackers claim to be selling stolen data",
     "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
     "published": "2026-04-19 17:32:45"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple account change alerts abused to send phishing emails",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-    "published": "2026-04-19 16:03:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NIST to stop rating non-priority flaws due to volume increase",
-    "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-    "published": "2026-04-19 14:17:43"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-    "published": "2026-04-18 15:09:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams right-click paste broken by Edge update bug",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-    "published": "2026-04-18 14:11:21"
   }
 ]
