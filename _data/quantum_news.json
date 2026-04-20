@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+    "published": "2026-04-19 12:57:46"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Overview of 10+ Quantum Companies in Germany \u2013 2026",
     "link": "https://thequantuminsider.com/2026/04/18/quantum-computing-companies-in-germany/",
@@ -52,11 +58,5 @@
     "title": "This new chip could slash data center energy waste",
     "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
     "published": "2026-04-10 12:45:22"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists find quantum computers forget most of their work",
-    "link": "https://www.sciencedaily.com/releases/2026/04/260406045126.htm",
-    "published": "2026-04-06 09:08:06"
   }
 ]
