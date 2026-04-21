@@ -1,9 +1,33 @@
 [
   {
-    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-    "published": "2026-04-17 16:17:55",
+    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "published": "2026-04-21 00:40:10",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "published": "2026-04-20 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+    "link": "https://arxiv.org/abs/2604.15456",
+    "published": "2026-04-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+    "link": "https://arxiv.org/abs/2604.15495",
+    "published": "2026-04-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "published": "2026-04-20 00:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "7 ways to travel smarter this summer, with help from Google",
@@ -24,21 +48,9 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Making AI operational in constrained public sector environments",
-    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-    "published": "2026-04-16 13:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Codex for (almost) everything",
     "link": "https://openai.com/index/codex-for-almost-everything",
     "published": "2026-04-16 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "published": "2026-04-16 01:00:00",
     "source": "OpenAI News"
   },
   {
