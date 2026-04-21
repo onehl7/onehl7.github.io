@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+    "published": "2026-04-21 12:30:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+    "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+    "published": "2026-04-21 11:17:51"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+    "published": "2026-04-21 10:12:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NGate Android malware uses HandyPay NFC app to steal card data",
+    "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+    "published": "2026-04-21 09:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
     "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
     "published": "2026-04-20 22:23:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-    "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-    "published": "2026-04-20 21:52:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
-    "published": "2026-04-20 20:02:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Seiko USA website defaced as hacker claims customer data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-    "published": "2026-04-20 18:22:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-    "published": "2026-04-20 15:11:24"
   }
 ]
