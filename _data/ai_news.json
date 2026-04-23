@@ -1,13 +1,49 @@
 [
   {
-    "title": "10 Things That Matter in AI Right Now",
-    "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-    "published": "2026-04-21 20:45:00",
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "link": "https://huggingface.co/blog/nvidia/gemma4",
+    "published": "2026-04-22 15:40:50",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "published": "2026-04-22 15:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+    "published": "2026-04-22 12:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "AI needs a strong data fabric to deliver business value",
+    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "published": "2026-04-22 10:05:06",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "LLMs+",
-    "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "published": "2026-04-22 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
+    "link": "https://arxiv.org/abs/2604.18645",
+    "published": "2026-04-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
+    "link": "https://arxiv.org/abs/2604.18724",
+    "published": "2026-04-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "10 Things That Matter in AI Right Now",
+    "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
     "published": "2026-04-21 20:45:00",
     "source": "MIT Technology Review AI"
   },
@@ -22,41 +58,5 @@
     "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
     "published": "2026-04-21 10:09:58",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-    "link": "https://arxiv.org/abs/2604.15456",
-    "published": "2026-04-21 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-    "link": "https://arxiv.org/abs/2604.15495",
-    "published": "2026-04-21 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-    "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-    "published": "2026-04-21 00:40:10",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Scaling Codex to enterprises worldwide",
-    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "published": "2026-04-21 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "published": "2026-04-20 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "7 ways to travel smarter this summer, with help from Google",
-    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-    "published": "2026-04-17 14:00:00",
-    "source": "Google AI Blog"
   }
 ]
