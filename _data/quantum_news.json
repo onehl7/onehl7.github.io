@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Canada Gains Access to Pasqal Quantum Systems via PINQ\u00b2",
-    "link": "https://thequantuminsider.com/2026/04/21/pinq2-distriq-exclusive-distributor-pasqal-quantum-canada/",
-    "published": "2026-04-21 15:03:31"
+    "title": "Honeywell Announces Quantinuum\u2019s Confidential Submission of Draft Registration Statement For Proposed IPO",
+    "link": "https://thequantuminsider.com/2026/04/22/honeywell-announces-quantinuums-confidential-submission-of-draft-registration-statement-for-proposed-ipo/",
+    "published": "2026-04-22 15:49:40"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Cryptologist Finds AES-128 Likely Safe From Quantum Attack",
-    "link": "https://thequantuminsider.com/2026/04/21/cryptologist-finds-aes-128-likely-safe-from-quantum-attack/",
-    "published": "2026-04-21 14:57:14"
+    "title": "Colorado Quantum Incubator Builds Quantum Timing Testbed",
+    "link": "https://thequantuminsider.com/2026/04/22/colorado-quantum-incubator-open-access-quantum-timing-testbed/",
+    "published": "2026-04-22 11:38:24"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Pasqal Showcases Quantum Progress at 2026 Event",
-    "link": "https://thequantuminsider.com/2026/04/21/pasqal-thoughts-2026-quantum-transition-real-world-deployment/",
-    "published": "2026-04-21 14:20:57"
+    "title": "Quantum Researchers Find Faster Path to Practical Advantage, Challenge Assumptions About Architecture Design",
+    "link": "https://thequantuminsider.com/2026/04/22/quantum-researchers-find-faster-path-to-practical-advantage-challenge-assumptions-about-architecture-design/",
+    "published": "2026-04-22 11:16:24"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NPL Collaborates with NVIDIA to Use AI for Automated Quantum Computing Characterization",
-    "link": "https://thequantuminsider.com/2026/04/21/npl-nvidia-ai-quantum-computing-characterisation/",
-    "published": "2026-04-21 13:40:24"
+    "title": "Pennsylvania Universities and Commonwealth Leaders Launch Keystone AI + Quantum Factory",
+    "link": "https://thequantuminsider.com/2026/04/22/pennsylvania-universities-and-commonwealth-leaders-launch-keystone-ai-quantum-factory/",
+    "published": "2026-04-22 08:37:59"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Guest Post \u2013 Why The Real Quantum Race is Shifting From Hardware to Software",
-    "link": "https://thequantuminsider.com/2026/04/21/guest-post-why-the-real-quantum-race-is-shifting-from-hardware-to-software/",
-    "published": "2026-04-21 13:08:07"
+    "title": "Ion Clock Experiments Reveal Time Can Go Quantum",
+    "link": "https://thequantuminsider.com/2026/04/22/ion-clock-experiments-reveal-time-can-go-quantum/",
+    "published": "2026-04-22 08:18:07"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "This \u201cquantum\u201d material fooled scientists and revealed something new",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260421042819.htm",
+    "published": "2026-04-22 07:18:44"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
     "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
     "published": "2026-04-13 12:38:46"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "This new chip could slash data center energy waste",
-    "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
-    "published": "2026-04-10 12:45:22"
   }
 ]
