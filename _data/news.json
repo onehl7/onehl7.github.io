@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Apple fixes iOS bug that retained deleted notification data",
+    "title": "Microsoft: Some Teams users can\u2019t join meetings after Edge update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+    "published": "2026-04-23 13:18:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+    "published": "2026-04-23 12:28:39"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+    "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+    "published": "2026-04-23 12:06:18"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+    "published": "2026-04-23 11:05:57"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
     "published": "2026-04-22 20:58:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-    "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-    "published": "2026-04-22 20:04:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
-    "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
-    "published": "2026-04-22 18:52:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
-    "published": "2026-04-22 15:06:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
-    "published": "2026-04-22 14:01:11"
   }
 ]
