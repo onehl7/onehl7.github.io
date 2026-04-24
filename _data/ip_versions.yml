@@ -1,0 +1,61 @@
+# /_data/ip_versions.yml
+# Data for comparing major Internet Protocol versions.
+# IPv8 information is based on the experimental IETF draft and is not a standard.
+
+headers:
+  - "Feature"
+  - "IPv4"
+  - "IPv6"
+
+rows:
+  - - "RFC, Address Size"
+    - "[**RFC 791**](https://datatracker.ietf.org/doc/html/rfc791)<br>32-bit"
+    - "[**RFC 8200**](https://datatracker.ietf.org/doc/html/rfc8200) & [**RFC 4291**](https://datatracker.ietf.org/doc/html/rfc4291)<br>128-bit"
+
+  - - "Address Space & Type"
+    - "2^32 (~4.3 billion addresses)<br>Numerical (0-9)<br>4 octets"
+    - "2^128 (~340 undecillion)<br>Alphanumeric (0-9, a-f)<br>8 segments"
+
+  - - "Address Notation"
+    - "Dotted-decimal (e.g., 192.168.1.1)"
+    - "Hexadecimal with colons (e.g., 2001:db8::1)"
+
+  - - "Header Size"
+    - "Variable (20-60 bytes)<br>'Options' field required 'IHL' processing by routers"
+    - "Fixed (40 bytes)<br>Uses 'Extension Headers' instead of options"
+
+  - - "BUM Traffic"
+    - "Uses Broadcast to send packets to all devices in a subnet"
+    - "No Broadcast in IPv6, uses Multicast and Anycast groups"
+  
+  - - "ARP"
+    - "ARP is used to map IP to MAC or link address"
+    - "No such thing as ARP6., embeds these functions in itself with stateless autoconfiguration and neighbor discovery using ICMPv6"
+
+  - - "DNS"
+    - "Hostname to IP mapping, 'A record' in DNS service"
+    - "same in IPv6, IPv6 using 'AAAA (quad A) record' type"
+
+  - - "IGMP"
+    - "To find multicast group"
+    - "IGMP is replaced by MLD, which uses ICMPv6"
+
+  - - "Security"
+    - "Optional (IPsec is an add-on)"
+    - "Built-in / Mandatory (IPsec is integrated into the protocol)"
+
+  - - "Configuration"
+    - "Manual or DHCP"
+    - "Stateless Autoconfiguration (SLAAC) & DHCPv6"
+
+  - - "IPv4 Compatibility"
+    - "Native"
+    - "Transition via Tunnels/NAT64"
+
+  - - "Key Design Goal"
+    - "Initial protocol for the internet"
+    - "Solve address exhaustion with a massive address space"
+
+  - - "Status"
+    - "Legacy (address space exhausted)<br>[**IANA Status**](https://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml)"
+    - "Current Standard(Global adoption ongoing)"
