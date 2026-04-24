@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
+    "published": "2026-04-24 11:38:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
     "published": "2026-04-23 21:33:45"
@@ -22,11 +28,5 @@
     "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
     "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
     "published": "2026-04-23 16:05:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-    "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-    "published": "2026-04-23 14:16:21"
   }
 ]
