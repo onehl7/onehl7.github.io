@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft: Some Teams users can\u2019t join meetings after Edge update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
-    "published": "2026-04-23 13:18:10"
+    "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+    "published": "2026-04-23 21:33:45"
   },
   {
     "source": "Bleeping Computer",
-    "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-    "published": "2026-04-23 12:28:39"
+    "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+    "published": "2026-04-23 19:21:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-    "published": "2026-04-23 12:06:18"
+    "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+    "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+    "published": "2026-04-23 18:59:39"
   },
   {
     "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-    "published": "2026-04-23 11:05:57"
+    "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+    "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+    "published": "2026-04-23 16:05:12"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-    "published": "2026-04-22 20:58:58"
+    "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+    "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+    "published": "2026-04-23 14:16:21"
   }
 ]
