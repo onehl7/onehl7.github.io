@@ -1,5 +1,35 @@
 [
   {
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "published": "2026-04-24 21:40:58",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "published": "2026-04-24 19:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+    "link": "https://arxiv.org/abs/2604.19749",
+    "published": "2026-04-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+    "link": "https://arxiv.org/abs/2604.19751",
+    "published": "2026-04-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "link": "https://huggingface.co/blog/deepseekv4",
+    "published": "2026-04-24 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
     "published": "2026-04-23 12:00:00",
@@ -18,27 +48,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-    "published": "2026-04-23 09:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-    "link": "https://arxiv.org/abs/2604.19749",
-    "published": "2026-04-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-    "link": "https://arxiv.org/abs/2604.19751",
-    "published": "2026-04-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-    "link": "https://huggingface.co/blog/nvidia/gemma4",
-    "published": "2026-04-22 15:40:50",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "published": "2026-04-23 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -46,17 +58,5 @@
     "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
     "published": "2026-04-22 10:05:06",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "10 Things That Matter in AI Right Now",
-    "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-    "published": "2026-04-21 20:45:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-    "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-    "published": "2026-04-21 10:09:58",
-    "source": "Hugging Face Blog"
   }
 ]
