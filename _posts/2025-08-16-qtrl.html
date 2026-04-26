@@ -7,6 +7,17 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
 ---
 
 <style>
+    /* Theme-aware variables for badges and cards */
+    :root {
+        --evidence-bg: rgba(59, 130, 246, 0.05);
+        --header-line: #e2e8f0;
+    }
+
+    :root[data-theme="dark"] {
+        --evidence-bg: rgba(30, 64, 175, 0.2);
+        --header-line: #334155;
+    }
+
     .styled-table {
         width: 100%;
         border-collapse: collapse;
@@ -44,69 +55,88 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
         border: 1px solid var(--card-border);
         box-shadow: var(--card-shadow);
     }
+    .evidence-box {
+        background-color: var(--evidence-bg);
+        border-left: 4px solid #3b82f6;
+        padding: 1rem;
+        border-radius: 0 4px 4px 0;
+    }
+    .trl-badge {
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-size: 0.8rem;
+        font-weight: 700;
+        display: inline-block;
+    }
 </style>
 
-<p class="text-center text-muted mb-8 max-w-2xl mx-auto">Technology Readiness Levels (TRLs) measure a technology's maturity. For quantum computing, a specialized QTRL scale is used. Below are the definitions for each level.</p>
+<header class="text-center mb-12">
+    <p class="text-center text-muted mb-6 max-w-2xl mx-auto italic">
+        "Tracking the transition from theoretical quantum research to operational fault-tolerant systems."
+    </p>
+    <div class="flex items-center justify-center gap-3 border-y border-dashed py-3 w-full max-w-lg mx-auto" style="border-color: var(--header-line);">
+        <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Status Report:</span>
+        <span class="text-sm font-bold text-blue-500 uppercase">April 2026 Update</span>
+    </div>
+</header>
 
-<!-- Section 1: What is QTRL? -->
 <section class="mb-16">
     <div class="content-card p-6 rounded-lg shadow-lg">
-        <h3 class="text-xl font-bold card-heading mb-4">Quantum Technology Readiness Levels (QTRL)</h3>
+        <h3 class="text-xl font-bold mb-4" style="color: var(--heading-color);">Quantum Technology Readiness Levels (QTRL)</h3>
         <table class="styled-table">
             <thead>
-                <tr>
-                    <th>QTRL Level</th>
-                    <th>Description</th>
-                </tr>
+                <tr><th>Level</th><th>Description</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>QTRL 1</strong></td><td>Theoretical framework for quantum computing is formulated.</td></tr>
-                <tr><td><strong>QTRL 2</strong></td><td>Basic device principles are studied, and applications or algorithms are formulated.</td></tr>
-                <tr><td><strong>QTRL 3</strong></td><td>Fabricated imperfect physical qubits exist. Laboratory studies validate theoretical predictions.</td></tr>
-                <tr><td><strong>QTRL 4</strong></td><td>Multi-qubit systems are fabricated, and classical devices for qubit manipulation are developed.</td></tr>
-                <tr><td><strong>QTRL 5</strong></td><td>Components are integrated into a small quantum processor without error correction.</td></tr>
-                <tr><td><strong>QTRL 6</strong></td><td>Components are integrated into a small quantum processor with error correction.</td></tr>
-                <tr><td><strong>QTRL 7</strong></td><td>A prototype quantum computer solves small but user-relevant problems.</td></tr>
-                <tr><td><strong>QTRL 8</strong></td><td>A scalable version of a quantum computer is completed and qualified.</td></tr>
-                <tr><td><strong>QTRL 9</strong></td><td>Quantum computers exceed the computational power of classical computers for specific problems.</td></tr>
+                <tr><td><strong>QTRL 2</strong></td><td>Basic device principles studied; algorithms formulated.</td></tr>
+                <tr><td><strong>QTRL 3</strong></td><td>Fabricated physical qubits exist; lab studies validate theory.</td></tr>
+                <tr><td><strong>QTRL 4</strong></td><td>Multi-qubit systems fabricated; classical control devices developed.</td></tr>
+                <tr><td><strong>QTRL 5</strong></td><td>Components integrated into small processor without error correction.</td></tr>
+                <tr><td><strong>QTRL 6</strong></td><td>Components integrated into small processor with error correction.</td></tr>
+                <tr><td><strong>QTRL 7</strong></td><td>Prototype quantum computer solves small but user-relevant problems.</td></tr>
+                <tr><td><strong>QTRL 8</strong></td><td>Scalable version of quantum computer completed and qualified.</td></tr>
+                <tr><td><strong>QTRL 9</strong></td><td>Quantum computers exceed classical power for specific problems.</td></tr>
             </tbody>
         </table>
     </div>
 </section>
 
-<!-- Section 2: Interactive 2025 Snapshot -->
 <section class="mb-16">
-    <h2 class="text-3xl font-bold text-center card-heading mb-2">2025 Snapshot: Current Maturity</h2>
-    <p class="text-center text-muted mb-8 max-w-2xl mx-auto">Click on a modality to see its current status, estimated TRL, and key advancements as of 2025.</p>
+    <h2 class="text-3xl font-bold text-center mb-2" style="color: var(--heading-color);">Quantum Maturity Evolution</h2>
+    <p class="text-center text-muted mb-8 max-w-2xl mx-auto">Select a modality to compare 2025 vs 2026 progress and view technical evidence.</p>
     
-    <div class="flex flex-wrap justify-center gap-4 mb-8" id="modality-buttons">
-        <button id="btn-superconducting" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Superconducting</button>
-        <button id="btn-trappedIon" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Trapped-Ion</button>
-        <button id="btn-photonic" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Photonic</button>
-        <button id="btn-topological" class="modality-button px-4 py-2 rounded-full border-2 transition-colors duration-200">Topological</button>
+    <div class="flex flex-wrap justify-center gap-3 mb-8" id="modality-buttons">
+        <button id="btn-superconducting" class="modality-button px-4 py-2 rounded-full border-2 transition-all duration-200 text-sm">Superconducting</button>
+        <button id="btn-trappedIon" class="modality-button px-4 py-2 rounded-full border-2 transition-all duration-200 text-sm">Trapped-Ion</button>
+        <button id="btn-neutralAtom" class="modality-button px-4 py-2 rounded-full border-2 transition-all duration-200 text-sm">Neutral Atom</button>
+        <button id="btn-photonic" class="modality-button px-4 py-2 rounded-full border-2 transition-all duration-200 text-sm">Photonic</button>
+        <button id="btn-topological" class="modality-button px-4 py-2 rounded-full border-2 transition-all duration-200 text-sm">Topological</button>
+        <button id="btn-network" class="modality-button px-4 py-2 rounded-full border-2 border-blue-400 text-blue-500 transition-all duration-200 text-sm">Quantum Network</button>
+        <button id="btn-security" class="modality-button px-4 py-2 rounded-full border-2 border-blue-400 text-blue-500 transition-all duration-200 text-sm">Quantum Security</button>
     </div>
 
-    <div class="content-card p-6 rounded-lg shadow-lg min-h-[120px]" id="modality-content">
-        <h3 class="text-xl font-bold card-heading mb-4">Select a modality above to view details.</h3>
+    <div class="content-card p-8 rounded-xl shadow-xl transition-all duration-300 border-t-4 border-t-blue-500" id="modality-content">
+        <h3 class="text-xl font-bold mb-4">Click a modality above to begin.</h3>
     </div>
 </section>
 
-<!-- Section 3: 5-Year Progression -->
 <section class="mb-16">
-    <h2 class="text-3xl font-bold text-center card-heading mb-2">5-Year Progression (2020-2025)</h2>
-    <p class="text-center text-muted mb-8 max-w-2xl mx-auto">The last five years have seen rapid progress. This table highlights key milestones across different modalities.</p>
-    <div class="content-card p-6 rounded-lg shadow-lg">
-        <h3 class="text-xl font-bold card-heading mb-4">Timeline of Breakthroughs</h3>
+    <h2 class="text-3xl font-bold text-center mb-8" style="color: var(--heading-color);">Progress Timeline (2020-2026)</h2>
+    <div class="content-card p-6 rounded-lg">
         <table class="styled-table">
             <thead>
                 <tr><th>Year</th><th>Modality</th><th>Key Milestone</th></tr>
             </thead>
             <tbody>
                 <tr><td>2020</td><td>Trapped-Ion</td><td>IonQ achieved 32-qubit systems.</td></tr>
-                <tr><td>2023</td><td>Topological</td><td>Microsoft achieved a breakthrough with Majorana zero modes.</td></tr>
+                <tr><td>2023</td><td>Topological</td><td>Microsoft achieved breakthrough with Majorana zero modes.</td></tr>
                 <tr><td>2024</td><td>Trapped-Ion</td><td>Quantinuum demonstrated 12 logical qubits with Microsoft.</td></tr>
-                <tr><td>2024</td><td>Superconducting</td><td>IBM unveiled a 433-qubit processor.</td></tr>
+                <tr><td>2024</td><td>Superconducting</td><td>IBM unveiled 433-qubit processor; focus shifts to error mitigation.</td></tr>
                 <tr><td>2025</td><td>Trapped-Ion</td><td>Quantinuum launched H2-1 with 56 qubits and 99.9% gate fidelity.</td></tr>
+                <tr><td>2025</td><td>Neutral Atom</td><td>QuEra demonstrated 256-qubit reconfigurable arrays.</td></tr>
+                <tr><td>2026</td><td>Trapped-Ion</td><td>Quantinuum/IonQ reach TRL 8 (HPC Integration).</td></tr>
+                <tr><td>2026</td><td>Networking</td><td>Cisco Universal Quantum Switch enabling multi-node QLANs.</td></tr>
             </tbody>
         </table>
     </div>
@@ -115,29 +145,124 @@ excerpt: "An interactive dashboard to explore the maturity of different quantum 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
         const modalities = {
-            superconducting: { name: "Superconducting", trl: "6", advancements: "Leading platform with high qubit counts. Major players like IBM are focused on error mitigation." },
-            trappedIon: { name: "Trapped-Ion", trl: "7", advancements: "Known for high fidelity. Quantinuum achieved 99.9% two-qubit gate fidelity and demonstrated logical qubits." },
-            photonic: { name: "Photonic", trl: "5", advancements: "Gaining traction due to room-temperature operation potential. Companies like PsiQuantum and Xanadu are commercializing solutions." },
-            topological: { name: "Topological", trl: "4", advancements: "A long-term bet with potential for inherent fault tolerance. Microsoft has demonstrated key breakthroughs, validating basic principles." }
+            superconducting: {
+                name: "Superconducting", trl25: 6, trl26: 7,
+                advancements: "Transitioned to modular 'Utility Scale' systems. Focused on Starling/Kookaburra processors.",
+                evidence: "Deployment of IBM System Two at third-party HPC sites; utility-scale benchmarks in material science."
+            },
+            trappedIon: {
+                name: "Trapped-Ion", trl25: 7, trl26: 8,
+                advancements: "System Qualification achieved. High-fidelity logical qubits are now commercially available.",
+                evidence: "IonQ Tempo and Quantinuum H2-1 integration into standard enterprise cloud workflows (Azure/AWS)."
+            },
+            neutralAtom: {
+                name: "Neutral Atom", trl25: 5, trl26: 6,
+                advancements: "Rapid rise in 2025. Demonstrating dynamic atom connectivity and reconfigurable zones.",
+                evidence: "QuEra Equinox system release; successful demonstration of error-corrected logical qubits at scale."
+            },
+            photonic: {
+                name: "Photonic", trl25: 5, trl26: 6,
+                advancements: "Large-scale integration. Moving toward modular, room-temperature quantum computing centers.",
+                evidence: "PsiQuantum fabrication milestones; Xanadu's integrated photonic error-correction chip benchmarks."
+            },
+            topological: {
+                name: "Topological", trl25: 4, trl26: 5,
+                advancements: "Hardware-protected qubits validated. Integration into small functional processors.",
+                evidence: "Microsoft Azure Quantum peer-reviewed benchmarks for Majorana-based logical qubit stability."
+            },
+            network: {
+                name: "Quantum Networking", trl25: 4, trl26: 5,
+                advancements: "Transitioning from point-to-point links to switched Quantum LANs (QLANs).",
+                evidence: "Release of the Cisco Universal Quantum Switch; EuroQCI campus-scale trials."
+            },
+            security: {
+                name: "Quantum Security", trl25: 8, trl26: 9,
+                advancements: "Full adoption of NIST PQC standards. QKD being used for critical financial infrastructure.",
+                evidence: "Mandatory FIPS 203/204 compliance (PQC); Operational QKD links by ID Quantique and Toshiba."
+            }
         };
+
         const buttons = document.querySelectorAll('.modality-button');
         const contentDiv = document.getElementById('modality-content');
+
+        function applyBadgeStyles() {
+            const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
+            const oldBadge = contentDiv.querySelector('.trl-badge:first-of-type');
+            const newBadge = contentDiv.querySelector('.trl-badge:last-of-type');
+
+            if (!oldBadge || !newBadge) return;
+
+            if (isDarkMode) {
+                // Dark Mode Styles - Improved contrast
+                oldBadge.style.backgroundColor = '#64748b'; // slate-500 for better visibility
+                oldBadge.style.setProperty('color', '#ffffff', 'important'); // White text
+                
+                newBadge.style.backgroundColor = '#3b82f6'; // blue-500
+                newBadge.style.setProperty('color', '#ffffff', 'important'); // White text
+            } else {
+                // Light Mode Styles
+                oldBadge.style.backgroundColor = '#f1f5f9';
+                oldBadge.style.setProperty('color', '#475569', ''); // No !important
+                
+                newBadge.style.backgroundColor = '#dbeafe';
+                newBadge.style.setProperty('color', '#1d4ed8', ''); // No !important
+            }
+        }
+
         function renderContent(modalityKey) {
             const data = modalities[modalityKey];
+            if(!data) return;
+
             buttons.forEach(btn => btn.classList.remove('active'));
-            document.getElementById(`btn-${modalityKey}`).classList.add('active');
-            contentDiv.innerHTML = `
-                <h3 class="text-xl font-bold card-heading mb-4">${data.name}</h3>
-                <p class="text-lg text-muted mb-2"><strong>Estimated QTRL 2025:</strong> ${data.trl}</p>
-                <p class="text-lg text-muted"><strong>Key Advancements:</strong> ${data.advancements}</p>
-            `;
+            const activeBtn = document.getElementById(`btn-${modalityKey}`);
+            if(activeBtn) activeBtn.classList.add('active');
+
+            const hasProgressed = data.trl26 > data.trl25;
+            const trendIcon = hasProgressed ? '<span style="color: #22c55e !important; margin-left: 6px; font-weight: bold;">↑</span>' : '';
+
+            contentDiv.style.opacity = '0';
+            
+            setTimeout(() => {
+                // Set content WITHOUT inline styles on the badges themselves
+                contentDiv.innerHTML = `
+                    <h3 class="text-2xl font-bold mb-4" style="color: var(--heading-color);">${data.name}</h3>
+                    <div class="flex items-center gap-3 mb-6">
+                        <span class="trl-badge">2025: TRL ${data.trl25}</span>
+                        <span class="trl-badge">2026: TRL ${data.trl26}${trendIcon}</span>
+                    </div>
+                    <p class="text-lg mb-6" style="color: var(--text-color); line-height: 1.6;">
+                        <strong>Key Advancements:</strong> ${data.advancements}
+                    </p>
+                    <div class="evidence-box">
+                        <strong class="text-blue-500 uppercase text-xs tracking-widest block mb-2">2026 Justification & Evidence</strong>
+                        <p class="text-sm italic" style="color: var(--text-color); opacity: 0.9;">${data.evidence}</p>
+                    </div>
+                `;
+                // Apply styles programmatically after the elements are in the DOM
+                applyBadgeStyles();
+                contentDiv.style.opacity = '1';
+            }, 150);
         }
+
         buttons.forEach(button => {
             button.addEventListener('click', (event) => {
                 const modalityKey = event.target.id.replace('btn-', '');
                 renderContent(modalityKey);
             });
         });
+
         renderContent('superconducting');
+
+        // Add a MutationObserver to watch for theme changes (light/dark mode toggle).
+        const observer = new MutationObserver((mutationsList) => {
+            for (const mutation of mutationsList) {
+                if (mutation.type === 'attributes' && mutation.attributeName === 'data-theme') {
+                    // Theme has changed, just re-apply the styles to the existing elements.
+                    // A small delay helps ensure the theme's own scripts have finished.
+                    setTimeout(applyBadgeStyles, 50);
+                }
+            }
+        });
+        observer.observe(document.documentElement, { attributes: true });
     });
 </script>
