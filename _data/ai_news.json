@@ -1,5 +1,17 @@
 [
   {
+    "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+    "link": "https://arxiv.org/abs/2604.20862",
+    "published": "2026-04-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+    "link": "https://arxiv.org/abs/2604.20972",
+    "published": "2026-04-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Three reasons why DeepSeek’s new model matters",
     "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
     "published": "2026-04-24 21:40:58",
@@ -10,18 +22,6 @@
     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
     "published": "2026-04-24 19:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-    "link": "https://arxiv.org/abs/2604.19749",
-    "published": "2026-04-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-    "link": "https://arxiv.org/abs/2604.19751",
-    "published": "2026-04-24 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "DeepSeek-V4: a million-token context that agents can actually use",
