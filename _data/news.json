@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "American utility firm Itron discloses breach of internal IT network",
+    "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+    "published": "2026-04-26 14:22:34"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft rolls out revamped Windows Insider Program",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
     "published": "2026-04-25 17:07:13"
@@ -22,11 +28,5 @@
     "title": "Firestarter malware survives Cisco firewall updates, security patches",
     "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
     "published": "2026-04-24 20:34:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows Update gets new controls to reduce forced restarts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-    "published": "2026-04-24 20:08:26"
   }
 ]
