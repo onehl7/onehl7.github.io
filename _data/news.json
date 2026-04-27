@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Medtronic confirms breach after hackers claim 9 million records theft",
+    "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+    "published": "2026-04-27 13:50:42"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
+    "published": "2026-04-27 13:01:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
+    "link": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
+    "published": "2026-04-27 13:00:09"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+    "published": "2026-04-27 12:03:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "American utility firm Itron discloses breach of internal IT network",
     "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
     "published": "2026-04-26 14:22:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft rolls out revamped Windows Insider Program",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-    "published": "2026-04-25 17:07:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Threat actor uses Microsoft Teams to deploy new \u201cSnow\u201d malware",
-    "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-    "published": "2026-04-25 15:07:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ADT confirms data breach after ShinyHunters leak threat",
-    "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-    "published": "2026-04-24 22:53:14"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Firestarter malware survives Cisco firewall updates, security patches",
-    "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-    "published": "2026-04-24 20:34:08"
   }
 ]
