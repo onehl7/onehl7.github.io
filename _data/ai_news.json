@@ -1,50 +1,62 @@
 [
   {
-    "title": "Our principles",
-    "link": "https://openai.com/index/our-principles",
-    "published": "2026-04-26 16:00:00",
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "published": "2026-04-28 00:28:13",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "published": "2026-04-27 22:52:57",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The missing step between hype and profit",
+    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "published": "2026-04-27 16:13:41",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "OpenAI available at FedRAMP Moderate",
+    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "published": "2026-04-27 14:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Three reasons why DeepSeek’s new model matters",
-    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "published": "2026-04-24 21:40:58",
-    "source": "MIT Technology Review AI"
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "published": "2026-04-27 13:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "published": "2026-04-27 06:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+    "link": "https://arxiv.org/abs/2604.21935",
+    "published": "2026-04-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+    "link": "https://arxiv.org/abs/2604.21936",
+    "published": "2026-04-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "published": "2026-04-27 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "8 Gemini tips for organizing your space (and life)",
     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
     "published": "2026-04-24 19:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "DeepSeek-V4: a million-token context that agents can actually use",
-    "link": "https://huggingface.co/blog/deepseekv4",
-    "published": "2026-04-24 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-    "published": "2026-04-23 12:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "link": "https://openai.com/index/gpt-5-5-system-card",
-    "published": "2026-04-23 11:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "published": "2026-04-23 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "AI needs a strong data fabric to deliver business value",
-    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "published": "2026-04-22 10:05:06",
-    "source": "MIT Technology Review AI"
   }
 ]
