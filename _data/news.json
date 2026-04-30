@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+    "published": "2026-04-30 11:40:31"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+    "published": "2026-04-30 11:21:02"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Official SAP npm packages compromised to steal credentials",
     "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
     "published": "2026-04-29 22:43:44"
@@ -16,17 +28,5 @@
     "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
     "published": "2026-04-29 20:50:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-    "published": "2026-04-29 18:32:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
-    "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-    "published": "2026-04-29 15:51:44"
   }
 ]
