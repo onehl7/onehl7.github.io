@@ -1,39 +1,45 @@
 [
   {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "published": "2026-04-29 16:45:09",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "published": "2026-04-29 15:01:48",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "published": "2026-04-29 15:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "published": "2026-04-29 04:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Co-Director: Agentic Generative Video Storytelling",
+    "link": "https://arxiv.org/abs/2604.24842",
+    "published": "2026-04-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "link": "https://arxiv.org/abs/2604.24881",
+    "published": "2026-04-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
     "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
     "published": "2026-04-28 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "published": "2026-04-28 15:58:57",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-    "link": "https://arxiv.org/abs/2604.22777",
-    "published": "2026-04-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-    "link": "https://arxiv.org/abs/2604.22934",
-    "published": "2026-04-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Our commitment to community safety",
-    "link": "https://openai.com/index/our-commitment-to-community-safety",
-    "published": "2026-04-28 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "link": "https://openai.com/index/openai-on-aws",
-    "published": "2026-04-28 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
@@ -52,11 +58,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
     "published": "2026-04-27 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "published": "2026-04-27 00:00:00",
-    "source": "Hugging Face Blog"
   }
 ]
