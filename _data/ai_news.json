@@ -1,5 +1,35 @@
 [
   {
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "published": "2026-04-30 15:59:41",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+    "link": "https://arxiv.org/abs/2604.26091",
+    "published": "2026-04-30 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+    "link": "https://arxiv.org/abs/2604.26095",
+    "published": "2026-04-30 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Introducing Advanced Account Security",
+    "link": "https://openai.com/index/advanced-account-security",
+    "published": "2026-04-30 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "published": "2026-04-29 20:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "AI evals are becoming the new compute bottleneck",
     "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
     "published": "2026-04-29 16:45:09",
@@ -12,30 +42,6 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "published": "2026-04-29 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Cybersecurity in the Intelligence Age",
-    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "published": "2026-04-29 04:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Co-Director: Agentic Generative Video Storytelling",
-    "link": "https://arxiv.org/abs/2604.24842",
-    "published": "2026-04-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-    "link": "https://arxiv.org/abs/2604.24881",
-    "published": "2026-04-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
     "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
     "published": "2026-04-28 16:00:00",
@@ -45,12 +51,6 @@
     "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
     "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
     "published": "2026-04-27 22:52:57",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The missing step between hype and profit",
-    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-    "published": "2026-04-27 16:13:41",
     "source": "MIT Technology Review AI"
   },
   {
