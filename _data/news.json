@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+    "published": "2026-05-02 21:54:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+    "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+    "published": "2026-05-02 14:32:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
     "published": "2026-05-02 00:18:05"
@@ -16,17 +28,5 @@
     "title": "15-year-old detained over French govt agency data breach",
     "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
     "published": "2026-05-01 17:52:06"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Story retracted",
-    "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-    "published": "2026-05-01 16:26:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-    "published": "2026-05-01 14:02:12"
   }
 ]
