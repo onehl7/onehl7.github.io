@@ -1,5 +1,17 @@
 [
   {
+    "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+    "link": "https://arxiv.org/abs/2604.26999",
+    "published": "2026-05-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Binary Spiking Neural Networks as Causal Models",
+    "link": "https://arxiv.org/abs/2604.27007",
+    "published": "2026-05-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
     "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "published": "2026-05-01 22:08:19",
@@ -10,18 +22,6 @@
     "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
     "published": "2026-05-01 15:54:01",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-    "link": "https://arxiv.org/abs/2604.26999",
-    "published": "2026-05-01 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Binary Spiking Neural Networks as Causal Models",
-    "link": "https://arxiv.org/abs/2604.27007",
-    "published": "2026-05-01 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Introducing Advanced Account Security",
