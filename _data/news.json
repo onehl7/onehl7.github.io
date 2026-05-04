@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Instructure confirms data breach, ShinyHunters claims attack",
-    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-    "published": "2026-05-03 22:16:27"
+    "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
+    "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+    "published": "2026-05-04 13:42:51"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-    "published": "2026-05-03 18:11:25"
+    "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+    "published": "2026-05-04 12:18:57"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-    "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-    "published": "2026-05-03 14:11:21"
+    "title": "Webinar: Why MSPs must rethink security and backup strategies",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+    "published": "2026-05-04 12:16:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-    "published": "2026-05-02 21:54:00"
+    "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+    "published": "2026-05-04 11:28:15"
   },
   {
     "source": "Bleeping Computer",
-    "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-    "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-    "published": "2026-05-02 14:32:25"
+    "title": "Microsoft confirms April Windows updates cause backup failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+    "published": "2026-05-04 10:40:11"
   }
 ]
