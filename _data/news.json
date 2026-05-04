@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Instructure confirms data breach, ShinyHunters claims attack",
+    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+    "published": "2026-05-03 22:16:27"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+    "published": "2026-05-03 18:11:25"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+    "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+    "published": "2026-05-03 14:11:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
     "published": "2026-05-02 21:54:00"
@@ -10,23 +28,5 @@
     "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
     "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
     "published": "2026-05-02 14:32:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-    "published": "2026-05-02 00:18:05"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-    "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-    "published": "2026-05-01 23:43:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "15-year-old detained over French govt agency data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-    "published": "2026-05-01 17:52:06"
   }
 ]
