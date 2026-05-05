@@ -1,26 +1,50 @@
 [
   {
+    "title": "The latest AI news we announced in April 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "published": "2026-05-04 17:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "published": "2026-05-04 15:51:27",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "published": "2026-05-04 15:30:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "link": "https://arxiv.org/abs/2605.00060",
+    "published": "2026-05-04 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+    "link": "https://arxiv.org/abs/2605.00073",
+    "published": "2026-05-04 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "published": "2026-05-04 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
     "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "published": "2026-05-01 22:08:19",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Cyber-Insecurity in the AI Era",
-    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "published": "2026-05-01 15:54:01",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Introducing Advanced Account Security",
     "link": "https://openai.com/index/advanced-account-security",
     "published": "2026-04-30 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Where the goblins came from",
-    "link": "https://openai.com/index/where-the-goblins-came-from",
-    "published": "2026-04-29 20:00:00",
     "source": "OpenAI News"
   },
   {
@@ -34,17 +58,5 @@
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
     "published": "2026-04-29 15:01:48",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-    "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-    "published": "2026-04-28 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-    "published": "2026-04-27 13:00:00",
-    "source": "Google AI Blog"
   }
 ]
