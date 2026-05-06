@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Why ransomware attacks succeed even when backups exist",
+    "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+    "published": "2026-05-06 14:04:14"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+    "published": "2026-05-06 13:02:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+    "published": "2026-05-06 12:56:32"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+    "published": "2026-05-06 09:18:16"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New stealthy Quasar Linux malware targets software developers",
     "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
     "published": "2026-05-05 22:01:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-    "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-    "published": "2026-05-05 21:20:23"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-    "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-    "published": "2026-05-05 19:21:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-    "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-    "published": "2026-05-05 17:34:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
-    "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-    "published": "2026-05-05 14:39:53"
   }
 ]
