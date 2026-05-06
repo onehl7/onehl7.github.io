@@ -1,5 +1,41 @@
 [
   {
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "published": "2026-05-05 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "GPT-5.5 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "published": "2026-05-05 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "published": "2026-05-05 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A blueprint for using AI to strengthen democracy",
+    "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "published": "2026-05-05 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+    "link": "https://arxiv.org/abs/2605.00839",
+    "published": "2026-05-05 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+    "link": "https://arxiv.org/abs/2605.00841",
+    "published": "2026-05-05 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "The latest AI news we announced in April 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
     "published": "2026-05-04 17:00:00",
@@ -12,51 +48,15 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-    "published": "2026-05-04 15:30:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-    "link": "https://arxiv.org/abs/2605.00060",
-    "published": "2026-05-04 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-    "link": "https://arxiv.org/abs/2605.00073",
-    "published": "2026-05-04 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "published": "2026-05-04 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "published": "2026-05-01 22:08:19",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Introducing Advanced Account Security",
-    "link": "https://openai.com/index/advanced-account-security",
-    "published": "2026-04-30 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "AI evals are becoming the new compute bottleneck",
-    "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-    "published": "2026-04-29 16:45:09",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Granite 4.1 LLMs: How They’re Built",
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
     "published": "2026-04-29 15:01:48",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "published": "2026-04-29 00:00:00",
     "source": "Hugging Face Blog"
   }
 ]
