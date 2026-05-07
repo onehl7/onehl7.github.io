@@ -1,21 +1,51 @@
 [
   {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "published": "2026-05-06 19:06:55",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "5 gardening tips you can try right in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "published": "2026-05-06 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+    "link": "https://arxiv.org/abs/2605.02910",
+    "published": "2026-05-06 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+    "link": "https://arxiv.org/abs/2605.03034",
+    "published": "2026-05-06 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "published": "2026-05-06 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "link": "https://openai.com/index/singular-bank",
+    "published": "2026-05-06 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "published": "2026-05-06 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
     "published": "2026-05-05 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "GPT-5.5 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "published": "2026-05-05 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "link": "https://openai.com/index/gpt-5-5-instant",
-    "published": "2026-05-05 10:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "A blueprint for using AI to strengthen democracy",
@@ -24,39 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-    "link": "https://arxiv.org/abs/2605.00839",
-    "published": "2026-05-05 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-    "link": "https://arxiv.org/abs/2605.00841",
-    "published": "2026-05-05 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "The latest AI news we announced in April 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-    "published": "2026-05-04 17:00:00",
-    "source": "Google AI Blog"
-  },
-  {
     "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
     "published": "2026-05-04 15:51:27",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "published": "2026-04-29 15:01:48",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "published": "2026-04-29 00:00:00",
-    "source": "Hugging Face Blog"
   }
 ]
