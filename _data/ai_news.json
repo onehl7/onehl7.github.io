@@ -1,5 +1,29 @@
 [
   {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "published": "2026-05-07 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Parloa builds service agents customers want to talk to",
+    "link": "https://openai.com/index/parloa",
+    "published": "2026-05-07 11:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LCM: Lossless Context Management",
+    "link": "https://arxiv.org/abs/2605.04050",
+    "published": "2026-05-07 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Regularized Centered Emphatic Temporal Difference Learning",
+    "link": "https://arxiv.org/abs/2605.04100",
+    "published": "2026-05-07 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
     "published": "2026-05-06 19:06:55",
@@ -10,30 +34,6 @@
     "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
     "published": "2026-05-06 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
-    "link": "https://arxiv.org/abs/2605.02910",
-    "published": "2026-05-06 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
-    "link": "https://arxiv.org/abs/2605.03034",
-    "published": "2026-05-06 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "published": "2026-05-06 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "link": "https://openai.com/index/singular-bank",
-    "published": "2026-05-06 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
