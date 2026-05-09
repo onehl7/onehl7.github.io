@@ -1,33 +1,51 @@
 [
   {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "published": "2026-05-07 13:00:00",
-    "source": "OpenAI News"
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "published": "2026-05-08 23:59:19",
+    "source": "MIT Technology Review AI"
   },
   {
-    "title": "Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "published": "2026-05-07 11:00:00",
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "published": "2026-05-08 17:41:05",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "link": "https://huggingface.co/blog/allenai/emo",
+    "published": "2026-05-08 16:03:50",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "See what happens when creative legends use AI to make ads for small businesses.",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "published": "2026-05-08 15:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "published": "2026-05-08 12:30:00",
     "source": "OpenAI News"
   },
   {
     "title": "LCM: Lossless Context Management",
     "link": "https://arxiv.org/abs/2605.04050",
-    "published": "2026-05-07 04:00:00",
+    "published": "2026-05-08 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Regularized Centered Emphatic Temporal Difference Learning",
     "link": "https://arxiv.org/abs/2605.04100",
-    "published": "2026-05-07 04:00:00",
+    "published": "2026-05-08 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "published": "2026-05-06 19:06:55",
-    "source": "Hugging Face Blog"
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "published": "2026-05-07 13:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "5 gardening tips you can try right in Search",
@@ -36,27 +54,9 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "published": "2026-05-06 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-    "published": "2026-05-05 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
     "title": "A blueprint for using AI to strengthen democracy",
     "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
     "published": "2026-05-05 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "published": "2026-05-04 15:51:27",
     "source": "MIT Technology Review AI"
   }
 ]
