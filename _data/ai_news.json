@@ -1,15 +1,27 @@
 [
   {
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "published": "2026-05-09 18:09:28",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Understanding Annotator Safety Policy with Interpretability",
+    "link": "https://arxiv.org/abs/2605.05329",
+    "published": "2026-05-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "ZAYA1-8B Technical Report",
+    "link": "https://arxiv.org/abs/2605.05365",
+    "published": "2026-05-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
     "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
     "published": "2026-05-08 23:59:19",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-    "published": "2026-05-08 17:41:05",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "EMO: Pretraining mixture of experts for emergent modularity",
@@ -28,18 +40,6 @@
     "link": "https://openai.com/index/running-codex-safely",
     "published": "2026-05-08 12:30:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "LCM: Lossless Context Management",
-    "link": "https://arxiv.org/abs/2605.04050",
-    "published": "2026-05-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Regularized Centered Emphatic Temporal Difference Learning",
-    "link": "https://arxiv.org/abs/2605.04100",
-    "published": "2026-05-08 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
