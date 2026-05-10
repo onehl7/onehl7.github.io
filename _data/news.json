@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "JDownloader site hacked to replace installers with Python RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+    "published": "2026-05-09 19:27:58"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+    "published": "2026-05-09 14:26:03"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
     "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
     "published": "2026-05-08 16:18:31"
@@ -16,17 +28,5 @@
     "title": "Trellix source code breach claimed by RansomHouse hackers",
     "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
     "published": "2026-05-08 13:23:23"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-    "published": "2026-05-08 12:16:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zara data breach exposed personal information of 197,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-    "published": "2026-05-08 10:42:22"
   }
 ]
