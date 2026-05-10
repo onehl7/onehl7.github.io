@@ -1,5 +1,23 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists discover quantum particles that break the rules of reality",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm",
+    "published": "2026-05-09 13:00:44"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "SkyWater Technology Stockholders Approve Merger Agreement with IonQ",
+    "link": "https://thequantuminsider.com/2026/05/09/skywater-technology-stockholders-approve-merger-agreement-with-ionq/",
+    "published": "2026-05-09 09:06:00"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Podcast with Scott Aaronson, Professor of Computer Science, UT Austin",
+    "link": "https://thequantuminsider.com/2026/05/09/podcast-with-scott-aaronson-professor-of-computer-science-ut-austin/",
+    "published": "2026-05-09 07:00:00"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Honeywell Announces Quantinuum\u2019s Filing of Registration Statement For IPO",
     "link": "https://thequantuminsider.com/2026/05/08/honeywell-announces-quantinuums-filing-of-registration-statement-for-ipo/",
@@ -16,18 +34,6 @@
     "title": "What is Quantum Machine Learning (QML)?",
     "link": "https://thequantuminsider.com/2026/05/08/what-is-quantum-machine-learning/",
     "published": "2026-05-08 12:21:10"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "The Cost of Waiting on Quantum Computing May Be Higher Than You Think, Researchers Tell Business Leaders",
-    "link": "https://thequantuminsider.com/2026/05/08/the-cost-of-waiting-on-quantum-computing-may-be-higher-than-you-think-researchers-tell-business-leaders/",
-    "published": "2026-05-08 11:29:45"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Graduate Ventures Backs Delft Quantum Startup FrostByte",
-    "link": "https://thequantuminsider.com/2026/05/08/graduate-ventures-backs-delft-quantum-startup-frostbyte/",
-    "published": "2026-05-08 07:46:54"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Oxford physicists achieve first-ever \u201cquadsqueezing\u201d breakthrough in quantum physics",
     "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
     "published": "2026-05-01 11:54:52"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-    "link": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm",
-    "published": "2026-04-30 06:08:37"
   }
 ]
