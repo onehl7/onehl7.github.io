@@ -1,6 +1,12 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm",
+    "published": "2026-05-09 23:19:54"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Physicists discover quantum particles that break the rules of reality",
     "link": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm",
     "published": "2026-05-09 13:00:44"
@@ -52,11 +58,5 @@
     "title": "Physicists just found a tiny flaw in time itself",
     "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
     "published": "2026-05-03 13:40:13"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Oxford physicists achieve first-ever \u201cquadsqueezing\u201d breakthrough in quantum physics",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
-    "published": "2026-05-01 11:54:52"
   }
 ]
