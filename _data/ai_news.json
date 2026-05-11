@@ -1,21 +1,9 @@
 [
   {
-    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-    "published": "2026-05-09 18:09:28",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "published": "2026-05-10 18:44:11",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Understanding Annotator Safety Policy with Interpretability",
-    "link": "https://arxiv.org/abs/2605.05329",
-    "published": "2026-05-09 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "ZAYA1-8B Technical Report",
-    "link": "https://arxiv.org/abs/2605.05365",
-    "published": "2026-05-09 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
