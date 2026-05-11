@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
+    "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+    "published": "2026-05-11 13:53:56"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+    "published": "2026-05-11 13:02:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+    "published": "2026-05-11 12:30:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+    "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+    "published": "2026-05-11 09:03:02"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
     "published": "2026-05-10 17:52:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-    "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-    "published": "2026-05-10 14:16:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "JDownloader site hacked to replace installers with Python RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-    "published": "2026-05-09 19:27:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-    "published": "2026-05-09 14:26:03"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-    "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-    "published": "2026-05-08 16:18:31"
   }
 ]
