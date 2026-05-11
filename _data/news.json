@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+    "published": "2026-05-10 17:52:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+    "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+    "published": "2026-05-10 14:16:47"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "JDownloader site hacked to replace installers with Python RAT malware",
     "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
     "published": "2026-05-09 19:27:58"
@@ -16,17 +28,5 @@
     "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
     "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
     "published": "2026-05-08 16:18:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem",
-    "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-    "published": "2026-05-08 14:02:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trellix source code breach claimed by RansomHouse hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-    "published": "2026-05-08 13:23:23"
   }
 ]
