@@ -1,5 +1,41 @@
 [
   {
+    "source": "The Quantum Insider",
+    "title": "NYU\u2019s Quantum Institute, IBM Team Up for Postdoctoral Research Program in Quantum Computing",
+    "link": "https://thequantuminsider.com/2026/05/11/nyus-quantum-institute-ibm-team-up-for-postdoctoral-research-program-in-quantum-computing/",
+    "published": "2026-05-11 15:18:49"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "What is Quantum Entanglement?",
+    "link": "https://thequantuminsider.com/2026/05/11/what-is-quantum-entanglement/",
+    "published": "2026-05-11 12:58:34"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260509210650.htm",
+    "published": "2026-05-11 12:48:46"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Grapefruit-Sized Quantum Sensor Mapped Earth\u2019s Magnetic Field From Space",
+    "link": "https://thequantuminsider.com/2026/05/11/grapefruit-sized-quantum-sensor-mapped-earths-magnetic-field-from-space/",
+    "published": "2026-05-11 11:31:30"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Guest Post \u2013 A Focus on the Quantum Computing Stack is Holding Commercialization Back",
+    "link": "https://thequantuminsider.com/2026/05/11/guest-post-a-focus-on-the-quantum-computing-stack-is-holding-commercialization-back/",
+    "published": "2026-05-11 08:57:45"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "The King\u2019s Foundation and FormationQ Launch \u2018Harmonious Urban Growth\u2019 Programme to Help Cities Plan Sustainable Expansion Using Quantum Optimisation",
+    "link": "https://thequantuminsider.com/2026/05/11/the-kings-foundation-and-formationq-launch-harmonious-urban-growth-programme-to-help-cities-plan-sustainable-expansion-using-quantum-optimisation/",
+    "published": "2026-05-11 07:05:00"
+  },
+  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
     "link": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm",
@@ -12,36 +48,6 @@
     "published": "2026-05-09 13:00:44"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "SkyWater Technology Stockholders Approve Merger Agreement with IonQ",
-    "link": "https://thequantuminsider.com/2026/05/09/skywater-technology-stockholders-approve-merger-agreement-with-ionq/",
-    "published": "2026-05-09 09:06:00"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Podcast with Scott Aaronson, Professor of Computer Science, UT Austin",
-    "link": "https://thequantuminsider.com/2026/05/09/podcast-with-scott-aaronson-professor-of-computer-science-ut-austin/",
-    "published": "2026-05-09 07:00:00"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Honeywell Announces Quantinuum\u2019s Filing of Registration Statement For IPO",
-    "link": "https://thequantuminsider.com/2026/05/08/honeywell-announces-quantinuums-filing-of-registration-statement-for-ipo/",
-    "published": "2026-05-08 20:48:15"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "China Claims First Dual-Core Neutral Atom Quantum Computer",
-    "link": "https://thequantuminsider.com/2026/05/08/china-claims-first-dual-core-neutral-atom-quantum-computer/",
-    "published": "2026-05-08 17:39:14"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "What is Quantum Machine Learning (QML)?",
-    "link": "https://thequantuminsider.com/2026/05/08/what-is-quantum-machine-learning/",
-    "published": "2026-05-08 12:21:10"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Scientists connect \u201ctime crystal\u201d to real device in quantum breakthrough",
     "link": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
@@ -52,11 +58,5 @@
     "title": "Scientists just created exotic new forms of matter that shouldn\u2019t exist",
     "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
     "published": "2026-05-05 02:48:12"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Physicists just found a tiny flaw in time itself",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
-    "published": "2026-05-03 13:40:13"
   }
 ]
