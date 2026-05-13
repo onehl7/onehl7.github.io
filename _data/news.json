@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+    "published": "2026-05-13 12:49:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+    "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+    "published": "2026-05-13 12:30:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft says some users can't install Office on Windows 365 devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+    "published": "2026-05-13 11:53:54"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
     "published": "2026-05-12 23:09:55"
@@ -10,23 +28,5 @@
     "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
     "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
     "published": "2026-05-12 20:17:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Fixing the gaps in network incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-    "published": "2026-05-12 19:46:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Signal adds security warnings for social engineering, phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-    "published": "2026-05-12 19:40:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-    "published": "2026-05-12 18:58:34"
   }
 ]
