@@ -1,5 +1,29 @@
 [
   {
+    "title": "How finance teams use Codex",
+    "link": "https://openai.com/academy/how-finance-teams-use-codex",
+    "published": "2026-05-12 15:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+    "link": "https://arxiv.org/abs/2605.08200",
+    "published": "2026-05-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+    "link": "https://arxiv.org/abs/2605.08220",
+    "published": "2026-05-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "link": "https://openai.com/index/nvidia",
+    "published": "2026-05-12 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Building Blocks for Foundation Model Training and Inference on AWS",
     "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
     "published": "2026-05-11 23:18:26",
@@ -12,40 +36,16 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "link": "https://openai.com/signals/research/2026q1-update",
-    "published": "2026-05-11 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Fostering breakthrough AI innovation through customer-back engineering",
     "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
     "published": "2026-05-11 13:33:06",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How enterprises are scaling AI",
-    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "published": "2026-05-11 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "The new AI-powered Google Finance is expanding to Europe.",
     "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
     "published": "2026-05-11 06:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-    "link": "https://arxiv.org/abs/2605.06671",
-    "published": "2026-05-11 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-    "link": "https://arxiv.org/abs/2605.06672",
-    "published": "2026-05-11 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "EMO: Pretraining mixture of experts for emergent modularity",
