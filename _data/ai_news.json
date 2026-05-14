@@ -1,26 +1,32 @@
 [
   {
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "published": "2026-05-12 15:00:00",
+    "title": "AI chatbots are giving out people’s real phone numbers",
+    "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "published": "2026-05-13 18:09:03",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "link": "https://openai.com/index/building-codex-windows-sandbox",
+    "published": "2026-05-13 11:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-    "link": "https://arxiv.org/abs/2605.08200",
-    "published": "2026-05-12 04:00:00",
+    "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
+    "link": "https://arxiv.org/abs/2605.11118",
+    "published": "2026-05-13 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-    "link": "https://arxiv.org/abs/2605.08220",
-    "published": "2026-05-12 04:00:00",
+    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+    "link": "https://arxiv.org/abs/2605.11136",
+    "published": "2026-05-13 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "link": "https://openai.com/index/nvidia",
-    "published": "2026-05-12 00:00:00",
+    "title": "How finance teams use Codex",
+    "link": "https://openai.com/academy/how-finance-teams-use-codex",
+    "published": "2026-05-12 15:00:00",
     "source": "OpenAI News"
   },
   {
@@ -33,12 +39,6 @@
     "title": "Three things in AI to watch, according to a Nobel-winning economist",
     "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
     "published": "2026-05-11 17:35:12",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "published": "2026-05-11 13:33:06",
     "source": "MIT Technology Review AI"
   },
   {
