@@ -1,33 +1,51 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "IonQ Opens New Quantum Computing R&D Facility in Boulder",
-    "link": "https://thequantuminsider.com/2026/05/13/ionq-boulder-quantum-rd-lab/",
-    "published": "2026-05-13 02:54:59"
+    "title": "What I Heard at Quantum Harlem",
+    "link": "https://thequantuminsider.com/2026/05/13/what-i-heard-at-quantum-harlem/",
+    "published": "2026-05-13 17:17:37"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Quantum Computing Inc. Reports Higher Revenue Following Acquisitions",
-    "link": "https://thequantuminsider.com/2026/05/12/quantum-computing-inc-reports-higher-revenue-following-acquisitions/",
-    "published": "2026-05-12 16:44:03"
+    "title": "Infleqtion Launches Quantum Spectrum RF Sensing Platform",
+    "link": "https://thequantuminsider.com/2026/05/13/infleqtion-quantum-spectrum-rf-sensing/",
+    "published": "2026-05-13 15:07:32"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Photonic\u00a0Inc.\u00a0Closes Investment Round With Over\u00a0$200 Million USD",
-    "link": "https://thequantuminsider.com/2026/05/12/photonic-inc-closes-investment-round-with-over-200-million-usd/",
-    "published": "2026-05-12 15:27:23"
+    "title": "Researchers Claim Advance in 3D Self-Correcting Quantum Memory Could Reduce Quantum Computing Error-Correction Overhead",
+    "link": "https://thequantuminsider.com/2026/05/13/researchers-claim-advance-in-3d-self-correcting-quantum-memory-could-reduce-quantum-computing-error-correction-overhead/",
+    "published": "2026-05-13 14:35:45"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists finally solve the 100-year mystery behind tough tires",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260509210648.htm",
+    "published": "2026-05-13 13:35:37"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Oxford Instruments Partners with NYU Nanofab to Pioneer Atomic-Scale Quantum Advancements with PlasmaPro ASP",
-    "link": "https://thequantuminsider.com/2026/05/12/oxford-instruments-nyu-plasmapro-asp-quantum/",
-    "published": "2026-05-12 14:32:27"
+    "title": "Quantum Technology Supersensors Develops Quantum Sensing Robot Skin",
+    "link": "https://thequantuminsider.com/2026/05/13/quantum-sensing-robotic-skin-safer-human-interaction/",
+    "published": "2026-05-13 12:22:14"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Quobly and Hon Hai Research Institute Release an Open-Source Toolbox to Explore Quantum Phase Estimation",
-    "link": "https://thequantuminsider.com/2026/05/12/quobly-hon-hai-open-source-qpe-toolbox/",
-    "published": "2026-05-12 13:40:14"
+    "title": "NVision Secures $55 Million Series B to Advance Quantum Healthcare Platform",
+    "link": "https://thequantuminsider.com/2026/05/13/nvision-quantum-sensing-quantum-computing-therapies/",
+    "published": "2026-05-13 10:10:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum breakthrough could revolutionize teleportation and computing",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+    "published": "2026-05-13 07:55:23"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+    "published": "2026-05-13 07:33:27"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -37,26 +55,8 @@
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm",
-    "published": "2026-05-09 23:19:54"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
     "title": "Physicists discover quantum particles that break the rules of reality",
     "link": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm",
     "published": "2026-05-09 13:00:44"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists connect \u201ctime crystal\u201d to real device in quantum breakthrough",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
-    "published": "2026-05-05 20:53:45"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists just created exotic new forms of matter that shouldn\u2019t exist",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
-    "published": "2026-05-05 02:48:12"
   }
 ]
