@@ -1,57 +1,57 @@
 [
   {
-    "title": "AI chatbots are giving out people’s real phone numbers",
-    "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "published": "2026-05-13 18:09:03",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "link": "https://openai.com/index/building-codex-windows-sandbox",
-    "published": "2026-05-13 11:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
-    "link": "https://arxiv.org/abs/2605.11118",
-    "published": "2026-05-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-    "link": "https://arxiv.org/abs/2605.11136",
-    "published": "2026-05-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "published": "2026-05-12 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "published": "2026-05-11 23:18:26",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "published": "2026-05-14 18:55:01",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Three things in AI to watch, according to a Nobel-winning economist",
-    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-    "published": "2026-05-11 17:35:12",
+    "title": "Work with Codex from anywhere",
+    "link": "https://openai.com/index/work-with-codex-from-anywhere",
+    "published": "2026-05-14 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Data readiness for agentic AI in financial services",
+    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "published": "2026-05-14 13:00:00",
     "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "published": "2026-05-14 13:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+    "link": "https://arxiv.org/abs/2605.12620",
+    "published": "2026-05-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+    "link": "https://arxiv.org/abs/2605.12655",
+    "published": "2026-05-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "published": "2026-05-14 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Unlocking asynchronicity in continuous batching",
+    "link": "https://huggingface.co/blog/continuous_async",
+    "published": "2026-05-14 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "The new AI-powered Google Finance is expanding to Europe.",
     "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
     "published": "2026-05-11 06:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "link": "https://huggingface.co/blog/allenai/emo",
-    "published": "2026-05-08 16:03:50",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "See what happens when creative legends use AI to make ads for small businesses.",
