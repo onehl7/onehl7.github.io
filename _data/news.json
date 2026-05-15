@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft to automatically roll back faulty Windows drivers",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+    "published": "2026-05-15 12:29:48"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+    "published": "2026-05-15 09:40:42"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
     "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
     "published": "2026-05-14 22:50:36"
@@ -16,17 +28,5 @@
     "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
     "published": "2026-05-14 20:09:56"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI confirms security breach in TanStack supply chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-    "published": "2026-05-14 19:07:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-    "published": "2026-05-14 18:53:50"
   }
 ]
