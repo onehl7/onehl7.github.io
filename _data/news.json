@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft to automatically roll back faulty Windows drivers",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-    "published": "2026-05-15 12:29:48"
+    "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+    "published": "2026-05-15 19:30:33"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-    "published": "2026-05-15 09:40:42"
+    "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+    "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+    "published": "2026-05-15 17:47:25"
   },
   {
     "source": "Bleeping Computer",
-    "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-    "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-    "published": "2026-05-14 22:50:36"
+    "title": "Popular node-ipc npm package compromised to steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+    "published": "2026-05-15 17:10:42"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-    "published": "2026-05-14 21:07:17"
+    "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+    "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+    "published": "2026-05-15 15:56:56"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-    "published": "2026-05-14 20:09:56"
+    "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+    "published": "2026-05-15 14:49:39"
   }
 ]
