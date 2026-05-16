@@ -1,45 +1,45 @@
 [
   {
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "published": "2026-05-14 18:55:01",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Work with Codex from anywhere",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "published": "2026-05-14 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Data readiness for agentic AI in financial services",
-    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-    "published": "2026-05-14 13:00:00",
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "published": "2026-05-15 23:39:35",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "published": "2026-05-14 13:00:00",
+    "title": "How Chinese short dramas became AI content machines",
+    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "published": "2026-05-15 09:00:00",
     "source": "MIT Technology Review AI"
   },
   {
     "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
     "link": "https://arxiv.org/abs/2605.12620",
-    "published": "2026-05-14 04:00:00",
+    "published": "2026-05-15 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
     "link": "https://arxiv.org/abs/2605.12655",
-    "published": "2026-05-14 04:00:00",
+    "published": "2026-05-15 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "published": "2026-05-14 00:00:00",
+    "title": "A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "published": "2026-05-15 00:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "link": "https://openai.com/index/databricks",
+    "published": "2026-05-15 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "published": "2026-05-14 18:55:01",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Unlocking asynchronicity in continuous batching",
