@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-    "published": "2026-05-17 22:30:08"
+    "title": "Grafana says stolen GitHub token let hackers steal codebase",
+    "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+    "published": "2026-05-18 13:46:26"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-    "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-    "published": "2026-05-17 14:43:10"
+    "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+    "published": "2026-05-18 11:14:28"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-    "published": "2026-05-16 20:55:44"
+    "title": "Microsoft confirms Windows 11 security update install issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+    "published": "2026-05-18 08:33:14"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-    "published": "2026-05-16 14:15:37"
+    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+    "published": "2026-05-18 07:18:33"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-    "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-    "published": "2026-05-15 19:30:33"
+    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+    "published": "2026-05-18 05:33:20"
   }
 ]
