@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers",
+    "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+    "published": "2026-05-18 22:15:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SHub macOS infostealer variant spoofs Apple security updates",
+    "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+    "published": "2026-05-18 21:42:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+    "published": "2026-05-18 18:45:35"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+    "published": "2026-05-18 17:28:02"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Grafana says stolen GitHub token let hackers steal codebase",
     "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
     "published": "2026-05-18 13:46:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
-    "published": "2026-05-18 11:14:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Windows 11 security update install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-    "published": "2026-05-18 08:33:14"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-    "published": "2026-05-18 07:18:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-    "published": "2026-05-18 05:33:20"
   }
 ]
