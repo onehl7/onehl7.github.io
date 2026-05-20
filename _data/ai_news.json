@@ -1,62 +1,62 @@
 [
   {
+    "title": "Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "published": "2026-05-20 11:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "published": "2026-05-19 18:38:09",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "published": "2026-05-19 17:45:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "published": "2026-05-19 17:45:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "published": "2026-05-19 10:45:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+    "link": "https://arxiv.org/abs/2605.16265",
+    "published": "2026-05-19 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+    "link": "https://arxiv.org/abs/2605.16309",
+    "published": "2026-05-19 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
     "published": "2026-05-19 00:53:10",
     "source": "MIT Technology Review AI"
   },
   {
+    "title": "Introducing the Ettin Reranker Family",
+    "link": "https://huggingface.co/blog/ettin-reranker",
+    "published": "2026-05-19 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "What to expect from Google this week",
     "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
     "published": "2026-05-18 17:35:43",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "published": "2026-05-18 16:00:21",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "published": "2026-05-18 15:12:46",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "published": "2026-05-18 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DeepSlide: From Artifacts to Presentation Delivery",
-    "link": "https://arxiv.org/abs/2605.15202",
-    "published": "2026-05-18 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-    "link": "https://arxiv.org/abs/2605.15204",
-    "published": "2026-05-18 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "published": "2026-05-16 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The new AI-powered Google Finance is expanding to Europe.",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-    "published": "2026-05-11 06:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-    "published": "2026-05-08 15:00:00",
-    "source": "Google AI Blog"
   }
 ]
