@@ -1,45 +1,51 @@
 [
   {
-    "title": "Introducing OpenAI for Singapore",
-    "link": "https://openai.com/index/introducing-openai-for-singapore",
-    "published": "2026-05-20 11:30:00",
+    "title": "We’re announcing new community investments in Missouri.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "published": "2026-05-20 20:40:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "100 things we announced at I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "published": "2026-05-20 19:30:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+    "link": "https://arxiv.org/abs/2605.18801",
+    "published": "2026-05-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+    "link": "https://arxiv.org/abs/2605.18818",
+    "published": "2026-05-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "published": "2026-05-20 00:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "published": "2026-05-20 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "published": "2026-05-19 20:15:18",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
     "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "published": "2026-05-19 18:38:09",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "published": "2026-05-19 17:45:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "How AI Mode is changing the way people search in the U.S.",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-    "published": "2026-05-19 17:45:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "link": "https://openai.com/index/advancing-content-provenance",
-    "published": "2026-05-19 10:45:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-    "link": "https://arxiv.org/abs/2605.16265",
-    "published": "2026-05-19 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-    "link": "https://arxiv.org/abs/2605.16309",
-    "published": "2026-05-19 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -52,11 +58,5 @@
     "link": "https://huggingface.co/blog/ettin-reranker",
     "published": "2026-05-19 00:00:00",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "What to expect from Google this week",
-    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "published": "2026-05-18 17:35:43",
-    "source": "MIT Technology Review AI"
   }
 ]
