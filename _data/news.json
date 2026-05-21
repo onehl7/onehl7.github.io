@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+    "published": "2026-05-20 21:36:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+    "published": "2026-05-20 21:19:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Grafana breach caused by missed token rotation after TanStack attack",
+    "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+    "published": "2026-05-20 15:46:37"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
     "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
     "published": "2026-05-20 14:02:12"
@@ -10,23 +28,5 @@
     "title": "Drupal critical update to fix bug with high exploitation risk",
     "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
     "published": "2026-05-20 12:52:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-    "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-    "published": "2026-05-20 10:52:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "published": "2026-05-20 08:14:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-    "published": "2026-05-20 07:31:15"
   }
 ]
