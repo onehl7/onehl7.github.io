@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Google accidentally exposed details of unfixed Chromium flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+    "published": "2026-05-21 18:13:50"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
     "published": "2026-05-21 15:11:08"
@@ -22,11 +28,5 @@
     "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
     "published": "2026-05-21 13:58:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-    "published": "2026-05-21 13:09:51"
   }
 ]
