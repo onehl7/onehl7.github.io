@@ -1,5 +1,35 @@
 [
   {
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "published": "2026-05-21 20:41:05",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Scaling creativity in the age of AI",
+    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "published": "2026-05-21 19:16:43",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "link": "https://openai.com/index/adventhealth",
+    "published": "2026-05-21 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+    "link": "https://arxiv.org/abs/2605.20189",
+    "published": "2026-05-21 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "link": "https://arxiv.org/abs/2605.20190",
+    "published": "2026-05-21 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "We’re announcing new community investments in Missouri.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
     "published": "2026-05-20 20:40:00",
@@ -12,46 +42,16 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-    "link": "https://arxiv.org/abs/2605.18801",
-    "published": "2026-05-20 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-    "link": "https://arxiv.org/abs/2605.18818",
-    "published": "2026-05-20 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "link": "https://openai.com/index/ramp",
     "published": "2026-05-20 00:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "published": "2026-05-20 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Roundtables: Inside the Musk v. Altman Trial",
-    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-    "published": "2026-05-19 20:15:18",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
     "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "published": "2026-05-19 18:38:09",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "published": "2026-05-19 00:53:10",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Introducing the Ettin Reranker Family",
