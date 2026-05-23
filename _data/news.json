@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+    "published": "2026-05-22 17:24:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former US execs plead guilty to aiding tech support scammers",
+    "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+    "published": "2026-05-22 15:32:18"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
     "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
     "published": "2026-05-22 13:39:19"
@@ -16,17 +28,5 @@
     "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
     "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
     "published": "2026-05-22 13:09:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-    "published": "2026-05-22 12:00:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-    "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-    "published": "2026-05-22 09:01:20"
   }
 ]
