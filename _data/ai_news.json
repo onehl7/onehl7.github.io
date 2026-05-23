@@ -1,62 +1,62 @@
 [
   {
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "published": "2026-05-23 00:02:03",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "published": "2026-05-22 18:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "published": "2026-05-22 15:25:59",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "published": "2026-05-22 10:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+    "link": "https://arxiv.org/abs/2605.20189",
+    "published": "2026-05-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "link": "https://arxiv.org/abs/2605.20190",
+    "published": "2026-05-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "published": "2026-05-22 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "link": "https://openai.com/index/virgin-atlantic",
+    "published": "2026-05-22 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Roundtables: Can AI Learn to Understand the World?",
     "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
     "published": "2026-05-21 20:41:05",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Scaling creativity in the age of AI",
-    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-    "published": "2026-05-21 19:16:43",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "link": "https://openai.com/index/adventhealth",
-    "published": "2026-05-21 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-    "link": "https://arxiv.org/abs/2605.20189",
-    "published": "2026-05-21 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-    "link": "https://arxiv.org/abs/2605.20190",
-    "published": "2026-05-21 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "We’re announcing new community investments in Missouri.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
     "published": "2026-05-20 20:40:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "100 things we announced at I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-    "published": "2026-05-20 19:30:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "link": "https://openai.com/index/ramp",
-    "published": "2026-05-20 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "published": "2026-05-19 18:38:09",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Introducing the Ettin Reranker Family",
-    "link": "https://huggingface.co/blog/ettin-reranker",
-    "published": "2026-05-19 00:00:00",
-    "source": "Hugging Face Blog"
   }
 ]
