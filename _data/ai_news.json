@@ -1,5 +1,17 @@
 [
   {
+    "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
+    "link": "https://arxiv.org/abs/2605.21602",
+    "published": "2026-05-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
+    "link": "https://arxiv.org/abs/2605.21622",
+    "published": "2026-05-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
     "published": "2026-05-23 00:02:03",
@@ -22,18 +34,6 @@
     "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
     "published": "2026-05-22 10:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-    "link": "https://arxiv.org/abs/2605.20189",
-    "published": "2026-05-22 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-    "link": "https://arxiv.org/abs/2605.20190",
-    "published": "2026-05-22 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
