@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+    "published": "2026-05-23 20:48:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+    "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+    "published": "2026-05-23 14:23:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
     "published": "2026-05-22 17:24:52"
@@ -16,17 +28,5 @@
     "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
     "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
     "published": "2026-05-22 13:39:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-    "published": "2026-05-22 13:14:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-    "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-    "published": "2026-05-22 13:09:18"
   }
 ]
