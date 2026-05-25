@@ -1,17 +1,5 @@
 [
   {
-    "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
-    "link": "https://arxiv.org/abs/2605.21602",
-    "published": "2026-05-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
-    "link": "https://arxiv.org/abs/2605.21622",
-    "published": "2026-05-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
     "published": "2026-05-23 00:02:03",
