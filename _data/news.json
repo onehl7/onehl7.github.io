@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+    "published": "2026-05-24 14:12:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
     "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
     "published": "2026-05-23 20:48:23"
@@ -22,11 +28,5 @@
     "title": "Former US execs plead guilty to aiding tech support scammers",
     "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
     "published": "2026-05-22 15:32:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-    "published": "2026-05-22 13:39:19"
   }
 ]
