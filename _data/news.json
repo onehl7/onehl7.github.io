@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic\u2019s restricted Claude Mythos model may be coming to Claude Code",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+    "published": "2026-05-25 17:07:33"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
     "published": "2026-05-25 12:45:54"
@@ -22,11 +28,5 @@
     "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
     "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
     "published": "2026-05-23 14:23:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-    "published": "2026-05-22 17:24:52"
   }
 ]
