@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Anthropic\u2019s restricted Claude Mythos model may be coming to Claude Code",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-    "published": "2026-05-25 17:07:33"
+    "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+    "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+    "published": "2026-05-26 14:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-    "published": "2026-05-25 12:45:54"
+    "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+    "published": "2026-05-26 12:19:43"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-    "published": "2026-05-24 14:12:32"
+    "title": "Webinar: Too many tools are slowing network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+    "published": "2026-05-26 12:16:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-    "published": "2026-05-23 20:48:23"
+    "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+    "published": "2026-05-26 08:46:45"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-    "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-    "published": "2026-05-23 14:23:44"
+    "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+    "published": "2026-05-26 07:41:25"
   }
 ]
