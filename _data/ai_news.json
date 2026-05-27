@@ -1,14 +1,26 @@
 [
   {
-    "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-    "link": "https://arxiv.org/abs/2605.22866",
-    "published": "2026-05-25 04:00:00",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "published": "2026-05-26 14:54:10",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "A reality check on the AI jobs hysteria",
+    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "published": "2026-05-26 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+    "link": "https://arxiv.org/abs/2605.23908",
+    "published": "2026-05-26 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-    "link": "https://arxiv.org/abs/2605.22874",
-    "published": "2026-05-25 04:00:00",
+    "title": "Confidence Calibration in Large Language Models",
+    "link": "https://arxiv.org/abs/2605.23909",
+    "published": "2026-05-26 04:00:00",
     "source": "arXiv AI"
   },
   {
@@ -36,22 +48,10 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "published": "2026-05-22 10:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "How Virgin Atlantic ships faster with Codex",
     "link": "https://openai.com/index/virgin-atlantic",
     "published": "2026-05-22 00:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Roundtables: Can AI Learn to Understand the World?",
-    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-    "published": "2026-05-21 20:41:05",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "We’re announcing new community investments in Missouri.",
