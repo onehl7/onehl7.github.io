@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+    "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+    "published": "2026-05-27 21:31:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Can you enforce strong Active Directory password rules without frustrating users?",
     "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
     "published": "2026-05-27 14:00:10"
@@ -22,11 +28,5 @@
     "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
     "published": "2026-05-27 10:06:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch police arrests suspect linked to Ajax football club hack",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-    "published": "2026-05-27 09:09:03"
   }
 ]
