@@ -1,5 +1,41 @@
 [
   {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "published": "2026-05-27 17:20:29",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "link": "https://openai.com/index/cisco",
+    "published": "2026-05-27 11:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "published": "2026-05-27 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+    "link": "https://arxiv.org/abs/2605.26182",
+    "published": "2026-05-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Can LLMs Introspect? A Reality Check",
+    "link": "https://arxiv.org/abs/2605.26242",
+    "published": "2026-05-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Reachy Mini goes fully local",
+    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "published": "2026-05-27 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Rethinking organizational design in the age of agentic AI",
     "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
     "published": "2026-05-26 14:54:10",
@@ -12,46 +48,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-    "link": "https://arxiv.org/abs/2605.23908",
-    "published": "2026-05-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Confidence Calibration in Large Language Models",
-    "link": "https://arxiv.org/abs/2605.23909",
-    "published": "2026-05-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "published": "2026-05-25 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "link": "https://huggingface.co/blog/agent-glossary",
-    "published": "2026-05-25 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "published": "2026-05-23 00:02:03",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Catch up on the Dialogues stage at Google I/O 2026.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
     "published": "2026-05-22 18:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "link": "https://openai.com/index/virgin-atlantic",
-    "published": "2026-05-22 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "We’re announcing new community investments in Missouri.",
