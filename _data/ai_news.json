@@ -1,33 +1,45 @@
 [
   {
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "published": "2026-05-28 15:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "How Endava builds an agentic organization with Codex",
+    "link": "https://openai.com/index/endava",
+    "published": "2026-05-28 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "published": "2026-05-28 09:51:11",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+    "link": "https://arxiv.org/abs/2605.27373",
+    "published": "2026-05-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+    "link": "https://arxiv.org/abs/2605.27379",
+    "published": "2026-05-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "OpenAI’s Frontier Governance Framework",
+    "link": "https://openai.com/index/openai-frontier-governance-framework",
+    "published": "2026-05-28 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
     "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
     "published": "2026-05-27 17:20:29",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "link": "https://openai.com/index/cisco",
-    "published": "2026-05-27 11:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Building self-improving tax agents with Codex",
-    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "published": "2026-05-27 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
-    "link": "https://arxiv.org/abs/2605.26182",
-    "published": "2026-05-27 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Can LLMs Introspect? A Reality Check",
-    "link": "https://arxiv.org/abs/2605.26242",
-    "published": "2026-05-27 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Reachy Mini goes fully local",
@@ -42,21 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "A reality check on the AI jobs hysteria",
-    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "published": "2026-05-26 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Catch up on the Dialogues stage at Google I/O 2026.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
     "published": "2026-05-22 18:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "We’re announcing new community investments in Missouri.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-    "published": "2026-05-20 20:40:00",
     "source": "Google AI Blog"
   }
 ]
