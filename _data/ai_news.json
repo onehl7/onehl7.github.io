@@ -1,15 +1,51 @@
 [
   {
-    "title": "Catch up on 12 major I/O 2026 moments",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-    "published": "2026-05-28 15:00:00",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "published": "2026-05-29 19:00:00",
     "source": "Google AI Blog"
   },
   {
-    "title": "How Endava builds an agentic organization with Codex",
-    "link": "https://openai.com/index/endava",
-    "published": "2026-05-28 12:00:00",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "published": "2026-05-29 17:30:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "published": "2026-05-29 12:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "link": "https://openai.com/index/braintrust",
+    "published": "2026-05-29 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "published": "2026-05-29 10:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+    "link": "https://arxiv.org/abs/2605.28849",
+    "published": "2026-05-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+    "link": "https://arxiv.org/abs/2605.28855",
+    "published": "2026-05-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "link": "https://huggingface.co/blog/torch-profiler",
+    "published": "2026-05-29 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "The AI Hype Index: AI gets booed in graduation season",
@@ -18,45 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
-    "link": "https://arxiv.org/abs/2605.27373",
-    "published": "2026-05-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
-    "link": "https://arxiv.org/abs/2605.27379",
-    "published": "2026-05-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "OpenAI’s Frontier Governance Framework",
-    "link": "https://openai.com/index/openai-frontier-governance-framework",
-    "published": "2026-05-28 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
     "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
     "published": "2026-05-27 17:20:29",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Reachy Mini goes fully local",
-    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "published": "2026-05-27 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "published": "2026-05-26 14:54:10",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-    "published": "2026-05-22 18:00:00",
-    "source": "Google AI Blog"
   }
 ]
