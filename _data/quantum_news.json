@@ -1,6 +1,24 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Open-Source Quantum Community Prepares For Sixth Annual unitaryHack",
+    "link": "https://thequantuminsider.com/2026/05/30/open-source-quantum-community-prepares-for-sixth-annual-unitaryhack/",
+    "published": "2026-05-30 13:25:01"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "This strange new phase of matter could transform quantum technology",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm",
+    "published": "2026-05-30 07:31:15"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
+    "published": "2026-05-30 05:08:07"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "UT Launches Knoxville Quantum Accelerator To Advance Tennessee\u2019s Future",
     "link": "https://thequantuminsider.com/2026/05/29/ut-launches-knoxville-quantum-accelerator-to-advance-tennessees-future/",
     "published": "2026-05-29 15:22:26"
@@ -24,22 +42,10 @@
     "published": "2026-05-29 08:20:47"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "Quandela Adds Industry Veterans to Leadership And Governance Teams",
-    "link": "https://thequantuminsider.com/2026/05/29/quandela-adds-industry-veterans-to-leadership-and-governance-teams/",
-    "published": "2026-05-29 07:50:02"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "New quantum sensor could count individual photons and hunt dark matter",
     "link": "https://www.sciencedaily.com/releases/2026/05/260520093654.htm",
     "published": "2026-05-21 02:42:10"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists finally solve the 100-year mystery behind tough tires",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260509210648.htm",
-    "published": "2026-05-13 13:35:37"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
     "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
     "published": "2026-05-13 07:33:27"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260509210650.htm",
-    "published": "2026-05-11 12:48:46"
   }
 ]
