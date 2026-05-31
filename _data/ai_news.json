@@ -30,18 +30,6 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-    "link": "https://arxiv.org/abs/2605.28849",
-    "published": "2026-05-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-    "link": "https://arxiv.org/abs/2605.28855",
-    "published": "2026-05-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "link": "https://huggingface.co/blog/torch-profiler",
     "published": "2026-05-29 00:00:00",
