@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-    "published": "2026-05-31 14:06:42"
+    "title": "WordPress malware campaign hides payloads in Steam profiles",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+    "published": "2026-06-01 17:04:16"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-    "published": "2026-05-30 18:02:51"
+    "title": "Microsoft investigates Office Apps, Teams file access issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+    "published": "2026-06-01 14:36:46"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-    "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-    "published": "2026-05-30 14:16:08"
+    "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+    "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+    "published": "2026-06-01 14:00:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-    "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-    "published": "2026-05-29 18:21:36"
+    "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+    "published": "2026-06-01 12:30:27"
   },
   {
     "source": "Bleeping Computer",
-    "title": "California AG sues 23andMe over 2023 breach exposing health data",
-    "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-    "published": "2026-05-29 18:08:47"
+    "title": "Webinar tomorrow: From alert to resolution in network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+    "published": "2026-06-01 12:01:09"
   }
 ]
