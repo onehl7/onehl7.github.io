@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+    "published": "2026-05-31 14:06:42"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
     "published": "2026-05-30 18:02:51"
@@ -22,11 +28,5 @@
     "title": "California AG sues 23andMe over 2023 breach exposing health data",
     "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
     "published": "2026-05-29 18:08:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-    "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-    "published": "2026-05-29 14:32:02"
   }
 ]
