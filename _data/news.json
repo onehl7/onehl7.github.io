@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Instagram users locked out after Meta AI abused to steal accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+    "published": "2026-06-02 15:47:33"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Why the browser is now the front line for AI security",
+    "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+    "published": "2026-06-02 14:30:40"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+    "published": "2026-06-02 12:40:33"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+    "published": "2026-06-02 11:10:15"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
     "published": "2026-06-01 22:14:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Red Hat npm packages compromised to steal developer credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-    "published": "2026-06-01 21:38:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain arrests doxer leaking sensitive data of govt employees",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-    "published": "2026-06-01 21:28:41"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dashlane password manager users locked out by brute force attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-    "published": "2026-06-01 18:17:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress malware campaign hides payloads in Steam profiles",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-    "published": "2026-06-01 17:04:16"
   }
 ]
