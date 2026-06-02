@@ -1,27 +1,51 @@
 [
   {
+    "title": "Our views on AI policy and political advocacy",
+    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "published": "2026-06-01 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "published": "2026-06-01 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "published": "2026-06-01 15:45:17",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "published": "2026-06-01 13:51:18",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "link": "https://openai.com/index/stargate-michigan-data-center",
+    "published": "2026-06-01 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+    "link": "https://arxiv.org/abs/2605.30512",
+    "published": "2026-06-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+    "link": "https://arxiv.org/abs/2605.30542",
+    "published": "2026-06-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
     "published": "2026-05-29 19:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "published": "2026-05-29 17:30:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "link": "https://openai.com/index/boston-childrens-hospital",
-    "published": "2026-05-29 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "link": "https://openai.com/index/braintrust",
-    "published": "2026-05-29 12:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -30,21 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "link": "https://huggingface.co/blog/torch-profiler",
-    "published": "2026-05-29 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
     "published": "2026-05-28 09:51:11",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-    "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
-    "published": "2026-05-27 17:20:29",
-    "source": "Hugging Face Blog"
   }
 ]
