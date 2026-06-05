@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+    "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+    "published": "2026-06-05 14:00:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+    "published": "2026-06-05 06:24:20"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
     "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
     "published": "2026-06-04 21:37:10"
@@ -16,17 +28,5 @@
     "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
     "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
     "published": "2026-06-04 20:47:16"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-    "published": "2026-06-04 18:36:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UN food agency discloses breach affecting 600,000 Gaza households",
-    "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-    "published": "2026-06-04 16:38:49"
   }
 ]
