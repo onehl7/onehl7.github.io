@@ -1,14 +1,38 @@
 [
   {
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "published": "2026-06-04 18:57:45",
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "published": "2026-06-05 22:18:46",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-    "published": "2026-06-04 12:24:58",
+    "title": "The latest AI news we announced in May 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "published": "2026-06-05 14:45:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "published": "2026-06-05 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+    "link": "https://arxiv.org/abs/2606.05256",
+    "published": "2026-06-05 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+    "link": "https://arxiv.org/abs/2606.05304",
+    "published": "2026-06-05 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "published": "2026-06-04 18:57:45",
     "source": "Hugging Face Blog"
   },
   {
@@ -30,33 +54,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-    "link": "https://arxiv.org/abs/2606.04037",
-    "published": "2026-06-04 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-    "link": "https://arxiv.org/abs/2606.04150",
-    "published": "2026-06-04 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "5 ways Google Search can level up your thrift and vintage shopping",
     "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
     "published": "2026-06-03 13:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Rehumanizing global health care with agentic AI",
-    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "published": "2026-06-02 11:23:34",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "published": "2026-06-01 16:00:00",
     "source": "Google AI Blog"
   }
 ]
