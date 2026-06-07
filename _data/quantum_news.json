@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+    "published": "2026-06-06 13:02:19"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy",
     "link": "https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/",
@@ -31,6 +37,12 @@
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists discover a hidden quantum world inside cobalt",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+    "published": "2026-06-05 09:07:05"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Scientists discover a quantum effect that could eliminate batteries",
     "link": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
     "published": "2026-06-04 07:14:13"
@@ -46,17 +58,5 @@
     "title": "This strange new phase of matter could transform quantum technology",
     "link": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm",
     "published": "2026-05-30 07:31:15"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
-    "published": "2026-05-30 05:08:07"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "New quantum sensor could count individual photons and hunt dark matter",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260520093654.htm",
-    "published": "2026-05-21 02:42:10"
   }
 ]
