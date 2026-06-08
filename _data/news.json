@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Reducing security operations complexity with Wazuh Cloud",
+    "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+    "published": "2026-06-08 14:01:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+    "published": "2026-06-08 13:05:16"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Oxford University discloses data breach after careers platform hack",
+    "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+    "published": "2026-06-08 11:14:41"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+    "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+    "published": "2026-06-08 06:00:27"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
     "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
     "published": "2026-06-07 23:20:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-    "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-    "published": "2026-06-07 14:17:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Silent Ransom Group targets law firms with fake IT support calls",
-    "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-    "published": "2026-06-07 14:09:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "published": "2026-06-06 14:09:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
-    "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-    "published": "2026-06-05 21:54:42"
   }
 ]
