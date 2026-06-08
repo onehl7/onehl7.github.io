@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+    "published": "2026-06-07 23:20:02"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+    "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+    "published": "2026-06-07 14:17:46"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Silent Ransom Group targets law firms with fake IT support calls",
+    "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+    "published": "2026-06-07 14:09:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
     "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
     "published": "2026-06-06 14:09:26"
@@ -10,23 +28,5 @@
     "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
     "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
     "published": "2026-06-05 21:54:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-    "published": "2026-06-05 19:15:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese APT deploys new malware to keep access to hacked networks",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-    "published": "2026-06-05 18:09:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-    "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-    "published": "2026-06-05 17:50:58"
   }
 ]
