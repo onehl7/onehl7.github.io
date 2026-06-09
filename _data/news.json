@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+    "published": "2026-06-09 14:27:56"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "French govt messaging service breached in account hijacking attack",
+    "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+    "published": "2026-06-09 10:53:00"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+    "published": "2026-06-09 08:18:39"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+    "published": "2026-06-09 06:56:27"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
     "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
     "published": "2026-06-08 22:11:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-    "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-    "published": "2026-06-08 21:55:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Apple feature automatically changes your compromised passwords",
-    "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-    "published": "2026-06-08 21:03:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-    "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-    "published": "2026-06-08 20:41:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-    "published": "2026-06-08 18:40:53"
   }
 ]
