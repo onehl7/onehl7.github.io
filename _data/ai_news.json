@@ -1,8 +1,32 @@
 [
   {
-    "title": "Amazing Digital Dentures (a failed project)",
-    "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-    "published": "2026-06-07 19:44:27",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1",
+    "published": "2026-06-08 14:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+    "link": "https://arxiv.org/abs/2606.06514",
+    "published": "2026-06-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "DiBS: Diffusion-Informed Branch Selection",
+    "link": "https://arxiv.org/abs/2606.06518",
+    "published": "2026-06-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Built to benefit everyone: our plan",
+    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "published": "2026-06-08 01:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "link": "https://huggingface.co/blog/openenv-agentic-rl",
+    "published": "2026-06-08 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -24,22 +48,10 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "link": "https://openai.com/index/endava-frontiers",
-    "published": "2026-06-04 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "published": "2026-06-04 10:50:18",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "link": "https://openai.com/index/chatgpt-memory-dreaming",
-    "published": "2026-06-04 09:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "5 ways Google Search can level up your thrift and vintage shopping",
