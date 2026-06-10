@@ -1,57 +1,57 @@
 [
   {
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "link": "https://openai.com/index/openai-submits-confidential-s-1",
-    "published": "2026-06-08 14:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-    "link": "https://arxiv.org/abs/2606.06514",
-    "published": "2026-06-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "DiBS: Diffusion-Informed Branch Selection",
-    "link": "https://arxiv.org/abs/2606.06518",
-    "published": "2026-06-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "published": "2026-06-08 01:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "link": "https://huggingface.co/blog/openenv-agentic-rl",
-    "published": "2026-06-08 00:00:00",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "published": "2026-06-09 19:38:28",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "published": "2026-06-09 15:56:23",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "link": "https://openai.com/index/nextdoor",
+    "published": "2026-06-09 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "published": "2026-06-09 10:20:06",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "What Codex unlocks for Notion",
+    "link": "https://openai.com/index/notion",
+    "published": "2026-06-09 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Five things you need to know about AI",
+    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "published": "2026-06-09 09:16:45",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+    "link": "https://arxiv.org/abs/2606.07549",
+    "published": "2026-06-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+    "link": "https://arxiv.org/abs/2606.07577",
+    "published": "2026-06-09 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "The latest AI news we announced in May 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "published": "2026-06-05 14:45:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "The Meta hack shows there’s more to AI security than Mythos",
-    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "published": "2026-06-05 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "published": "2026-06-04 18:57:45",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "How courts are coping with a flood of AI-generated lawsuits",
-    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "published": "2026-06-04 10:50:18",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "5 ways Google Search can level up your thrift and vintage shopping",
