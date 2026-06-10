@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-    "published": "2026-06-09 14:27:56"
+    "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+    "published": "2026-06-10 02:03:31"
   },
   {
     "source": "Bleeping Computer",
-    "title": "French govt messaging service breached in account hijacking attack",
-    "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-    "published": "2026-06-09 10:53:00"
+    "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+    "published": "2026-06-09 23:11:18"
   },
   {
     "source": "Bleeping Computer",
-    "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-    "published": "2026-06-09 08:18:39"
+    "title": "ServiceNow discloses security incident exposing customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+    "published": "2026-06-09 21:34:09"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-    "published": "2026-06-09 06:56:27"
+    "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+    "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+    "published": "2026-06-09 21:20:20"
   },
   {
     "source": "Bleeping Computer",
-    "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-    "published": "2026-06-08 22:11:58"
+    "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+    "published": "2026-06-09 19:36:27"
   }
 ]
