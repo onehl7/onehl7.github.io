@@ -1,5 +1,29 @@
 [
   {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "published": "2026-06-11 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "link": "https://openai.com/index/openai-on-oracle-cloud",
+    "published": "2026-06-10 20:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Business World Model",
+    "link": "https://arxiv.org/abs/2606.10044",
+    "published": "2026-06-10 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Deployment-Time Memorization in Foundation-Model Agents",
+    "link": "https://arxiv.org/abs/2606.10062",
+    "published": "2026-06-10 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
     "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
     "published": "2026-06-09 19:38:28",
@@ -12,40 +36,16 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "link": "https://openai.com/index/nextdoor",
-    "published": "2026-06-09 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "published": "2026-06-09 10:20:06",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "What Codex unlocks for Notion",
-    "link": "https://openai.com/index/notion",
-    "published": "2026-06-09 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Five things you need to know about AI",
     "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
     "published": "2026-06-09 09:16:45",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
-    "link": "https://arxiv.org/abs/2606.07549",
-    "published": "2026-06-09 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
-    "link": "https://arxiv.org/abs/2606.07577",
-    "published": "2026-06-09 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "The latest AI news we announced in May 2026",
