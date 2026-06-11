@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+    "published": "2026-06-10 21:23:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+    "published": "2026-06-10 20:27:08"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+    "published": "2026-06-10 19:41:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+    "published": "2026-06-10 18:31:57"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "China-linked JDY botnet expands targeting of U.S. military networks",
     "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
     "published": "2026-06-10 15:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The 5 Best Practices for Secure Identity Verification",
-    "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-    "published": "2026-06-10 14:05:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-    "published": "2026-06-10 13:44:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-    "published": "2026-06-10 11:33:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-    "published": "2026-06-10 09:57:33"
   }
 ]
