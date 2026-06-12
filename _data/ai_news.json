@@ -1,32 +1,44 @@
 [
   {
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "published": "2026-06-11 20:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "published": "2026-06-11 11:00:45",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+    "link": "https://arxiv.org/abs/2606.11207",
+    "published": "2026-06-11 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+    "link": "https://arxiv.org/abs/2606.11245",
+    "published": "2026-06-11 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "published": "2026-06-11 00:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "link": "https://openai.com/index/openai-on-oracle-cloud",
-    "published": "2026-06-10 20:00:00",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "published": "2026-06-11 00:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Business World Model",
-    "link": "https://arxiv.org/abs/2606.10044",
-    "published": "2026-06-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Deployment-Time Memorization in Foundation-Model Agents",
-    "link": "https://arxiv.org/abs/2606.10062",
-    "published": "2026-06-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-    "published": "2026-06-09 19:38:28",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "link": "https://huggingface.co/blog/torch-mlp-fusion",
+    "published": "2026-06-11 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -42,21 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Five things you need to know about AI",
-    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "published": "2026-06-09 09:16:45",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "The latest AI news we announced in May 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "published": "2026-06-05 14:45:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "5 ways Google Search can level up your thrift and vintage shopping",
-    "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-    "published": "2026-06-03 13:00:00",
     "source": "Google AI Blog"
   }
 ]
