@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Maine disables data breach notification portal after fake disclosures",
+    "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+    "published": "2026-06-12 19:33:32"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+    "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+    "published": "2026-06-12 18:19:34"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+    "published": "2026-06-12 17:54:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+    "published": "2026-06-12 17:03:55"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
     "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
     "published": "2026-06-12 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-    "published": "2026-06-12 11:44:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-    "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-    "published": "2026-06-12 10:13:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-    "published": "2026-06-12 08:26:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-    "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-    "published": "2026-06-12 07:09:11"
   }
 ]
