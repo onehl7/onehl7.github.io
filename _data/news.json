@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+    "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+    "published": "2026-06-13 10:01:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Maine disables data breach notification portal after fake disclosures",
     "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
     "published": "2026-06-12 19:33:32"
@@ -22,11 +28,5 @@
     "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
     "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
     "published": "2026-06-12 17:03:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-    "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-    "published": "2026-06-12 14:01:11"
   }
 ]
