@@ -1,5 +1,35 @@
 [
   {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "link": "https://huggingface.co/blog/allenai/olmo-eval",
+    "published": "2026-06-12 15:56:10",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "published": "2026-06-12 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+    "link": "https://arxiv.org/abs/2606.12451",
+    "published": "2026-06-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+    "link": "https://arxiv.org/abs/2606.12563",
+    "published": "2026-06-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "published": "2026-06-12 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
     "published": "2026-06-11 20:00:00",
@@ -12,39 +42,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
-    "link": "https://arxiv.org/abs/2606.11207",
-    "published": "2026-06-11 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-    "link": "https://arxiv.org/abs/2606.11245",
-    "published": "2026-06-11 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "published": "2026-06-11 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "published": "2026-06-11 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "link": "https://huggingface.co/blog/torch-mlp-fusion",
     "published": "2026-06-11 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "published": "2026-06-09 15:56:23",
     "source": "Hugging Face Blog"
   },
   {
