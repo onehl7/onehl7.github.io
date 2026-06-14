@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ex-school district employee jailed for hacks on former employer",
+    "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+    "published": "2026-06-13 20:53:13"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+    "published": "2026-06-13 14:06:42"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
     "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
     "published": "2026-06-13 10:01:32"
@@ -16,17 +28,5 @@
     "title": "phpBB forum fixes auth bypass bug lurking for a decade",
     "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
     "published": "2026-06-12 18:19:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-    "published": "2026-06-12 17:54:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-    "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-    "published": "2026-06-12 17:03:55"
   }
 ]
