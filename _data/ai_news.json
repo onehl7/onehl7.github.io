@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "published": "2026-06-14 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "olmo-eval: An evaluation workbench for the model development loop",
     "link": "https://huggingface.co/blog/allenai/olmo-eval",
     "published": "2026-06-12 15:56:10",
@@ -9,12 +15,6 @@
     "title": "New OpenAI Academy courses for the next era of work",
     "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "published": "2026-06-12 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "published": "2026-06-12 00:00:00",
     "source": "OpenAI News"
   },
   {
