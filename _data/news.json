@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+    "published": "2026-06-14 14:36:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ex-school district employee jailed for hacks on former employer",
     "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
     "published": "2026-06-13 20:53:13"
@@ -22,11 +28,5 @@
     "title": "Maine disables data breach notification portal after fake disclosures",
     "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
     "published": "2026-06-12 19:33:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-    "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-    "published": "2026-06-12 18:19:34"
   }
 ]
