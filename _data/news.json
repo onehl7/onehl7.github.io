@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+    "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+    "published": "2026-06-15 21:56:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+    "published": "2026-06-15 20:06:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+    "published": "2026-06-15 17:37:07"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
     "published": "2026-06-15 17:12:42"
@@ -10,23 +28,5 @@
     "title": "Council of Europe investigates ShinyHunters data breach claims",
     "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
     "published": "2026-06-15 16:37:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-    "published": "2026-06-15 15:30:23"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-    "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-    "published": "2026-06-15 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese hackers breach REDCap servers, steal medical research",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-    "published": "2026-06-15 14:00:00"
   }
 ]
