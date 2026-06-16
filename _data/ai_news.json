@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "published": "2026-06-15 18:46:08",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "published": "2026-06-15 15:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+    "link": "https://arxiv.org/abs/2606.13682",
+    "published": "2026-06-15 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "link": "https://arxiv.org/abs/2606.13683",
+    "published": "2026-06-15 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Introducing the OpenAI Partner Network",
     "link": "https://openai.com/index/introducing-openai-partner-network",
     "published": "2026-06-14 17:00:00",
@@ -34,17 +58,5 @@
     "link": "https://huggingface.co/blog/torch-mlp-fusion",
     "published": "2026-06-11 00:00:00",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "published": "2026-06-09 10:20:06",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The latest AI news we announced in May 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "published": "2026-06-05 14:45:00",
-    "source": "Google AI Blog"
   }
 ]
