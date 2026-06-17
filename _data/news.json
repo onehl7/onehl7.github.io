@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+    "published": "2026-06-16 21:54:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+    "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+    "published": "2026-06-16 20:04:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+    "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+    "published": "2026-06-16 18:27:55"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "UK to require ID or face scan before you can make social media accounts",
     "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
     "published": "2026-06-16 14:38:49"
@@ -10,23 +28,5 @@
     "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
     "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
     "published": "2026-06-16 14:17:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-    "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-    "published": "2026-06-16 13:42:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-    "published": "2026-06-16 10:47:59"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-    "published": "2026-06-16 10:18:48"
   }
 ]
