@@ -1,5 +1,29 @@
 [
   {
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "published": "2026-06-16 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+    "link": "https://arxiv.org/abs/2606.14838",
+    "published": "2026-06-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+    "link": "https://arxiv.org/abs/2606.14885",
+    "published": "2026-06-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "published": "2026-06-16 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Why do South Koreans love AI so much?",
     "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
     "published": "2026-06-15 18:46:08",
@@ -10,18 +34,6 @@
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
     "published": "2026-06-15 15:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-    "link": "https://arxiv.org/abs/2606.13682",
-    "published": "2026-06-15 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-    "link": "https://arxiv.org/abs/2606.13683",
-    "published": "2026-06-15 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Introducing the OpenAI Partner Network",
@@ -36,22 +48,10 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "published": "2026-06-12 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
     "published": "2026-06-11 20:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "published": "2026-06-11 11:00:45",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
