@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-    "published": "2026-06-18 01:30:08"
+    "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+    "published": "2026-06-18 14:19:50"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google to use UK and EU user IP addresses for ad personalization",
-    "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-    "published": "2026-06-17 21:02:42"
+    "title": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
+    "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+    "published": "2026-06-18 13:48:56"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+    "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+    "published": "2026-06-18 13:25:47"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+    "published": "2026-06-18 12:55:36"
   },
   {
     "source": "Bleeping Computer",
     "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
     "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-    "published": "2026-06-17 15:12:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why Account Takeovers Are Rising and How to Stop Them",
-    "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-    "published": "2026-06-17 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-    "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-    "published": "2026-06-17 13:12:45"
+    "published": "2026-06-18 12:54:39"
   }
 ]
