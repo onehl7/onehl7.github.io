@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+    "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+    "published": "2026-06-18 22:31:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+    "published": "2026-06-18 18:31:36"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+    "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+    "published": "2026-06-18 16:20:06"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
     "published": "2026-06-18 14:19:50"
@@ -10,23 +28,5 @@
     "title": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
     "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
     "published": "2026-06-18 13:48:56"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-    "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-    "published": "2026-06-18 13:25:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-    "published": "2026-06-18 12:55:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-    "published": "2026-06-18 12:54:39"
   }
 ]
