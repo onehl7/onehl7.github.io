@@ -1,8 +1,38 @@
 [
   {
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
-    "published": "2026-06-17 15:26:44",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "published": "2026-06-18 18:13:13",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "published": "2026-06-18 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "published": "2026-06-18 11:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+    "link": "https://arxiv.org/abs/2606.18271",
+    "published": "2026-06-18 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+    "link": "https://arxiv.org/abs/2606.18385",
+    "published": "2026-06-18 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "published": "2026-06-18 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -10,36 +40,6 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "published": "2026-06-17 15:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "published": "2026-06-17 10:18:05",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "published": "2026-06-17 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-    "link": "https://arxiv.org/abs/2606.17209",
-    "published": "2026-06-17 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-    "link": "https://arxiv.org/abs/2606.17220",
-    "published": "2026-06-17 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "link": "https://openai.com/index/introducing-life-sci-bench",
-    "published": "2026-06-17 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Want to get a data center online quickly? Give it some flex.",
