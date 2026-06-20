@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+    "published": "2026-06-19 22:31:04"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+    "published": "2026-06-19 20:25:02"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
+    "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+    "published": "2026-06-19 16:12:41"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
     "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
     "published": "2026-06-19 13:10:19"
@@ -10,23 +28,5 @@
     "title": "Webinar: How attackers bypass MFA and how defenders can respond",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
     "published": "2026-06-19 12:12:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-    "published": "2026-06-19 11:32:34"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-    "published": "2026-06-19 10:39:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NY man charged after harassing college student with AI-generated nudes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-    "published": "2026-06-19 08:44:08"
   }
 ]
