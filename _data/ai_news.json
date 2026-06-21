@@ -1,21 +1,21 @@
 [
   {
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "published": "2026-06-19 10:40:24",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
     "link": "https://arxiv.org/abs/2606.19464",
-    "published": "2026-06-19 04:00:00",
+    "published": "2026-06-20 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
     "link": "https://arxiv.org/abs/2606.19469",
-    "published": "2026-06-19 04:00:00",
+    "published": "2026-06-20 04:00:00",
     "source": "arXiv AI"
+  },
+  {
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "published": "2026-06-19 10:40:24",
+    "source": "MIT Technology Review AI"
   },
   {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
