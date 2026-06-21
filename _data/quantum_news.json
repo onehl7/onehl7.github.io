@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "This simple twist could bring quantum computers closer to reality",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+    "published": "2026-06-20 16:37:09"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "EPB Announces Robert Long as President of Strategic Initiatives",
     "link": "https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/",
@@ -52,11 +58,5 @@
     "title": "One-way quantum synchronization could make quantum computers more reliable",
     "link": "https://www.sciencedaily.com/releases/2026/06/260611024619.htm",
     "published": "2026-06-12 06:05:41"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
-    "published": "2026-06-06 13:02:19"
   }
 ]
