@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+    "published": "2026-06-21 14:14:22"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
     "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
     "published": "2026-06-20 15:23:46"
@@ -22,11 +28,5 @@
     "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
     "published": "2026-06-19 20:25:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-    "published": "2026-06-19 16:12:41"
   }
 ]
