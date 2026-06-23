@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+    "published": "2026-06-23 14:01:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "LastPass confirms data breach in Klue supply chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+    "published": "2026-06-23 13:58:25"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why email security teams are drowning in alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+    "published": "2026-06-23 12:12:20"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
     "published": "2026-06-22 22:42:21"
@@ -10,23 +28,5 @@
     "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
     "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
     "published": "2026-06-22 21:52:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-    "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-    "published": "2026-06-22 21:05:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-    "published": "2026-06-22 20:01:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-    "published": "2026-06-22 17:41:31"
   }
 ]
