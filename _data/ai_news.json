@@ -1,8 +1,26 @@
 [
   {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "published": "2026-06-21 23:00:00",
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "published": "2026-06-22 18:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "published": "2026-06-22 13:18:56",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "published": "2026-06-22 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "published": "2026-06-22 10:00:00",
     "source": "OpenAI News"
   },
   {
@@ -18,28 +36,10 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "published": "2026-06-18 17:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "published": "2026-06-18 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "published": "2026-06-17 15:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Want to get a data center online quickly? Give it some flex.",
-    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-    "published": "2026-06-16 09:00:00",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "We’re strengthening our presence in Alabama through new investments and community support.",
