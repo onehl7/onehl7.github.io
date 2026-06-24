@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+    "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+    "published": "2026-06-24 14:02:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+    "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+    "published": "2026-06-24 10:41:51"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
     "published": "2026-06-23 21:48:32"
@@ -16,17 +28,5 @@
     "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
     "published": "2026-06-23 20:22:21"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-    "published": "2026-06-23 19:59:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-    "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-    "published": "2026-06-23 18:30:16"
   }
 ]
