@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Trump Administration Executive Order Places Quantum at Center of Federal Technology Strategy",
-    "link": "https://thequantuminsider.com/2026/06/22/trump-administration-executive-order-places-quantum-at-center-of-federal-technology-strategy/",
-    "published": "2026-06-22 21:09:24"
+    "title": "DOE Unveils Quantum Genesis Push to Accelerate Fault-Tolerant Quantum Computing",
+    "link": "https://thequantuminsider.com/2026/06/23/doe-unveils-quantum-genesis-push-to-accelerate-fault-tolerant-quantum-computing/",
+    "published": "2026-06-23 17:57:14"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Trump Administration Expected to Issue Executive Order on Protecting Quantum Research",
-    "link": "https://thequantuminsider.com/2026/06/22/trump-administration-expected-to-issue-executive-order-on-protecting-quantum-research/",
-    "published": "2026-06-22 19:30:12"
+    "title": "Qubic Raises $2.5 Million Seed Round for Quantum Computing Hardware",
+    "link": "https://thequantuminsider.com/2026/06/23/qubic-secures-oversubscribed-2-5-million-usd-seed-round/",
+    "published": "2026-06-23 16:19:36"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NTHU Researchers Develop World\u2019s Brightest Room-Temperature Single-Photon Source",
-    "link": "https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/",
-    "published": "2026-06-22 14:35:53"
+    "title": "IQM Says New Quantum Codes Cut Logical Error Rates by Up to 1,000 Times",
+    "link": "https://thequantuminsider.com/2026/06/23/iqm-says-new-quantum-codes-cut-logical-error-rates-by-up-to-1000-times/",
+    "published": "2026-06-23 14:34:47"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Europe Expands Quantum-GPU Computing as NVIDIA Announces 35 New AI Supercomputers",
-    "link": "https://thequantuminsider.com/2026/06/22/europe-expands-quantum-gpu-computing-as-nvidia-announces-35-new-ai-supercomputers/",
-    "published": "2026-06-22 14:06:57"
+    "title": "Quantum Computing Inc. Completes NHanced Semiconductors Acquisition",
+    "link": "https://thequantuminsider.com/2026/06/23/quantum-computing-inc-completes-acquisition-of-nhanced-semiconductors/",
+    "published": "2026-06-23 14:17:01"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Infleqtion Launches America\u2019s Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure",
-    "link": "https://thequantuminsider.com/2026/06/22/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/",
-    "published": "2026-06-22 13:45:43"
+    "title": "Q.ANT Runs Generative AI on Photonic Hardware",
+    "link": "https://thequantuminsider.com/2026/06/23/q-ant-runs-generative-ai-on-photonic-hardware/",
+    "published": "2026-06-23 14:15:11"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+    "published": "2026-06-23 04:45:34"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
     "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
     "published": "2026-06-15 07:29:46"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "One-way quantum synchronization could make quantum computers more reliable",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260611024619.htm",
-    "published": "2026-06-12 06:05:41"
   }
 ]
