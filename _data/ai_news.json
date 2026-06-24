@@ -1,39 +1,51 @@
 [
   {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "published": "2026-06-23 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "published": "2026-06-23 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "published": "2026-06-23 12:51:55",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "published": "2026-06-23 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
+    "link": "https://arxiv.org/abs/2606.20569",
+    "published": "2026-06-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+    "link": "https://arxiv.org/abs/2606.20599",
+    "published": "2026-06-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "published": "2026-06-23 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Three things to watch amid Anthropic’s latest feud with the government",
     "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "published": "2026-06-22 18:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "published": "2026-06-22 13:18:56",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "published": "2026-06-22 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "published": "2026-06-22 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "published": "2026-06-19 10:40:24",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "published": "2026-06-18 18:13:13",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
