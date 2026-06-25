@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "DOE Unveils Quantum Genesis Push to Accelerate Fault-Tolerant Quantum Computing",
-    "link": "https://thequantuminsider.com/2026/06/23/doe-unveils-quantum-genesis-push-to-accelerate-fault-tolerant-quantum-computing/",
-    "published": "2026-06-23 17:57:14"
+    "title": "Classiq and TEA TEK Group Launch Quantum Computing Hub in Naples",
+    "link": "https://thequantuminsider.com/2026/06/24/classiq-tea-tek-group-quantum-computing-hub-naples/",
+    "published": "2026-06-24 16:43:05"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Qubic Raises $2.5 Million Seed Round for Quantum Computing Hardware",
-    "link": "https://thequantuminsider.com/2026/06/23/qubic-secures-oversubscribed-2-5-million-usd-seed-round/",
-    "published": "2026-06-23 16:19:36"
+    "title": "NSF Selects Five New Teams for National Quantum Virtual Laboratory",
+    "link": "https://thequantuminsider.com/2026/06/24/nsf-national-quantum-virtual-laboratory-teams/",
+    "published": "2026-06-24 14:36:59"
   },
   {
     "source": "The Quantum Insider",
-    "title": "IQM Says New Quantum Codes Cut Logical Error Rates by Up to 1,000 Times",
-    "link": "https://thequantuminsider.com/2026/06/23/iqm-says-new-quantum-codes-cut-logical-error-rates-by-up-to-1000-times/",
-    "published": "2026-06-23 14:34:47"
+    "title": "STMicroelectronics Launches ST54M Post-Quantum Security Chip for Mobile Devices",
+    "link": "https://thequantuminsider.com/2026/06/24/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/",
+    "published": "2026-06-24 14:23:51"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Quantum Computing Inc. Completes NHanced Semiconductors Acquisition",
-    "link": "https://thequantuminsider.com/2026/06/23/quantum-computing-inc-completes-acquisition-of-nhanced-semiconductors/",
-    "published": "2026-06-23 14:17:01"
+    "title": "Bull and Alice & Bob Partner up to Bring Quantum Computers into HPC",
+    "link": "https://thequantuminsider.com/2026/06/24/bull-and-alice-and-bob-partner-up-to-bring-quantum-computers-into-hpc/",
+    "published": "2026-06-24 14:06:29"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Q.ANT Runs Generative AI on Photonic Hardware",
-    "link": "https://thequantuminsider.com/2026/06/23/q-ant-runs-generative-ai-on-photonic-hardware/",
-    "published": "2026-06-23 14:15:11"
+    "title": "Quantum Elements And USC Advance Noisy Quantum Circuit Simulation With New Quantum Monte Carlo Algorithm",
+    "link": "https://thequantuminsider.com/2026/06/24/quantum-elements-and-usc-advance-noisy-quantum-circuit-simulation-with-new-quantum-monte-carlo-algorithm/",
+    "published": "2026-06-24 13:05:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "New superconducting X-ray detector is up to 1,000 times more sensitive",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260623083108.htm",
+    "published": "2026-06-24 06:05:27"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
     "link": "https://www.sciencedaily.com/releases/2026/06/260616103131.htm",
     "published": "2026-06-18 10:31:23"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
-    "published": "2026-06-15 07:29:46"
   }
 ]
