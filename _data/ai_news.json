@@ -1,9 +1,39 @@
 [
   {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "published": "2026-06-23 17:00:00",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "published": "2026-06-24 16:00:13",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "published": "2026-06-24 11:59:54",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "published": "2026-06-24 06:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "link": "https://arxiv.org/abs/2606.23927",
+    "published": "2026-06-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "link": "https://arxiv.org/abs/2606.23938",
+    "published": "2026-06-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "published": "2026-06-24 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Helping build shared standards for advanced AI",
@@ -12,39 +42,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "published": "2026-06-23 12:51:55",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "The $400 million machine powering the future of chipmaking",
     "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
     "published": "2026-06-23 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
-    "link": "https://arxiv.org/abs/2606.20569",
-    "published": "2026-06-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
-    "link": "https://arxiv.org/abs/2606.20599",
-    "published": "2026-06-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "published": "2026-06-23 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "published": "2026-06-22 18:00:00",
     "source": "MIT Technology Review AI"
   },
   {
