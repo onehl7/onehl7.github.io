@@ -1,9 +1,45 @@
 [
   {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "published": "2026-06-24 16:00:13",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "published": "2026-06-26 00:00:00",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Which tokens does a hybrid model predict better?",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "published": "2026-06-25 16:11:42",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "published": "2026-06-25 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Repositioning retail for the AI era",
+    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "published": "2026-06-25 14:22:59",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "link": "https://arxiv.org/abs/2606.24937",
+    "published": "2026-06-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+    "link": "https://arxiv.org/abs/2606.24965",
+    "published": "2026-06-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "published": "2026-06-25 02:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "The emergence of the web data infrastructure layer for AI",
@@ -18,45 +54,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-    "link": "https://arxiv.org/abs/2606.23927",
-    "published": "2026-06-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-    "link": "https://arxiv.org/abs/2606.23938",
-    "published": "2026-06-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "published": "2026-06-24 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "published": "2026-06-23 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The $400 million machine powering the future of chipmaking",
-    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "published": "2026-06-23 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "published": "2026-06-17 15:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "published": "2026-06-15 15:00:00",
     "source": "Google AI Blog"
   }
 ]
