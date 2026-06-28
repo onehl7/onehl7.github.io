@@ -6,18 +6,6 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-    "link": "https://arxiv.org/abs/2606.26155",
-    "published": "2026-06-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-    "link": "https://arxiv.org/abs/2606.26158",
-    "published": "2026-06-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "link": "https://huggingface.co/blog/vllm-jobs",
     "published": "2026-06-26 00:00:00",
