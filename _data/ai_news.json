@@ -1,5 +1,11 @@
 [
   {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "published": "2026-06-28 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol",
     "published": "2026-06-26 10:00:00",
@@ -28,12 +34,6 @@
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
     "published": "2026-06-25 14:22:59",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How agents are transforming work",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "published": "2026-06-25 02:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "The emergence of the web data infrastructure layer for AI",
