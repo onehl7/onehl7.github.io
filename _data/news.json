@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+    "published": "2026-06-28 14:13:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Clean GitHub repo tricks AI coding agents into running malware",
     "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
     "published": "2026-06-27 14:22:36"
@@ -22,11 +28,5 @@
     "title": "Polymarket customers lose $3 million in supply-chain attack",
     "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
     "published": "2026-06-26 18:04:12"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-    "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-    "published": "2026-06-26 17:49:07"
   }
 ]
