@@ -1,14 +1,50 @@
 [
   {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "published": "2026-06-28 17:00:00",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "published": "2026-06-29 18:02:48",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI agents are not your “coworkers”",
+    "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "published": "2026-06-29 18:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "published": "2026-06-29 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "published": "2026-06-29 14:44:01",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "published": "2026-06-29 07:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "published": "2026-06-26 10:00:00",
+    "title": "AI-Model Network: Concept, Current State and Future",
+    "link": "https://arxiv.org/abs/2606.27382",
+    "published": "2026-06-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "link": "https://arxiv.org/abs/2606.27443",
+    "published": "2026-06-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "published": "2026-06-28 17:00:00",
     "source": "OpenAI News"
   },
   {
@@ -18,33 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Which tokens does a hybrid model predict better?",
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "published": "2026-06-25 16:11:42",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Our latest Google Finance upgrades, including a new app",
     "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
     "published": "2026-06-25 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Repositioning retail for the AI era",
-    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "published": "2026-06-25 14:22:59",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The emergence of the web data infrastructure layer for AI",
-    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-    "published": "2026-06-24 11:59:54",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "published": "2026-06-17 15:00:00",
     "source": "Google AI Blog"
   }
 ]
