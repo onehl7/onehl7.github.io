@@ -1,5 +1,41 @@
 [
   {
+    "title": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "published": "2026-07-01 18:15:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "published": "2026-07-01 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "published": "2026-07-01 14:35:16",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "What Drives Interactive Improvement from Feedback?",
+    "link": "https://arxiv.org/abs/2606.30774",
+    "published": "2026-07-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Contrastive Reflection for Iterative Prompt Optimization",
+    "link": "https://arxiv.org/abs/2606.30840",
+    "published": "2026-07-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "published": "2026-07-01 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Claude Science is Anthropic’s newest flagship product",
     "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
     "published": "2026-06-30 21:50:04",
@@ -12,51 +48,15 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "published": "2026-06-30 14:39:11",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "published": "2026-06-30 12:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "How ChatGPT adoption has expanded",
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "published": "2026-06-30 09:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "published": "2026-06-30 06:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-    "link": "https://arxiv.org/abs/2606.28374",
-    "published": "2026-06-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
-    "link": "https://arxiv.org/abs/2606.28471",
-    "published": "2026-06-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
     "published": "2026-06-30 00:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Ask an AI expert: What exactly is the full stack?",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "published": "2026-06-29 16:00:00",
-    "source": "Google AI Blog"
   }
 ]
