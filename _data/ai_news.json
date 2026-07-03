@@ -1,5 +1,29 @@
 [
   {
+    "title": "Achieving operational excellence with AI",
+    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "published": "2026-07-02 15:37:08",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Teaching AI to run with the turbines",
+    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "published": "2026-07-02 12:51:44",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "link": "https://arxiv.org/abs/2607.00001",
+    "published": "2026-07-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Bounded Morality: Defining the Space of Moral Computation",
+    "link": "https://arxiv.org/abs/2607.00002",
+    "published": "2026-07-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "The latest AI news we announced in June 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "published": "2026-07-01 18:15:00",
@@ -12,34 +36,10 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "published": "2026-07-01 14:35:16",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "What Drives Interactive Improvement from Feedback?",
-    "link": "https://arxiv.org/abs/2606.30774",
-    "published": "2026-07-01 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Contrastive Reflection for Iterative Prompt Optimization",
-    "link": "https://arxiv.org/abs/2606.30840",
-    "published": "2026-07-01 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "published": "2026-07-01 00:00:00",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "published": "2026-06-30 21:50:04",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
