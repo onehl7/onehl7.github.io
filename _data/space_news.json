@@ -1,6 +1,36 @@
 [
   {
     "source": "NASA",
+    "title": "NASA\u2019s Artemis II Breaks Agency Streaming Record",
+    "link": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
+    "published": "2026-07-02 18:02:21"
+  },
+  {
+    "source": "NASA",
+    "title": "Good Morning, Earth!",
+    "link": "https://www.nasa.gov/image-article/good-morning-earth/",
+    "published": "2026-07-02 14:41:24"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA\u2019s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+    "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+    "published": "2026-07-02 14:00:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Surface CubeSat contracted for Ramses asteroid mission",
+    "link": "https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission",
+    "published": "2026-07-02 10:16:00"
+  },
+  {
+    "source": "ESA",
+    "title": "Authorisation paves the way for Aeolus-2 wind mission",
+    "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission",
+    "published": "2026-07-02 08:00:00"
+  },
+  {
+    "source": "NASA",
     "title": "What\u2019s Up: July 2026 Skywatching Tips from NASA",
     "link": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/",
     "published": "2026-07-02 00:22:22"
@@ -12,24 +42,6 @@
     "published": "2026-07-01 20:17:20"
   },
   {
-    "source": "NASA",
-    "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-    "link": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
-    "published": "2026-07-01 16:15:14"
-  },
-  {
-    "source": "NASA",
-    "title": "LINK Spacecraft Set for Mission to Boost NASA\u2019s Swift Observatory",
-    "link": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
-    "published": "2026-07-01 15:20:29"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA\u2019s Webb Studies How Planet Survived Death of its Star",
-    "link": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
-    "published": "2026-07-01 15:00:00"
-  },
-  {
     "source": "ESA",
     "title": "Webb studies how a planet survived the death of its star",
     "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
@@ -37,21 +49,9 @@
   },
   {
     "source": "ESA",
-    "title": "XMM-Newton helps revise distance to outer spiral arms",
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
-    "published": "2026-07-01 12:00:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Thousands of planets are hidden in this photo",
-    "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo",
-    "published": "2026-07-01 08:00:00"
-  },
-  {
-    "source": "ESA",
-    "title": "The space under",
-    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_space_under",
-    "published": "2026-07-01 07:00:00"
+    "title": "Mediterranean Sea breaks June surface heat record",
+    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record",
+    "published": "2026-07-01 13:45:00"
   },
   {
     "source": "ESA",
