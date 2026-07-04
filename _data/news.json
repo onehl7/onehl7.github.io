@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+    "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+    "published": "2026-07-03 17:50:04"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+    "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+    "published": "2026-07-03 14:12:22"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
     "published": "2026-07-03 01:37:09"
@@ -16,17 +28,5 @@
     "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
     "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
     "published": "2026-07-02 15:18:51"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-    "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-    "published": "2026-07-02 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-    "published": "2026-07-02 12:15:47"
   }
 ]
