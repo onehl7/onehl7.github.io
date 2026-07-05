@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "JadePuffer ransomware used AI agent to automate entire attack",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+    "published": "2026-07-04 14:16:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
     "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
     "published": "2026-07-03 17:50:04"
@@ -22,11 +28,5 @@
     "title": "Claude Fable relaunch disappoints users with nerfed performance",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
     "published": "2026-07-03 00:48:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
-    "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-    "published": "2026-07-02 15:18:51"
   }
 ]
