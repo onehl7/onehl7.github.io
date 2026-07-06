@@ -1,5 +1,17 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+    "published": "2026-07-05 18:13:44"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists may have finally solved the black hole information paradox",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
+    "published": "2026-07-05 03:12:55"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Researchers Propose Thermodynamic Computing Architecture That Could Dramatically Reduce AI Energy Use",
     "link": "https://thequantuminsider.com/2026/07/03/researchers-propose-thermodynamic-computing-architecture-that-could-dramatically-reduce-ai-energy-use/",
@@ -46,17 +58,5 @@
     "title": "New superconducting X-ray detector is up to 1,000 times more sensitive",
     "link": "https://www.sciencedaily.com/releases/2026/06/260623083108.htm",
     "published": "2026-06-24 06:05:27"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-    "published": "2026-06-23 04:45:34"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "This simple twist could bring quantum computers closer to reality",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
-    "published": "2026-06-20 16:37:09"
   }
 ]
