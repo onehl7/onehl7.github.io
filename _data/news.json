@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Phishing poses as big-brand job interview to steal Google accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+    "published": "2026-07-06 20:27:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+    "published": "2026-07-06 20:23:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+    "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+    "published": "2026-07-06 18:25:06"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
     "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
     "published": "2026-07-06 14:00:10"
@@ -10,23 +28,5 @@
     "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
     "published": "2026-07-06 13:18:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flipper Zero firmware development continues with community help",
-    "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-    "published": "2026-07-05 14:14:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "JadePuffer ransomware used AI agent to automate entire attack",
-    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-    "published": "2026-07-04 14:16:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-    "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-    "published": "2026-07-03 17:50:04"
   }
 ]
