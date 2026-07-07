@@ -1,14 +1,26 @@
 [
   {
-    "title": "Achieving operational excellence with AI",
-    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-    "published": "2026-07-02 15:37:08",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "published": "2026-07-07 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Your family’s $300 stake in OpenAI",
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "published": "2026-07-06 18:00:00",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Teaching AI to run with the turbines",
-    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "published": "2026-07-02 12:51:44",
+    "title": "PRX Part 4: Our Data Strategy",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "published": "2026-07-06 15:30:55",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Achieving operational excellence with AI",
+    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "published": "2026-07-02 15:37:08",
     "source": "MIT Technology Review AI"
   },
   {
@@ -24,26 +36,14 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "published": "2026-07-01 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "published": "2026-06-30 18:32:50",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "How ChatGPT adoption has expanded",
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "published": "2026-06-30 09:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "published": "2026-06-30 00:00:00",
     "source": "OpenAI News"
   }
