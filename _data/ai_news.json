@@ -1,9 +1,51 @@
 [
   {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "published": "2026-07-07 00:00:00",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "published": "2026-07-07 21:15:33",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "published": "2026-07-07 15:20:06",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "published": "2026-07-07 11:10:52",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "published": "2026-07-07 08:54:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "iFLYTEK-Embodied-Omni Technical Report",
+    "link": "https://arxiv.org/abs/2607.02542",
+    "published": "2026-07-07 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+    "link": "https://arxiv.org/abs/2607.02672",
+    "published": "2026-07-07 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "published": "2026-07-07 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "published": "2026-07-07 00:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "Your family’s $300 stake in OpenAI",
@@ -12,39 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "PRX Part 4: Our Data Strategy",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "published": "2026-07-06 15:30:55",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Achieving operational excellence with AI",
-    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-    "published": "2026-07-02 15:37:08",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "The latest AI news we announced in June 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "published": "2026-07-01 18:15:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "published": "2026-07-01 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "published": "2026-06-30 09:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "published": "2026-06-30 00:00:00",
-    "source": "OpenAI News"
   }
 ]
