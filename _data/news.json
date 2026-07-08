@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Accenture confirms breach after hacker offers stolen data for sale",
+    "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+    "published": "2026-07-07 22:06:07"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+    "published": "2026-07-07 18:52:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hidden backdoor in Tenda router firmware grants admin access",
+    "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+    "published": "2026-07-07 17:27:22"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+    "published": "2026-07-07 15:21:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
     "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
     "published": "2026-07-07 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-    "published": "2026-07-07 12:12:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-    "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-    "published": "2026-07-07 12:06:09"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to enable Windows settings backup by default for orgs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-    "published": "2026-07-07 09:41:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BeyondTrust warns of critical flaws in remote access software",
-    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-    "published": "2026-07-07 08:12:10"
   }
 ]
