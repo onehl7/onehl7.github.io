@@ -1,14 +1,38 @@
 [
   {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "published": "2026-07-07 21:15:33",
+    "title": "Data for Agents",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "published": "2026-07-08 17:16:05",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "published": "2026-07-07 15:20:06",
+    "title": "Our approach to government and national security partnerships",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "published": "2026-07-08 13:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Separating signal from noise in coding evaluations",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "published": "2026-07-08 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+    "link": "https://arxiv.org/abs/2607.05456",
+    "published": "2026-07-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+    "link": "https://arxiv.org/abs/2607.05563",
+    "published": "2026-07-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "published": "2026-07-08 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -22,30 +46,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "published": "2026-07-07 08:54:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "iFLYTEK-Embodied-Omni Technical Report",
-    "link": "https://arxiv.org/abs/2607.02542",
-    "published": "2026-07-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-    "link": "https://arxiv.org/abs/2607.02672",
-    "published": "2026-07-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "published": "2026-07-07 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "published": "2026-07-07 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Your family’s $300 stake in OpenAI",
