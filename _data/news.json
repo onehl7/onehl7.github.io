@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+    "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+    "published": "2026-07-10 14:00:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Zimbra urges customers to patch critical web client XSS flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+    "published": "2026-07-10 11:47:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+    "published": "2026-07-10 08:17:52"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenMandriva Linux says contributor tried to sabotage the project",
     "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
     "published": "2026-07-09 22:14:13"
@@ -10,23 +28,5 @@
     "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
     "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
     "published": "2026-07-09 20:10:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-    "published": "2026-07-09 17:08:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-    "published": "2026-07-09 17:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-    "published": "2026-07-09 14:39:51"
   }
 ]
