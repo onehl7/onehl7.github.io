@@ -1,33 +1,39 @@
 [
   {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "published": "2026-07-09 20:22:28",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "published": "2026-07-09 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "published": "2026-07-09 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "link": "https://arxiv.org/abs/2607.06624",
+    "published": "2026-07-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "link": "https://arxiv.org/abs/2607.06720",
+    "published": "2026-07-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Data for Agents",
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "published": "2026-07-08 17:16:05",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "published": "2026-07-08 13:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "published": "2026-07-08 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-    "link": "https://arxiv.org/abs/2607.05456",
-    "published": "2026-07-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-    "link": "https://arxiv.org/abs/2607.05563",
-    "published": "2026-07-08 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Native-speed vLLM transformers modeling backend",
@@ -46,12 +52,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "published": "2026-07-07 08:54:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Your family’s $300 stake in OpenAI",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "published": "2026-07-06 18:00:00",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "The latest AI news we announced in June 2026",
