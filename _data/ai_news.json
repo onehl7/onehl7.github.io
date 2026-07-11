@@ -1,5 +1,29 @@
 [
   {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "published": "2026-07-10 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "link": "https://arxiv.org/abs/2607.06624",
+    "published": "2026-07-10 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "link": "https://arxiv.org/abs/2607.06720",
+    "published": "2026-07-10 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
+    "published": "2026-07-10 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "published": "2026-07-09 20:22:28",
@@ -12,33 +36,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "published": "2026-07-09 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-    "link": "https://arxiv.org/abs/2607.06624",
-    "published": "2026-07-09 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-    "link": "https://arxiv.org/abs/2607.06720",
-    "published": "2026-07-09 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Data for Agents",
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "published": "2026-07-08 17:16:05",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "published": "2026-07-08 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
