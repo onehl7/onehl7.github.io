@@ -1,21 +1,21 @@
 [
   {
+    "title": "Context Graphs for Proactive Enterprise Agents",
+    "link": "https://arxiv.org/abs/2607.07721",
+    "published": "2026-07-11 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AI-integrated models for assessing agricultural resilience",
+    "link": "https://arxiv.org/abs/2607.07759",
+    "published": "2026-07-11 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "link": "https://openai.com/index/deutsche-telekom",
     "published": "2026-07-10 07:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-    "link": "https://arxiv.org/abs/2607.06624",
-    "published": "2026-07-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-    "link": "https://arxiv.org/abs/2607.06720",
-    "published": "2026-07-10 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
