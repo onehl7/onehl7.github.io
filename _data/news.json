@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+    "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+    "published": "2026-07-11 14:18:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
     "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
     "published": "2026-07-11 09:03:57"
@@ -22,11 +28,5 @@
     "title": "Police suspects Dutch hackers were involved in Odido breach",
     "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
     "published": "2026-07-10 16:37:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
-    "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-    "published": "2026-07-10 16:26:10"
   }
 ]
