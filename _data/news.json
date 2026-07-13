@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+    "published": "2026-07-13 00:44:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+    "published": "2026-07-12 19:39:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "RedHook Android malware now uses Wireless ADB for shell access",
+    "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+    "published": "2026-07-12 14:27:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
     "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
     "published": "2026-07-11 14:18:23"
@@ -10,23 +28,5 @@
     "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
     "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
     "published": "2026-07-11 09:03:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New U-Boot flaws could enable stealthy firmware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-    "published": "2026-07-10 21:59:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-    "published": "2026-07-10 17:46:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police suspects Dutch hackers were involved in Odido breach",
-    "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-    "published": "2026-07-10 16:37:01"
   }
 ]
