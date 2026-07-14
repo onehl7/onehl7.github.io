@@ -1,33 +1,45 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
-    "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
-    "published": "2026-07-11 07:49:00"
+    "title": "Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips",
+    "link": "https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/",
+    "published": "2026-07-13 16:54:32"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Top Diamond NV-Centre Quantum Computing Companies in 2026",
-    "link": "https://thequantuminsider.com/2026/07/10/8-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/",
-    "published": "2026-07-10 17:35:52"
+    "title": "Imec and Diraq Demonstrate Eight-Qubit Silicon Spin Array on CMOS-Compatible Platform",
+    "link": "https://thequantuminsider.com/2026/07/13/imec-diraq-eight-qubit-silicon-spin-qubit-array/",
+    "published": "2026-07-13 16:41:44"
   },
   {
     "source": "The Quantum Insider",
-    "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
-    "link": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
-    "published": "2026-07-10 16:47:26"
+    "title": "Study Finds Imaginary Numbers May Not Be Essential to Quantum Mechanics",
+    "link": "https://thequantuminsider.com/2026/07/13/physicists-say-quantum-mechanics-may-not-need-imaginary-numbers-after-all/",
+    "published": "2026-07-13 14:01:40"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era",
-    "link": "https://thequantuminsider.com/2026/07/10/nordlocker-rebuilds-its-encrypted-cloud-storage-from-the-ground-up/",
-    "published": "2026-07-10 14:49:03"
+    "title": "Nord Quantique Advances Quantum Error Correction with Sub-0.1% SPAM Errors",
+    "link": "https://thequantuminsider.com/2026/07/13/ord-quantique-quantum-error-correction-sub-01-percent-spam-errors/",
+    "published": "2026-07-13 13:53:43"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A 200-year-old physics experiment could help build future computers",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+    "published": "2026-07-13 12:49:50"
   },
   {
     "source": "The Quantum Insider",
-    "title": "BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip",
-    "link": "https://thequantuminsider.com/2026/07/10/btq-technologies-ictk-complete-design-next-generation-qcim-security-chip-integrating-puf-technology/",
-    "published": "2026-07-10 14:03:52"
+    "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
+    "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
+    "published": "2026-07-13 08:41:01"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
+    "published": "2026-07-13 07:22:08"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -46,17 +58,5 @@
     "title": "AI just supercharged the race to find room temperature superconductors",
     "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
     "published": "2026-07-07 05:39:51"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
-    "published": "2026-07-03 09:34:54"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
-    "published": "2026-07-02 06:48:14"
   }
 ]
