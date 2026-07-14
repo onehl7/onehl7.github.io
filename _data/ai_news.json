@@ -1,8 +1,32 @@
 [
   {
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "published": "2026-07-13 18:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+    "link": "https://arxiv.org/abs/2607.08773",
+    "published": "2026-07-13 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+    "link": "https://arxiv.org/abs/2607.08774",
+    "published": "2026-07-13 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "link": "https://openai.com/index/deutsche-telekom",
     "published": "2026-07-10 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "published": "2026-07-10 00:00:00",
     "source": "OpenAI News"
   },
   {
@@ -18,22 +42,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "published": "2026-07-09 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Data for Agents",
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "published": "2026-07-08 17:16:05",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "The foundational elements of AI architecture that IT leaders need to scale",
-    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "published": "2026-07-07 11:10:52",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
