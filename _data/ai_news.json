@@ -1,33 +1,39 @@
 [
   {
+    "title": "Celebrating 25 years of visual search innovation",
+    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "published": "2026-07-14 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "published": "2026-07-14 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "link": "https://arxiv.org/abs/2607.09664",
+    "published": "2026-07-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+    "link": "https://arxiv.org/abs/2607.09665",
+    "published": "2026-07-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "published": "2026-07-14 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "published": "2026-07-13 18:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-    "link": "https://arxiv.org/abs/2607.08773",
-    "published": "2026-07-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-    "link": "https://arxiv.org/abs/2607.08774",
-    "published": "2026-07-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "published": "2026-07-10 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "published": "2026-07-10 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
@@ -51,12 +57,6 @@
     "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "published": "2026-07-07 08:54:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "published": "2026-07-01 18:15:00",
     "source": "Google AI Blog"
   }
 ]
