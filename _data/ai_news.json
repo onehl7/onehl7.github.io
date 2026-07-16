@@ -1,15 +1,39 @@
 [
   {
+    "title": "What building Shippy taught us about building agents",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "published": "2026-07-15 17:29:41",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "published": "2026-07-15 17:27:01",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "published": "2026-07-15 17:09:37",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "published": "2026-07-15 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "published": "2026-07-15 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Celebrating 25 years of visual search innovation",
     "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
     "published": "2026-07-14 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "published": "2026-07-14 10:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
@@ -24,34 +48,10 @@
     "source": "arXiv AI"
   },
   {
-    "title": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "published": "2026-07-14 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "published": "2026-07-13 18:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "published": "2026-07-10 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "published": "2026-07-09 20:22:28",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Data for Agents",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "published": "2026-07-08 17:16:05",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
