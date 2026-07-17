@@ -1,15 +1,51 @@
 [
   {
-    "title": "What building Shippy taught us about building agents",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "published": "2026-07-15 17:29:41",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "published": "2026-07-16 16:01:21",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "published": "2026-07-15 17:27:01",
+    "title": "Why teens deserve access to safe AI",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "published": "2026-07-16 16:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Connect more of your apps to Search",
+    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "published": "2026-07-16 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "published": "2026-07-16 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "published": "2026-07-16 11:49:48",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "link": "https://arxiv.org/abs/2607.13037",
+    "published": "2026-07-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "link": "https://arxiv.org/abs/2607.13049",
+    "published": "2026-07-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "link": "https://openai.com/index/cars24",
+    "published": "2026-07-16 00:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -18,45 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "The US is advancing AI safety through state and federal action",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "published": "2026-07-15 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "published": "2026-07-15 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Celebrating 25 years of visual search innovation",
-    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "published": "2026-07-14 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-    "link": "https://arxiv.org/abs/2607.09664",
-    "published": "2026-07-14 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-    "link": "https://arxiv.org/abs/2607.09665",
-    "published": "2026-07-14 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "published": "2026-07-13 18:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "published": "2026-07-07 08:54:00",
-    "source": "Google AI Blog"
   }
 ]
