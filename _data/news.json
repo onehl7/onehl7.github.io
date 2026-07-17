@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+    "published": "2026-07-17 11:05:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+    "published": "2026-07-17 09:10:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US charges two over laundering $43 million from investment fraud",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+    "published": "2026-07-17 08:13:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+    "published": "2026-07-17 07:03:33"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New ClickLock macOS malware traps users into revealing login password",
     "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
     "published": "2026-07-16 21:52:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-    "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-    "published": "2026-07-16 21:09:41"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-    "published": "2026-07-16 19:26:07"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-    "published": "2026-07-16 19:09:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-    "published": "2026-07-16 14:00:10"
   }
 ]
