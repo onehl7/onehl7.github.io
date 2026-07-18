@@ -1,9 +1,33 @@
 [
   {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "published": "2026-07-16 16:01:21",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "published": "2026-07-17 15:57:54",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "published": "2026-07-17 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The risk of weather data sabotage is rising",
+    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "published": "2026-07-17 08:57:32",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "link": "https://arxiv.org/abs/2607.13037",
+    "published": "2026-07-17 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "link": "https://arxiv.org/abs/2607.13049",
+    "published": "2026-07-17 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Why teens deserve access to safe AI",
@@ -30,33 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-    "link": "https://arxiv.org/abs/2607.13037",
-    "published": "2026-07-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-    "link": "https://arxiv.org/abs/2607.13049",
-    "published": "2026-07-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "link": "https://openai.com/index/cars24",
-    "published": "2026-07-16 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "published": "2026-07-15 17:09:37",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "published": "2026-07-13 18:00:00",
     "source": "MIT Technology Review AI"
   }
 ]
