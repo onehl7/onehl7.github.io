@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Abbott probes two cyber incidents amid extortion claims",
+    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "published": "2026-07-17 20:45:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "published": "2026-07-17 17:56:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ernst & Young discloses data breach after support system hack",
+    "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+    "published": "2026-07-17 14:55:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+    "published": "2026-07-17 14:00:10"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
     "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
     "published": "2026-07-17 11:05:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-    "published": "2026-07-17 09:10:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges two over laundering $43 million from investment fraud",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-    "published": "2026-07-17 08:13:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-    "published": "2026-07-17 07:03:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New ClickLock macOS malware traps users into revealing login password",
-    "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-    "published": "2026-07-16 21:52:54"
   }
 ]
