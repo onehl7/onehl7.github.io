@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Abbott probes two cyber incidents amid extortion claims",
-    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-    "published": "2026-07-17 20:45:52"
+    "title": "Hugging Face warns an autonomous AI agent hacked its network",
+    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "published": "2026-07-20 11:56:28"
   },
   {
     "source": "Bleeping Computer",
-    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-    "published": "2026-07-17 17:56:21"
+    "title": "Microsoft confirms Windows Server Update Services sync delays",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+    "published": "2026-07-20 10:47:28"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Ernst & Young discloses data breach after support system hack",
-    "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-    "published": "2026-07-17 14:55:28"
+    "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+    "published": "2026-07-20 10:06:17"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-    "published": "2026-07-17 14:00:10"
+    "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+    "published": "2026-07-20 09:29:20"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-    "published": "2026-07-17 11:05:30"
+    "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+    "published": "2026-07-19 14:23:46"
   }
 ]
