@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+    "published": "2026-07-19 14:23:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
     "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
     "published": "2026-07-18 19:32:02"
@@ -22,11 +28,5 @@
     "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
     "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
     "published": "2026-07-18 13:15:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Abbott probes two cyber incidents amid extortion claims",
-    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-    "published": "2026-07-17 20:45:52"
   }
 ]
