@@ -1,26 +1,44 @@
 [
   {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "published": "2026-07-17 15:57:54",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "published": "2026-07-20 18:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "published": "2026-07-20 15:58:51",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "published": "2026-07-20 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AI is more likely than humans to form biases when hiring",
+    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "published": "2026-07-20 08:39:01",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "link": "https://arxiv.org/abs/2607.15280",
+    "published": "2026-07-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "link": "https://arxiv.org/abs/2607.15281",
+    "published": "2026-07-20 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "A scorecard for the AI age",
     "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "published": "2026-07-17 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The risk of weather data sabotage is rising",
-    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "published": "2026-07-17 08:57:32",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "published": "2026-07-16 16:00:00",
     "source": "OpenAI News"
   },
   {
@@ -40,11 +58,5 @@
     "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
     "published": "2026-07-16 11:49:48",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "published": "2026-07-15 17:09:37",
-    "source": "MIT Technology Review AI"
   }
 ]
