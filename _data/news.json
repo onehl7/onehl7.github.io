@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-    "published": "2026-07-21 11:07:07"
+    "title": "Police dismantle Kratos phishing platform, arrest developer",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+    "published": "2026-07-21 23:07:33"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-    "published": "2026-07-21 10:12:24"
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "published": "2026-07-21 22:34:17"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-    "published": "2026-07-21 09:05:50"
+    "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+    "published": "2026-07-21 20:06:55"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-    "published": "2026-07-21 08:06:26"
+    "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+    "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+    "published": "2026-07-21 18:50:54"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-    "published": "2026-07-20 22:39:30"
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "published": "2026-07-21 16:41:50"
   }
 ]
