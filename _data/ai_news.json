@@ -1,39 +1,45 @@
 [
   {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "published": "2026-07-22 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "published": "2026-07-22 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "published": "2026-07-22 13:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "link": "https://arxiv.org/abs/2607.18239",
+    "published": "2026-07-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "link": "https://arxiv.org/abs/2607.18240",
+    "published": "2026-07-22 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "The State of Simulation for Physical AI: An Overview",
     "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "published": "2026-07-21 20:00:27",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Introducing the ChatGPT for small business program",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "published": "2026-07-21 17:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Advancing next-gen AI with materials science innovation",
     "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "published": "2026-07-21 10:37:34",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "published": "2026-07-21 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-    "link": "https://arxiv.org/abs/2607.16195",
-    "published": "2026-07-21 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-    "link": "https://arxiv.org/abs/2607.16196",
-    "published": "2026-07-21 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Grabette: an open system to record robot-manipulation data",
@@ -50,12 +56,6 @@
   {
     "title": "Connect more of your apps to Search",
     "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "published": "2026-07-16 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
     "published": "2026-07-16 16:00:00",
     "source": "Google AI Blog"
   }
