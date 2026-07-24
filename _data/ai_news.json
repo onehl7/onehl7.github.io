@@ -1,13 +1,37 @@
 [
   {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "published": "2026-07-22 13:00:00",
+    "title": "How AI helps scientists design the next generation of medicines",
+    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "published": "2026-07-23 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "link": "https://arxiv.org/abs/2607.19349",
+    "published": "2026-07-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+    "link": "https://arxiv.org/abs/2607.19350",
+    "published": "2026-07-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "published": "2026-07-23 00:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
+    "published": "2026-07-23 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "published": "2026-07-22 13:00:00",
     "source": "OpenAI News"
   },
@@ -16,18 +40,6 @@
     "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "published": "2026-07-22 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-    "link": "https://arxiv.org/abs/2607.18239",
-    "published": "2026-07-22 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-    "link": "https://arxiv.org/abs/2607.18240",
-    "published": "2026-07-22 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "The State of Simulation for Physical AI: An Overview",
@@ -39,18 +51,6 @@
     "title": "Advancing next-gen AI with materials science innovation",
     "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "published": "2026-07-21 10:37:34",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "link": "https://huggingface.co/blog/grabette",
-    "published": "2026-07-21 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "published": "2026-07-20 18:00:00",
     "source": "MIT Technology Review AI"
   },
   {
