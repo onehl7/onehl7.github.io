@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
+    "published": "2026-07-24 12:56:53"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+    "published": "2026-07-24 11:17:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+    "published": "2026-07-24 07:36:39"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Dolphin X malware uses AI to rank high-value targets",
     "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
     "published": "2026-07-23 21:20:34"
@@ -10,23 +28,5 @@
     "title": "Australian energy provider Origin says data breach exposes client data",
     "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
     "published": "2026-07-23 20:14:35"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-    "published": "2026-07-23 19:48:30"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-    "published": "2026-07-23 16:49:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-    "published": "2026-07-23 16:32:35"
   }
 ]
