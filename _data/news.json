@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI confirms ChatGPT is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+    "published": "2026-07-25 09:31:09"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OnTrac notifies customers of data breach after network hack",
     "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
     "published": "2026-07-24 19:55:01"
@@ -22,11 +28,5 @@
     "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
     "published": "2026-07-24 15:41:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chick-fil-A data breach affects more than 13,000 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-    "published": "2026-07-24 14:04:29"
   }
 ]
