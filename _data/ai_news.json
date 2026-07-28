@@ -1,9 +1,39 @@
 [
   {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "published": "2026-07-23 12:00:00",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "published": "2026-07-27 18:00:00",
     "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "published": "2026-07-27 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "published": "2026-07-27 09:32:20",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "link": "https://arxiv.org/abs/2607.21596",
+    "published": "2026-07-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+    "link": "https://arxiv.org/abs/2607.21597",
+    "published": "2026-07-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "published": "2026-07-27 03:30:00",
+    "source": "OpenAI News"
   },
   {
     "title": "Launching Health in ChatGPT",
@@ -18,28 +48,10 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "published": "2026-07-22 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "3 Google updates from Galaxy Unpacked 2026",
     "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "published": "2026-07-22 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "published": "2026-07-21 20:00:27",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Advancing next-gen AI with materials science innovation",
-    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-    "published": "2026-07-21 10:37:34",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Connect more of your apps to Search",
