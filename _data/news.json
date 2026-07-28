@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+    "published": "2026-07-28 12:10:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+    "published": "2026-07-28 09:10:03"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers target US firms in FastJson RCE zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
     "published": "2026-07-27 23:49:44"
@@ -16,17 +28,5 @@
     "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
     "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
     "published": "2026-07-27 21:08:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-    "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-    "published": "2026-07-27 21:00:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-    "published": "2026-07-27 17:29:07"
   }
 ]
