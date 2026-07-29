@@ -1,62 +1,62 @@
 [
   {
+    "title": "Scientific computing in the age of agentic AI",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "published": "2026-07-28 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "published": "2026-07-28 16:27:42",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "published": "2026-07-28 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "published": "2026-07-28 15:01:45",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "published": "2026-07-28 13:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "published": "2026-07-28 09:18:57",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "link": "https://arxiv.org/abs/2607.21596",
+    "published": "2026-07-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+    "link": "https://arxiv.org/abs/2607.21597",
+    "published": "2026-07-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
     "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "published": "2026-07-27 18:00:00",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "published": "2026-07-27 12:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "published": "2026-07-27 09:32:20",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-    "link": "https://arxiv.org/abs/2607.21596",
-    "published": "2026-07-27 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
-    "link": "https://arxiv.org/abs/2607.21597",
-    "published": "2026-07-27 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "How AI is expanding what people do at work",
     "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "published": "2026-07-27 03:30:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Launching Health in ChatGPT",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "published": "2026-07-23 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "published": "2026-07-23 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "published": "2026-07-22 13:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Connect more of your apps to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "published": "2026-07-16 16:00:00",
-    "source": "Google AI Blog"
   }
 ]
