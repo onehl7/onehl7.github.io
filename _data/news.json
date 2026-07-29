@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+    "published": "2026-07-29 13:56:22"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "These near-mint ASUS Chromebook refurbs are only $145",
+    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+    "published": "2026-07-29 11:12:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
     "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
     "published": "2026-07-28 21:17:39"
@@ -16,17 +28,5 @@
     "title": "CISA shares advice on isolating vital systems during cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
     "published": "2026-07-28 18:41:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-    "published": "2026-07-28 18:08:50"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-    "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-    "published": "2026-07-28 14:00:10"
   }
 ]
