@@ -1,9 +1,33 @@
 [
   {
-    "title": "Scientific computing in the age of agentic AI",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "published": "2026-07-28 17:00:00",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "published": "2026-07-29 15:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "published": "2026-07-29 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "published": "2026-07-29 08:42:57",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Do Models Fake Alignment Without Clear Consequences?",
+    "link": "https://arxiv.org/abs/2607.24758",
+    "published": "2026-07-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "link": "https://arxiv.org/abs/2607.24759",
+    "published": "2026-07-29 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
@@ -34,29 +58,5 @@
     "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "published": "2026-07-28 09:18:57",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-    "link": "https://arxiv.org/abs/2607.21596",
-    "published": "2026-07-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
-    "link": "https://arxiv.org/abs/2607.21597",
-    "published": "2026-07-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "published": "2026-07-27 18:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "published": "2026-07-27 03:30:00",
-    "source": "OpenAI News"
   }
 ]
