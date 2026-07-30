@@ -1,5 +1,35 @@
 [
   {
+    "source": "NASA",
+    "title": "NASA Awards 2026 Innovative Technology Concepts",
+    "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+    "published": "2026-07-29 21:04:20"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+    "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
+    "published": "2026-07-29 16:49:37"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA\u2019s Curiosity Views a Sand-Capped Butte",
+    "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+    "published": "2026-07-29 16:08:12"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA\u2019s Curiosity Discovers a Field of Martian Polygons",
+    "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+    "published": "2026-07-29 16:06:39"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+    "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "published": "2026-07-29 15:30:00"
+  },
+  {
     "source": "ESA",
     "title": "How Sentinel-1 measured movement of Venezuela quakes",
     "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
@@ -7,39 +37,9 @@
   },
   {
     "source": "ESA",
-    "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
-    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time",
+    "title": "Liftoff as Ariane 6 takes flight for the first time",
+    "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Liftoff_as_Ariane_6_takes_flight_for_the_first_time",
     "published": "2026-07-28 07:00:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Smoke Blankets Oregon",
-    "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-    "published": "2026-07-28 04:01:00"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-    "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-    "published": "2026-07-27 18:49:20"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Science Soars During August Total Solar Eclipse",
-    "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
-    "published": "2026-07-27 18:01:14"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Astronaut Chris Williams Returns to Earth",
-    "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
-    "published": "2026-07-27 16:48:46"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA\u2019s Swift Sees \u2018Wandering\u2019 Mega Black Hole Shredding Star",
-    "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "published": "2026-07-27 16:06:37"
   },
   {
     "source": "ESA",
