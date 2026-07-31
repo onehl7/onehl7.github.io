@@ -1,14 +1,38 @@
 [
   {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "published": "2026-07-29 15:00:00",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "published": "2026-07-30 15:09:09",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "published": "2026-07-30 10:15:19",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "published": "2026-07-30 10:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "published": "2026-07-29 10:00:00",
+    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+    "link": "https://arxiv.org/abs/2607.26119",
+    "published": "2026-07-30 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+    "link": "https://arxiv.org/abs/2607.26120",
+    "published": "2026-07-30 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "published": "2026-07-30 00:00:00",
     "source": "OpenAI News"
   },
   {
@@ -16,18 +40,6 @@
     "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "published": "2026-07-29 08:42:57",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Do Models Fake Alignment Without Clear Consequences?",
-    "link": "https://arxiv.org/abs/2607.24758",
-    "published": "2026-07-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-    "link": "https://arxiv.org/abs/2607.24759",
-    "published": "2026-07-29 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
@@ -42,21 +54,9 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "published": "2026-07-28 15:01:45",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "5 ways AI Mode in Search helps you enjoy the real world",
     "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
     "published": "2026-07-28 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "published": "2026-07-28 09:18:57",
-    "source": "MIT Technology Review AI"
   }
 ]
