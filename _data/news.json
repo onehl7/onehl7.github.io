@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-    "published": "2026-07-29 23:44:07"
+    "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+    "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+    "published": "2026-07-31 00:57:25"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Anthropic confirms Claude is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-    "published": "2026-07-29 21:39:29"
+    "title": "South Korea fines telco giant KT $39 million for customer data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+    "published": "2026-07-30 22:28:30"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-    "published": "2026-07-29 21:35:40"
+    "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+    "published": "2026-07-30 22:01:31"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-    "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-    "published": "2026-07-29 17:54:05"
+    "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+    "published": "2026-07-30 18:13:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-    "published": "2026-07-29 16:04:59"
+    "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+    "published": "2026-07-30 18:00:51"
   }
 ]
