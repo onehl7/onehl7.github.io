@@ -1,6 +1,12 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers",
+    "link": "https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/",
+    "published": "2026-08-01 07:00:00"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology",
     "link": "https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/",
     "published": "2026-07-31 14:58:43"
@@ -22,12 +28,6 @@
     "title": "Why Crypto-Agility Matters for Post-Quantum Cryptography Migration",
     "link": "https://thequantuminsider.com/2026/07/31/why-crypto-agility-matters-for-post-quantum-cryptography-migration/",
     "published": "2026-07-31 10:42:29"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "UC San Diego Advances Quantum Metamaterials for Ultrafast Optical Computing",
-    "link": "https://thequantuminsider.com/2026/07/31/uc-san-diego-advances-quantum-metamaterials-for-ultrafast-optical-computing/",
-    "published": "2026-07-31 08:09:52"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
