@@ -1,27 +1,15 @@
 [
   {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics",
+    "published": "2026-08-01 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Advancing responsible AI across Europe",
     "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "published": "2026-07-31 15:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Building abundant intelligence",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "published": "2026-07-31 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-    "link": "https://arxiv.org/abs/2607.26119",
-    "published": "2026-07-31 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-    "link": "https://arxiv.org/abs/2607.26120",
-    "published": "2026-07-31 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
