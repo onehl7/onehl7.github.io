@@ -1,14 +1,38 @@
 [
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "published": "2026-08-01 00:00:00",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "published": "2026-08-03 18:43:30",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "published": "2026-08-03 08:30:05",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "published": "2026-08-03 07:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Advancing responsible AI across Europe",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "published": "2026-07-31 15:00:00",
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "link": "https://arxiv.org/abs/2607.28629",
+    "published": "2026-08-03 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "link": "https://arxiv.org/abs/2607.28631",
+    "published": "2026-08-03 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "published": "2026-08-03 00:00:00",
     "source": "OpenAI News"
   },
   {
@@ -16,18 +40,6 @@
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "published": "2026-07-30 15:09:09",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "published": "2026-07-30 10:15:19",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "published": "2026-07-29 08:42:57",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
