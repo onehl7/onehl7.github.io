@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-    "published": "2026-08-02 22:31:41"
+    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "published": "2026-08-04 00:17:15"
   },
   {
     "source": "Bleeping Computer",
-    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-    "published": "2026-08-02 21:14:29"
+    "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+    "published": "2026-08-03 23:58:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "published": "2026-08-02 14:17:16"
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "published": "2026-08-03 20:01:22"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Rails patches critical Active Storage flaw with RCE potential",
-    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "published": "2026-08-01 14:20:30"
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "published": "2026-08-03 19:25:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-    "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-    "published": "2026-07-31 22:16:42"
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "published": "2026-08-03 17:00:56"
   }
 ]
