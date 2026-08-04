@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "published": "2026-08-04 14:00:10"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
     "published": "2026-08-04 00:17:15"
@@ -22,11 +28,5 @@
     "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
     "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
     "published": "2026-08-03 19:25:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-    "published": "2026-08-03 17:00:56"
   }
 ]
