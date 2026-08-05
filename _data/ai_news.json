@@ -1,9 +1,51 @@
 [
   {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "published": "2026-08-04 19:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "published": "2026-08-04 13:58:29",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "published": "2026-08-04 13:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+    "link": "https://arxiv.org/abs/2608.00001",
+    "published": "2026-08-04 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+    "link": "https://arxiv.org/abs/2608.00003",
+    "published": "2026-08-04 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "published": "2026-08-04 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Trump’s AI protectionism has come for robotics",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "published": "2026-08-03 18:43:30",
     "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Inside our 353,000-person vibe coding course",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "published": "2026-08-03 15:00:00",
+    "source": "Google AI Blog"
   },
   {
     "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -12,51 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "published": "2026-08-03 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-    "link": "https://arxiv.org/abs/2607.28629",
-    "published": "2026-08-03 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-    "link": "https://arxiv.org/abs/2607.28631",
-    "published": "2026-08-03 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "link": "https://openai.com/index/circles",
-    "published": "2026-08-03 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "published": "2026-07-30 15:09:09",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "published": "2026-07-28 16:27:42",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "published": "2026-07-28 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "published": "2026-07-28 13:00:00",
-    "source": "Google AI Blog"
   }
 ]
