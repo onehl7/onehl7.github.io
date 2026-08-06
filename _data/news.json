@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+    "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+    "published": "2026-08-06 14:02:12"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
     "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
     "published": "2026-08-05 23:00:50"
@@ -22,11 +28,5 @@
     "title": "COLDCARD security audit phishing attack installs remote access tool",
     "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
     "published": "2026-08-05 17:49:41"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-    "published": "2026-08-05 15:51:33"
   }
 ]
