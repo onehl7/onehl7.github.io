@@ -1,21 +1,33 @@
 [
   {
-    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-    "link": "https://arxiv.org/abs/2608.02604",
-    "published": "2026-08-05 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Self-Organising Digital Circuits",
-    "link": "https://arxiv.org/abs/2608.02606",
-    "published": "2026-08-05 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "published": "2026-08-04 19:00:00",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "published": "2026-08-06 10:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "published": "2026-08-06 06:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+    "link": "https://arxiv.org/abs/2608.04012",
+    "published": "2026-08-06 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+    "link": "https://arxiv.org/abs/2608.04066",
+    "published": "2026-08-06 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "published": "2026-08-06 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
@@ -28,12 +40,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "published": "2026-08-04 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "published": "2026-08-04 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Trump’s AI protectionism has come for robotics",
@@ -52,11 +58,5 @@
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "published": "2026-08-03 08:30:05",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "published": "2026-07-30 15:09:09",
-    "source": "Hugging Face Blog"
   }
 ]
