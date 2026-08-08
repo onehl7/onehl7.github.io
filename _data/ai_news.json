@@ -1,38 +1,38 @@
 [
   {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "published": "2026-08-06 10:00:00",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "published": "2026-08-07 17:53:32",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "published": "2026-08-07 15:20:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "published": "2026-08-06 06:00:00",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "published": "2026-08-07 09:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-    "link": "https://arxiv.org/abs/2608.04012",
-    "published": "2026-08-06 04:00:00",
+    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+    "link": "https://arxiv.org/abs/2608.05159",
+    "published": "2026-08-07 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-    "link": "https://arxiv.org/abs/2608.04066",
-    "published": "2026-08-06 04:00:00",
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+    "link": "https://arxiv.org/abs/2608.05160",
+    "published": "2026-08-07 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "link": "https://huggingface.co/blog/baseten",
     "published": "2026-08-06 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "published": "2026-08-04 13:58:29",
     "source": "Hugging Face Blog"
   },
   {
