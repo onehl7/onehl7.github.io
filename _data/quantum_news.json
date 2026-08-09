@@ -1,6 +1,24 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike",
+    "link": "https://thequantuminsider.com/2026/08/08/matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clocks-and-computers-alike/",
+    "published": "2026-08-08 19:00:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+    "published": "2026-08-08 13:17:32"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Sunlight creates quantum entanglement once thought to require lasers",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+    "published": "2026-08-08 03:49:26"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "TuringQ Joins China\u2019s IPO Pipeline as Quantum Firms Push Toward Commercialization",
     "link": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/",
     "published": "2026-08-07 15:39:16"
@@ -24,12 +42,6 @@
     "published": "2026-08-07 13:15:54"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
-    "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
-    "published": "2026-08-07 13:03:40"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "UCLA scientists discover how to guide heat like light at room temperature",
     "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
@@ -46,17 +58,5 @@
     "title": "New quantum gravity theory links entropy, dark energy, and life",
     "link": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
     "published": "2026-07-21 02:40:55"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-    "published": "2026-07-16 04:16:48"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
-    "published": "2026-07-13 07:22:08"
   }
 ]
