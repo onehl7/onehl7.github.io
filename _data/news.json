@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "published": "2026-08-08 14:16:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
     "published": "2026-08-07 20:14:46"
@@ -22,11 +28,5 @@
     "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
     "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
     "published": "2026-08-07 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "North Carolina Ports confirms cyberattack disrupting operations",
-    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-    "published": "2026-08-07 13:34:40"
   }
 ]
