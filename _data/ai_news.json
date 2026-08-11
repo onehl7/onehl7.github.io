@@ -1,50 +1,62 @@
 [
   {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "published": "2026-08-07 17:53:32",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "published": "2026-08-10 20:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "published": "2026-08-10 16:25:36",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "published": "2026-08-07 15:20:00",
+    "title": "Evolve your marketing with new AI tools",
+    "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "published": "2026-08-10 14:30:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "published": "2026-08-10 14:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "published": "2026-08-07 09:00:00",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "link": "https://openai.com/index/model-ml",
+    "published": "2026-08-10 12:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/baseten",
-    "published": "2026-08-06 00:00:00",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "published": "2026-08-10 10:05:36",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "published": "2026-08-10 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "link": "https://arxiv.org/abs/2608.06394",
+    "published": "2026-08-10 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "link": "https://arxiv.org/abs/2608.06398",
+    "published": "2026-08-10 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "The latest AI news we announced in July 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "published": "2026-08-04 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Trump’s AI protectionism has come for robotics",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "published": "2026-08-03 18:43:30",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Inside our 353,000-person vibe coding course",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "published": "2026-08-03 15:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "published": "2026-08-03 08:30:05",
-    "source": "MIT Technology Review AI"
   }
 ]
