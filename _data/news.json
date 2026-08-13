@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "WhatsApp rolls out new feature that flags potential scam messages",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+    "published": "2026-08-13 11:50:22"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
     "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
     "published": "2026-08-12 23:07:23"
@@ -22,11 +28,5 @@
     "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
     "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
     "published": "2026-08-12 18:54:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-    "published": "2026-08-12 16:05:12"
   }
 ]
