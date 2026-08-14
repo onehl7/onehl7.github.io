@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Shell investigates 'potential incident' after Clop data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+    "published": "2026-08-14 11:55:45"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "published": "2026-08-14 10:52:05"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Data analyst sent to prison for stealing data, extorting employer",
+    "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+    "published": "2026-08-14 08:27:18"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple sends new \u2018Threat Notification\u2019 alerts over mercenary spyware attacks",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
     "published": "2026-08-14 01:19:12"
@@ -10,23 +28,5 @@
     "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
     "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
     "published": "2026-08-13 21:12:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-    "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-    "published": "2026-08-13 20:47:02"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers breach govt webmail while running parallel crypto fraud",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-    "published": "2026-08-13 18:15:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-    "published": "2026-08-13 17:46:20"
   }
 ]
