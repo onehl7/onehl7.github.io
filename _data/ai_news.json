@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "link": "https://arxiv.org/abs/2608.11207",
+    "published": "2026-08-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+    "link": "https://arxiv.org/abs/2608.11210",
+    "published": "2026-08-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "published": "2026-08-14 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "published": "2026-08-13 17:16:04",
@@ -34,24 +52,6 @@
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "published": "2026-08-13 09:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-    "link": "https://arxiv.org/abs/2608.11207",
-    "published": "2026-08-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-    "link": "https://arxiv.org/abs/2608.11210",
-    "published": "2026-08-13 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "published": "2026-08-13 00:00:00",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
