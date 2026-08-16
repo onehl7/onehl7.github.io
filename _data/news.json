@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "published": "2026-08-15 14:14:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "How Anthropic plans to watermark Claude's AI-generated text",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
     "published": "2026-08-14 23:24:17"
@@ -22,11 +28,5 @@
     "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
     "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
     "published": "2026-08-14 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "published": "2026-08-14 13:45:18"
   }
 ]
