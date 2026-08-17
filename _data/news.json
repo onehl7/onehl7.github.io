@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+    "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "published": "2026-08-16 23:47:06"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "published": "2026-08-16 22:28:57"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+    "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "published": "2026-08-16 17:29:52"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "published": "2026-08-16 15:07:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
     "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
     "published": "2026-08-15 14:14:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How Anthropic plans to watermark Claude's AI-generated text",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-    "published": "2026-08-14 23:24:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-    "published": "2026-08-14 18:04:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "published": "2026-08-14 14:59:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-    "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "published": "2026-08-14 14:00:10"
   }
 ]
