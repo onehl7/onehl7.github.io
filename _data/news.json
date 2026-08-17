@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+    "published": "2026-08-17 12:33:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Philips and GE investigating Clop ransomware data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "published": "2026-08-17 11:25:02"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "French tax authority data breach affects 678,000 individuals",
+    "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "published": "2026-08-17 10:09:48"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+    "published": "2026-08-17 09:05:33"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
     "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
     "published": "2026-08-16 23:47:06"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-    "published": "2026-08-16 22:28:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-    "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-    "published": "2026-08-16 17:29:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-    "published": "2026-08-16 15:07:44"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "published": "2026-08-15 14:14:38"
   }
 ]
