@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft tests faster Windows File Explorer, new context menu",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+    "published": "2026-08-18 11:14:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+    "published": "2026-08-18 10:32:16"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+    "published": "2026-08-18 09:24:49"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "published": "2026-08-18 08:12:08"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
     "published": "2026-08-17 19:35:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders",
-    "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-    "published": "2026-08-17 19:12:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms GitHub is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "published": "2026-08-17 14:47:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "published": "2026-08-17 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-    "published": "2026-08-17 12:33:11"
   }
 ]
