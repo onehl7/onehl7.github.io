@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft fixes known issue causing Windows Defender crashes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+    "published": "2026-08-19 11:14:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+    "published": "2026-08-19 10:12:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+    "published": "2026-08-19 09:10:20"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+    "published": "2026-08-19 08:00:48"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Comcast turns your Xfinity WiFi into a home motion detector",
     "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
     "published": "2026-08-18 20:14:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Clop created custom web shell for Windchill data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-    "published": "2026-08-18 17:29:51"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Controls Block Known Attacks. What About the Behavior?",
-    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-    "published": "2026-08-18 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests faster Windows File Explorer, new context menu",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-    "published": "2026-08-18 11:14:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "2026-08-18 10:32:16"
   }
 ]
