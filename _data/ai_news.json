@@ -1,21 +1,45 @@
 [
   {
-    "title": "Strengthening democratic oversight in national security",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "published": "2026-08-18 19:00:00",
+    "title": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "published": "2026-08-19 19:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "5 new ways to level up your learning with Search",
+    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "published": "2026-08-19 19:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "published": "2026-08-19 13:48:49",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "link": "https://openai.com/index/replit",
+    "published": "2026-08-19 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "link": "https://arxiv.org/abs/2608.16890",
+    "published": "2026-08-19 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+    "link": "https://arxiv.org/abs/2608.16891",
+    "published": "2026-08-19 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "published": "2026-08-18 18:09:38",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "published": "2026-08-18 11:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "We still don’t know how people are really using AI",
@@ -30,33 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-    "link": "https://arxiv.org/abs/2608.14550",
-    "published": "2026-08-18 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-    "link": "https://arxiv.org/abs/2608.14552",
-    "published": "2026-08-18 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "published": "2026-08-18 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Get closer to the game with Gemini and Pixel",
     "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "published": "2026-08-17 08:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "published": "2026-08-13 16:45:00",
     "source": "Google AI Blog"
   }
 ]
