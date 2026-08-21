@@ -1,8 +1,44 @@
 [
   {
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "published": "2026-08-19 19:00:00",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "published": "2026-08-20 16:52:57",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "published": "2026-08-20 15:42:39",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "published": "2026-08-20 09:47:22",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "published": "2026-08-20 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "link": "https://arxiv.org/abs/2608.18078",
+    "published": "2026-08-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Position: Profiling Game Worlds by Transition Complexity",
+    "link": "https://arxiv.org/abs/2608.18079",
+    "published": "2026-08-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "link": "https://openai.com/index/stampli",
+    "published": "2026-08-20 00:00:00",
     "source": "OpenAI News"
   },
   {
@@ -12,46 +48,10 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "published": "2026-08-19 13:48:49",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "link": "https://openai.com/index/replit",
-    "published": "2026-08-19 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-    "link": "https://arxiv.org/abs/2608.16890",
-    "published": "2026-08-19 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-    "link": "https://arxiv.org/abs/2608.16891",
-    "published": "2026-08-19 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "published": "2026-08-18 18:09:38",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "published": "2026-08-18 10:06:43",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "published": "2026-08-18 09:00:00",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Get closer to the game with Gemini and Pixel",
