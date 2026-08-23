@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "published": "2026-08-22 14:14:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+    "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "published": "2026-08-22 13:00:09"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
     "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
     "published": "2026-08-21 18:01:30"
@@ -16,17 +28,5 @@
     "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
     "published": "2026-08-21 14:54:49"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "published": "2026-08-21 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-    "published": "2026-08-21 13:39:35"
   }
 ]
