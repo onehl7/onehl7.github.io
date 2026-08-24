@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+    "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "published": "2026-08-23 14:23:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers infect Android car head units with proxy botnet malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
     "published": "2026-08-22 14:14:24"
@@ -22,11 +28,5 @@
     "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
     "published": "2026-08-21 15:55:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-    "published": "2026-08-21 14:54:49"
   }
 ]
