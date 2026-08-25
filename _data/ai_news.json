@@ -1,5 +1,35 @@
 [
   {
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "published": "2026-08-24 14:20:19",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "published": "2026-08-24 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "published": "2026-08-24 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "link": "https://arxiv.org/abs/2608.20341",
+    "published": "2026-08-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "link": "https://arxiv.org/abs/2608.20342",
+    "published": "2026-08-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Measuring benchmark optimization in speech recognition",
     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
     "published": "2026-08-21 00:00:00",
@@ -12,27 +42,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Debates over AI consciousness are a trap",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "published": "2026-08-20 15:42:39",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Unlocking hidden revenue streams with market models",
-    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "published": "2026-08-20 09:47:22",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Introducing AI Futures",
     "link": "https://openai.com/index/introducing-ai-futures",
     "published": "2026-08-20 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "published": "2026-08-20 00:00:00",
     "source": "OpenAI News"
   },
   {
