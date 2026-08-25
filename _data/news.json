@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+    "published": "2026-08-25 12:04:02"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "published": "2026-08-25 10:53:20"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
     "published": "2026-08-24 21:14:30"
@@ -16,17 +28,5 @@
     "title": "TikTok reaches $400M settlement with US over COPPA violations",
     "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
     "published": "2026-08-24 17:56:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-    "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-    "published": "2026-08-24 15:17:16"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams now lets admins block external bots from meetings",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-    "published": "2026-08-24 14:00:19"
   }
 ]
