@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "published": "2026-08-26 12:06:28"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+    "published": "2026-08-26 11:07:48"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "LACMA data breach last year exposed social security and medical data",
     "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
     "published": "2026-08-25 21:58:14"
@@ -16,17 +28,5 @@
     "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
     "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
     "published": "2026-08-25 20:25:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Massive DDoS attack disrupts Norway\u2019s government digital services",
-    "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-    "published": "2026-08-25 15:52:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-    "published": "2026-08-25 14:44:16"
   }
 ]
