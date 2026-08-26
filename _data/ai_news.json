@@ -1,62 +1,62 @@
 [
   {
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "published": "2026-08-25 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "published": "2026-08-25 15:14:14",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "published": "2026-08-25 11:39:24",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "published": "2026-08-25 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "published": "2026-08-25 07:05:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "published": "2026-08-25 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "link": "https://arxiv.org/abs/2608.21362",
+    "published": "2026-08-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+    "link": "https://arxiv.org/abs/2608.21363",
+    "published": "2026-08-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How to encourage smarter AI use in the classroom",
     "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "published": "2026-08-24 14:20:19",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "published": "2026-08-24 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "published": "2026-08-24 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-    "link": "https://arxiv.org/abs/2608.20341",
-    "published": "2026-08-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-    "link": "https://arxiv.org/abs/2608.20342",
-    "published": "2026-08-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "published": "2026-08-21 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "published": "2026-08-20 16:52:57",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Introducing AI Futures",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "published": "2026-08-20 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "5 new ways to level up your learning with Search",
     "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "published": "2026-08-19 19:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Get closer to the game with Gemini and Pixel",
-    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "published": "2026-08-17 08:00:00",
     "source": "Google AI Blog"
   }
 ]
