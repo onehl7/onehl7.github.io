@@ -1,5 +1,47 @@
 [
   {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "link": "https://arxiv.org/abs/2608.23568",
+    "published": "2026-08-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+    "link": "https://arxiv.org/abs/2608.23569",
+    "published": "2026-08-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "published": "2026-08-26 19:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "published": "2026-08-26 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
+    "published": "2026-08-26 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "published": "2026-08-26 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "published": "2026-08-26 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "5 ways to upgrade your home decor with Google Search",
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "published": "2026-08-25 16:00:00",
@@ -10,48 +52,6 @@
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "published": "2026-08-25 15:14:14",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "published": "2026-08-25 11:39:24",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "published": "2026-08-25 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "published": "2026-08-25 07:05:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "link": "https://openai.com/index/jalapeno-first-results",
-    "published": "2026-08-25 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-    "link": "https://arxiv.org/abs/2608.21362",
-    "published": "2026-08-25 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-    "link": "https://arxiv.org/abs/2608.21363",
-    "published": "2026-08-25 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How to encourage smarter AI use in the classroom",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "published": "2026-08-24 14:20:19",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "5 new ways to level up your learning with Search",
