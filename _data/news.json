@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-    "published": "2026-08-26 12:06:28"
+    "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+    "published": "2026-08-26 21:33:20"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-    "published": "2026-08-26 11:07:48"
+    "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+    "published": "2026-08-26 18:48:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "LACMA data breach last year exposed social security and medical data",
-    "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-    "published": "2026-08-25 21:58:14"
+    "title": "Meta agrees to $18 billion settlement over teen social media harms",
+    "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+    "published": "2026-08-26 16:41:05"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-    "published": "2026-08-25 21:39:01"
+    "title": "Boston Scientific says cyberattack disrupted operations globally",
+    "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+    "published": "2026-08-26 15:19:21"
   },
   {
     "source": "Bleeping Computer",
-    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-    "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-    "published": "2026-08-25 20:25:26"
+    "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+    "published": "2026-08-26 14:47:51"
   }
 ]
