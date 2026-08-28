@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+    "published": "2026-08-28 09:10:13"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
     "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
     "published": "2026-08-27 21:38:53"
@@ -22,11 +28,5 @@
     "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
     "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
     "published": "2026-08-27 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Android 17 adds ECH support to make web browsing harder to track",
-    "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-    "published": "2026-08-27 14:00:00"
   }
 ]
