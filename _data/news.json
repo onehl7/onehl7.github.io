@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Brave browser adds email aliases to help users evade tracking",
+    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "published": "2026-08-29 14:19:23"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
     "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
     "published": "2026-08-28 22:40:17"
@@ -22,11 +28,5 @@
     "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
     "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
     "published": "2026-08-28 16:36:47"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-    "published": "2026-08-28 14:00:10"
   }
 ]
