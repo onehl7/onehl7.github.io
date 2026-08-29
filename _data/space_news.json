@@ -1,62 +1,32 @@
 [
   {
-    "source": "NASA",
-    "title": "APOD: 2026 August 28 \u2013 The Sky Turns Above Paranal",
-    "link": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
-    "published": "2026-08-28 04:05:00"
-  },
-  {
-    "source": "NASA",
-    "title": "The Forested Floodplains of Congaree National Park",
-    "link": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
-    "published": "2026-08-28 04:01:00"
+    "source": "ESA",
+    "title": "Week in images: 24-28 August 2026",
+    "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
+    "published": "2026-08-28 13:10:00"
   },
   {
     "source": "ESA",
-    "title": "MTG-I2 completes Europe\u2019s latest weather trio",
-    "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
-    "published": "2026-08-27 20:48:00"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
-    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
-    "published": "2026-08-27 18:42:38"
-  },
-  {
-    "source": "NASA",
-    "title": "Civil Servants Sworn in at NASA Ames",
-    "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
-    "published": "2026-08-27 18:02:54"
-  },
-  {
-    "source": "NASA",
-    "title": "9 Things to Know About NASA\u2019s Nancy Grace Roman Space Telescope",
-    "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
-    "published": "2026-08-27 17:47:11"
+    "title": "Ariane 6 launch with MTG-I2 \u2013 highlights",
+    "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
+    "published": "2026-08-28 12:20:00"
   },
   {
     "source": "ESA",
-    "title": "Expedition Sound podcast series",
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series",
-    "published": "2026-08-27 07:30:00"
+    "title": "Observing Samba and Tango\u2019s reentries",
+    "link": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries",
+    "published": "2026-08-28 09:03:00"
   },
   {
     "source": "ESA",
-    "title": "First contracts kick off European Launcher Challenge",
-    "link": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge",
-    "published": "2026-08-27 07:17:00"
+    "title": "Watch live: BepiColombo begins its arrival at Mercury",
+    "link": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
+    "published": "2026-08-27 05:17:00"
   },
   {
     "source": "ESA",
     "title": "\u03b5psilon",
     "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon",
     "published": "2026-01-21 12:54:00"
-  },
-  {
-    "source": "ESA",
-    "title": "Meteosat Third Generation",
-    "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation",
-    "published": "2018-10-31 16:31:00"
   }
 ]
