@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "published": "2026-08-28 22:40:17"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "PaperCut releases second emergency patch for exploited flaws",
     "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
     "published": "2026-08-28 19:08:26"
@@ -22,11 +28,5 @@
     "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
     "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
     "published": "2026-08-28 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-    "published": "2026-08-28 12:58:43"
   }
 ]
