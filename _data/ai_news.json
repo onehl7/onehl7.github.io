@@ -1,33 +1,27 @@
 [
   {
-    "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-    "link": "https://arxiv.org/abs/2608.26107",
-    "published": "2026-08-28 04:00:00",
-    "source": "arXiv AI"
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "published": "2026-08-28 06:00:00",
+    "source": "OpenAI News"
   },
   {
-    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-    "link": "https://arxiv.org/abs/2608.26109",
-    "published": "2026-08-28 04:00:00",
-    "source": "arXiv AI"
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "published": "2026-08-28 02:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "published": "2026-08-28 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "3 new ways to plan and book travel in Search",
     "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "published": "2026-08-27 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "published": "2026-08-27 09:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "published": "2026-08-27 03:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -52,11 +46,5 @@
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "published": "2026-08-25 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "published": "2026-08-25 15:14:14",
-    "source": "Hugging Face Blog"
   }
 ]
