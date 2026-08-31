@@ -358,5 +358,3 @@ Example result: a 50 m OM4 100G SR4 link with 4 connector pairs and 2 patch lead
 <script src="/assets/js/fiber-calculators.js"></script>
 
 ---
-
-*Draft created locally for review. This has not been published yet.*
