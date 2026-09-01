@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+    "published": "2026-08-31 20:47:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+    "published": "2026-08-31 18:51:04"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Exchange Online outage causes email failures, auth issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
     "published": "2026-08-31 16:56:57"
@@ -16,17 +28,5 @@
     "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
     "published": "2026-08-31 14:52:03"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "File servers are here to stay. Here\u2019s how to manage them securely",
-    "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-    "published": "2026-08-31 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-    "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-    "published": "2026-08-31 13:30:01"
   }
 ]
