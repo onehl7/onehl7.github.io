@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-    "published": "2026-09-01 20:53:23"
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "published": "2026-09-02 15:47:08"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Aesto Health says data breach affects over 9.5 million patients",
-    "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-    "published": "2026-09-01 19:28:17"
+    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+    "published": "2026-09-02 14:02:12"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-    "published": "2026-09-01 17:54:22"
+    "title": "Dropbox accounts breached through Lenovo email verification flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+    "published": "2026-09-02 12:30:22"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-    "published": "2026-09-01 14:45:06"
+    "title": "Microsoft Defender flags legitimate Google search links as malicious",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+    "published": "2026-09-02 10:29:39"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Novocure data breach affects more than 1,400 cancer patients",
-    "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-    "published": "2026-09-01 14:28:40"
+    "title": "US charges Russian for infecting 80,000 freelancers with malware",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+    "published": "2026-09-02 09:06:48"
   }
 ]
