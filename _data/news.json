@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+    "published": "2026-09-02 21:00:13"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+    "published": "2026-09-02 19:28:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
     "published": "2026-09-02 15:47:08"
@@ -16,17 +28,5 @@
     "title": "Dropbox accounts breached through Lenovo email verification flaw",
     "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
     "published": "2026-09-02 12:30:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Defender flags legitimate Google search links as malicious",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-    "published": "2026-09-02 10:29:39"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges Russian for infecting 80,000 freelancers with malware",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-    "published": "2026-09-02 09:06:48"
   }
 ]
