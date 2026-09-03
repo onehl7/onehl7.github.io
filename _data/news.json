@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-    "published": "2026-09-02 21:00:13"
+    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+    "published": "2026-09-03 15:22:33"
   },
   {
     "source": "Bleeping Computer",
-    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-    "published": "2026-09-02 19:28:46"
+    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+    "published": "2026-09-03 15:13:29"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-    "published": "2026-09-02 15:47:08"
+    "title": "Anthropic confirms Claude is down, multiple models affected",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+    "published": "2026-09-03 15:02:52"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-    "published": "2026-09-02 14:02:12"
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "published": "2026-09-03 14:52:20"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Dropbox accounts breached through Lenovo email verification flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-    "published": "2026-09-02 12:30:22"
+    "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+    "published": "2026-09-03 13:50:59"
   }
 ]
