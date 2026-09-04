@@ -1,5 +1,41 @@
 [
   {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "published": "2026-09-03 13:15:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "published": "2026-09-03 13:13:48",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "published": "2026-09-03 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "link": "https://arxiv.org/abs/2609.01611",
+    "published": "2026-09-03 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+    "link": "https://arxiv.org/abs/2609.01685",
+    "published": "2026-09-03 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "published": "2026-09-03 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Proactive cyber defense for governments and enterprises",
     "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "published": "2026-09-02 15:40:00",
@@ -12,46 +48,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "published": "2026-09-02 13:49:14",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "published": "2026-09-02 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-    "link": "https://arxiv.org/abs/2609.00002",
-    "published": "2026-09-02 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-    "link": "https://arxiv.org/abs/2609.00003",
-    "published": "2026-09-02 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "published": "2026-09-01 21:39:07",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "The latest AI news we announced in August 2026",
     "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
     "published": "2026-09-01 20:45:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "published": "2026-09-01 17:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
