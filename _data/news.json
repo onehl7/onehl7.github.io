@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
+    "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+    "published": "2026-09-03 22:01:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coder's registry infrastructure compromised to push malicious modules",
+    "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+    "published": "2026-09-03 20:04:24"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+    "published": "2026-09-03 18:28:12"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
     "published": "2026-09-03 15:22:33"
@@ -10,23 +28,5 @@
     "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
     "published": "2026-09-03 15:13:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic confirms Claude is down, multiple models affected",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-    "published": "2026-09-03 15:02:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "published": "2026-09-03 14:52:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
-    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-    "published": "2026-09-03 13:50:59"
   }
 ]
