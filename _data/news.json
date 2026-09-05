@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+    "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+    "published": "2026-09-04 16:56:45"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
     "published": "2026-09-04 15:25:59"
@@ -22,11 +28,5 @@
     "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
     "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
     "published": "2026-09-04 13:22:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-    "published": "2026-09-04 12:22:30"
   }
 ]
