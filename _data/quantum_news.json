@@ -1,6 +1,18 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
+    "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
+    "published": "2026-09-05 07:00:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum oscillations defy expectations in this exotic material",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+    "published": "2026-09-05 04:18:12"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
     "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
     "published": "2026-09-04 17:59:10"
@@ -22,12 +34,6 @@
     "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
     "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
     "published": "2026-09-04 10:22:53"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "MIT Qubit Design Could Speed Quantum Operations While Preserving Data",
-    "link": "https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/",
-    "published": "2026-09-04 08:21:29"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
     "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
     "published": "2026-08-20 01:32:04"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Tiny quantum engines reveal useful energy hiding in \u201cwaste heat\u201d",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
-    "published": "2026-08-19 11:49:52"
   }
 ]
