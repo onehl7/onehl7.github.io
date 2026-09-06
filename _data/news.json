@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Attackers conceal phishing lures using invisible Unicode characters",
+    "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+    "published": "2026-09-06 14:23:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
     "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
     "published": "2026-09-05 14:29:13"
@@ -22,11 +28,5 @@
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
     "published": "2026-09-04 15:25:59"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says some users can\u2019t open the Teams desktop client",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-    "published": "2026-09-04 14:30:15"
   }
 ]
