@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+    "published": "2026-09-07 01:15:43"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Attackers conceal phishing lures using invisible Unicode characters",
     "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
     "published": "2026-09-06 14:23:46"
@@ -22,11 +28,5 @@
     "title": "IDScan sued over alleged data breach affecting 153 million drivers",
     "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
     "published": "2026-09-04 16:56:45"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-    "published": "2026-09-04 15:25:59"
   }
 ]
