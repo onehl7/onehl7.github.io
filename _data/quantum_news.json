@@ -1,6 +1,12 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "NEC Halts Development of Quantum Computer Hardware",
+    "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
+    "published": "2026-09-06 18:34:34"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
     "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
     "published": "2026-09-05 07:00:00"
@@ -28,12 +34,6 @@
     "title": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
     "link": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
     "published": "2026-09-04 13:54:09"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
-    "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
-    "published": "2026-09-04 10:22:53"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
