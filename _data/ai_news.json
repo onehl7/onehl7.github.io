@@ -1,15 +1,15 @@
 [
   {
-    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2609.02981",
-    "published": "2026-09-05 04:00:00",
-    "source": "arXiv AI"
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "published": "2026-09-06 09:00:00",
+    "source": "OpenAI News"
   },
   {
-    "title": "MasterControl Seventeen Every Time",
-    "link": "https://arxiv.org/abs/2609.03209",
-    "published": "2026-09-05 04:00:00",
-    "source": "arXiv AI"
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "published": "2026-09-06 08:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "Architecting memory and storage in the AI era",
@@ -24,22 +24,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "published": "2026-09-03 13:15:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "published": "2026-09-03 13:13:48",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "published": "2026-09-03 12:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
