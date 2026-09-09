@@ -1,27 +1,27 @@
 [
   {
-    "title": "EXAONE Forecast for Finance",
-    "link": "https://arxiv.org/abs/2609.04239",
-    "published": "2026-09-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-    "link": "https://arxiv.org/abs/2609.04286",
-    "published": "2026-09-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "published": "2026-09-07 00:00:00",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "published": "2026-09-08 17:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "An Alien Mind",
-    "link": "https://openai.com/index/an-alien-mind",
-    "published": "2026-09-06 09:00:00",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "published": "2026-09-08 14:23:07",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "published": "2026-09-08 13:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "published": "2026-09-08 10:34:00",
+    "source": "MIT Technology Review AI"
   },
   {
     "title": "Architecting memory and storage in the AI era",
@@ -30,21 +30,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "published": "2026-09-04 09:25:19",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "published": "2026-09-03 13:13:48",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "published": "2026-09-03 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
