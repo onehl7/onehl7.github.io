@@ -1,33 +1,51 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "India\u2019s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
-    "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
-    "published": "2026-09-07 16:53:19"
+    "title": "IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans",
+    "link": "https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/",
+    "published": "2026-09-08 18:45:21"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Guest Post: QML4Africa Highlights Growth of Africa\u2019s Quantum Research Community",
-    "link": "https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/",
-    "published": "2026-09-07 10:27:46"
+    "title": "Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day",
+    "link": "https://thequantuminsider.com/2026/09/08/quantum-startups-among-16-finalists-selected-for-constructor-start-demo-day/",
+    "published": "2026-09-08 14:14:53"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second",
-    "link": "https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/",
-    "published": "2026-09-07 07:21:59"
+    "title": "QUDORA Joins EuroHPC Quantum Grand Challenge With Near Field Quantum Control Project",
+    "link": "https://thequantuminsider.com/2026/09/08/qudora-selected-eu-quantum-grand-challenge-near-field-quantum-control/",
+    "published": "2026-09-08 13:37:10"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NEC Halts Development of Quantum Computer Hardware",
-    "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
-    "published": "2026-09-06 18:34:34"
+    "title": "Daniel Freedman Joins Quantum X Labs as Distinguished Quantum Scientist",
+    "link": "https://thequantuminsider.com/2026/09/08/daniel-freedman-joins-quantum-x-labs-distinguished-quantum-scientist/",
+    "published": "2026-09-08 13:29:03"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
-    "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
-    "published": "2026-09-05 07:00:00"
+    "title": "IonQ Launches Superion 256 Quantum Computing Platform",
+    "link": "https://thequantuminsider.com/2026/09/08/ionq-launches-superion-256-quantum-computing-platform/",
+    "published": "2026-09-08 13:20:27"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists observe Einstein\u2019s gravity in the quantum world for the first time",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
+    "published": "2026-09-08 12:09:21"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "An important step towards detecting fractons in quantum spin liquids",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm",
+    "published": "2026-09-07 05:45:36"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+    "published": "2026-09-07 01:14:19"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -40,23 +58,5 @@
     "title": "Some signs of quantum gravity may be an illusion",
     "link": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
     "published": "2026-08-30 02:58:40"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm",
-    "published": "2026-08-22 13:02:37"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A strange new quantum droplet can hold itself together",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
-    "published": "2026-08-21 04:54:49"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
-    "published": "2026-08-20 01:32:04"
   }
 ]
