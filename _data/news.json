@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "source": "Bleeping Computer",
+    "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+    "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+    "published": "2026-09-09 15:31:23"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+    "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+    "published": "2026-09-09 14:01:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+    "published": "2026-09-09 10:11:29"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+    "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+    "published": "2026-09-09 08:44:22"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+    "published": "2026-09-09 07:30:15"
+  }
+]
