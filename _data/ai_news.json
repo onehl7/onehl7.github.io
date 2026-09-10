@@ -1,9 +1,51 @@
 [
   {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "published": "2026-09-08 17:00:00",
+    "title": "Get ready for the game with new football features in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "published": "2026-09-09 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Recreating a 70-year love story frame by frame",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "published": "2026-09-09 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "published": "2026-09-09 15:36:24",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "link": "https://openai.com/index/ai-policy-window",
+    "published": "2026-09-09 13:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "published": "2026-09-09 11:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+    "link": "https://arxiv.org/abs/2609.05437",
+    "published": "2026-09-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+    "link": "https://arxiv.org/abs/2609.05439",
+    "published": "2026-09-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "published": "2026-09-09 03:10:08",
+    "source": "MIT Technology Review AI"
   },
   {
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -12,39 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "The Work Now Within Reach",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "published": "2026-09-08 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
     "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
     "published": "2026-09-08 10:34:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Architecting memory and storage in the AI era",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "published": "2026-09-04 18:39:19",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "published": "2026-09-03 13:13:48",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "published": "2026-09-02 15:40:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The latest AI news we announced in August 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "published": "2026-09-01 20:45:00",
-    "source": "Google AI Blog"
   }
 ]
