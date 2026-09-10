@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-    "published": "2026-09-09 21:40:44"
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+    "published": "2026-09-10 15:43:58"
   },
   {
     "source": "Bleeping Computer",
-    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-    "published": "2026-09-09 21:30:36"
+    "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
+    "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+    "published": "2026-09-10 14:55:33"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-    "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-    "published": "2026-09-09 21:02:14"
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+    "published": "2026-09-10 14:11:34"
   },
   {
     "source": "Bleeping Computer",
-    "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-    "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-    "published": "2026-09-09 16:48:33"
+    "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+    "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+    "published": "2026-09-10 14:00:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-    "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-    "published": "2026-09-09 15:31:23"
+    "title": "Microsoft says September updates fix mouse settings reset issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+    "published": "2026-09-10 11:14:28"
   }
 ]
