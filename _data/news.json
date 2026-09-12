@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+    "published": "2026-09-11 20:19:09"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Florida confirms DMV database breached via stolen police account",
+    "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+    "published": "2026-09-11 19:00:29"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+    "published": "2026-09-11 17:26:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "published": "2026-09-11 16:29:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
     "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
     "published": "2026-09-11 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitLab urges users to patch max severity path traversal flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-    "published": "2026-09-11 11:15:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-    "published": "2026-09-11 09:39:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-    "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-    "published": "2026-09-11 07:55:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Conti ransomware gang member sentenced to 4 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-    "published": "2026-09-11 06:48:37"
   }
 ]
