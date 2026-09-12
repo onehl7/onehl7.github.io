@@ -1,9 +1,33 @@
 [
   {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "published": "2026-09-10 16:00:00",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "published": "2026-09-14 00:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "published": "2026-09-11 20:05:06",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "published": "2026-09-11 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+    "link": "https://arxiv.org/abs/2609.09203",
+    "published": "2026-09-11 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+    "link": "https://arxiv.org/abs/2609.09226",
+    "published": "2026-09-11 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "3 ways to prep for your next big race with Search",
@@ -12,28 +36,10 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "published": "2026-09-10 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Powering AI is an architecture problem",
     "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "published": "2026-09-10 11:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-    "link": "https://arxiv.org/abs/2609.09203",
-    "published": "2026-09-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-    "link": "https://arxiv.org/abs/2609.09226",
-    "published": "2026-09-10 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -52,11 +58,5 @@
     "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "published": "2026-09-09 15:36:24",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "What OpenAI’s latest controversy tells us about the future of math",
-    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "published": "2026-09-09 03:10:08",
-    "source": "MIT Technology Review AI"
   }
 ]
