@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "published": "2026-09-13 14:26:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
     "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
     "published": "2026-09-12 14:14:32"
@@ -22,11 +28,5 @@
     "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
     "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
     "published": "2026-09-11 17:26:50"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-    "published": "2026-09-11 16:29:44"
   }
 ]
