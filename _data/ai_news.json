@@ -6,7 +6,19 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Roundtables: AI’s apocalypse crisis",
+    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+    "link": "https://arxiv.org/abs/2609.10584",
+    "published": "2026-09-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+    "link": "https://arxiv.org/abs/2609.10629",
+    "published": "2026-09-12 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "published": "2026-09-11 20:05:06",
     "source": "MIT Technology Review AI"
@@ -16,18 +28,6 @@
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "published": "2026-09-11 10:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-    "link": "https://arxiv.org/abs/2609.09203",
-    "published": "2026-09-11 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-    "link": "https://arxiv.org/abs/2609.09226",
-    "published": "2026-09-11 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "3 ways to prep for your next big race with Search",
