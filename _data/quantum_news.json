@@ -1,6 +1,18 @@
 [
   {
     "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists are building a microscope powered by a quantum computer",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+    "published": "2026-09-13 12:03:59"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists discover a hidden \u201ccurveball\u201d in quantum light",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+    "published": "2026-09-13 11:22:01"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
     "title": "Tiny sound waves could help solve a major quantum computing problem",
     "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
     "published": "2026-09-12 14:08:20"
@@ -46,17 +58,5 @@
     "title": "Scientists observe Einstein\u2019s gravity in the quantum world for the first time",
     "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
     "published": "2026-09-08 12:09:21"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "An important step towards detecting fractons in quantum spin liquids",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm",
-    "published": "2026-09-07 05:45:36"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
-    "published": "2026-09-07 01:14:19"
   }
 ]
