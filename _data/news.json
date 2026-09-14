@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-    "published": "2026-09-13 14:26:32"
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+    "published": "2026-09-14 16:15:58"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-    "published": "2026-09-12 14:14:32"
+    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+    "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+    "published": "2026-09-14 14:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-    "published": "2026-09-11 20:19:09"
+    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+    "published": "2026-09-14 12:15:23"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Florida confirms DMV database breached via stolen police account",
-    "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-    "published": "2026-09-11 19:00:29"
+    "title": "Microsoft: September updates cause RDS failures on Windows Server",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+    "published": "2026-09-14 09:50:25"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-    "published": "2026-09-11 17:26:50"
+    "title": "Revolut discloses data breach exposing financial info, passports",
+    "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+    "published": "2026-09-14 08:48:24"
   }
 ]
