@@ -1,6 +1,12 @@
 [
   {
     "source": "NASA",
+    "title": "APOD: 2026 September 13 \u2013 Comet NEOWISE Rising over the Adriatic Sea",
+    "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+    "published": "2026-09-13 04:05:00"
+  },
+  {
+    "source": "NASA",
     "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
     "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
     "published": "2026-09-11 19:48:09"
@@ -34,12 +40,6 @@
     "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
     "link": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
     "published": "2026-09-11 08:00:00"
-  },
-  {
-    "source": "NASA",
-    "title": "APOD: 2026 September 11 \u2013 M83: The Southern Pinwheel",
-    "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-    "published": "2026-09-11 04:05:00"
   },
   {
     "source": "ESA",
