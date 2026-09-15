@@ -1,50 +1,62 @@
 [
   {
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "published": "2026-09-14 19:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "published": "2026-09-14 17:54:22",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "DevFest is back",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "published": "2026-09-14 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "published": "2026-09-14 16:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer",
+    "published": "2026-09-14 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+    "link": "https://arxiv.org/abs/2609.11977",
+    "published": "2026-09-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+    "link": "https://arxiv.org/abs/2609.11987",
+    "published": "2026-09-14 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "published": "2026-09-14 00:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "published": "2026-09-11 20:05:06",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "published": "2026-09-11 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "3 ways to prep for your next big race with Search",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "published": "2026-09-10 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "published": "2026-09-10 11:00:00",
-    "source": "MIT Technology Review AI"
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "published": "2026-09-10 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "link": "https://huggingface.co/blog/gradio-workflow-1111",
     "published": "2026-09-10 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Get ready for the game with new football features in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "published": "2026-09-09 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "published": "2026-09-09 15:36:24",
     "source": "Hugging Face Blog"
   }
 ]
