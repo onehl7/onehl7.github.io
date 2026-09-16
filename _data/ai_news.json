@@ -1,45 +1,51 @@
 [
   {
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "published": "2026-09-14 19:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "published": "2026-09-14 17:54:22",
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "published": "2026-09-15 17:47:51",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "DevFest is back",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "published": "2026-09-14 16:00:00",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "published": "2026-09-15 16:00:44",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI for Societal Impact",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "published": "2026-09-15 16:00:00",
     "source": "Google AI Blog"
   },
   {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "published": "2026-09-14 16:00:00",
+    "title": "Building AI to accelerate science and improve lives",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "published": "2026-09-15 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "published": "2026-09-15 10:00:00",
     "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+    "link": "https://arxiv.org/abs/2609.13356",
+    "published": "2026-09-15 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+    "link": "https://arxiv.org/abs/2609.13396",
+    "published": "2026-09-15 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "How Fyxer built an AI executive assistant people trust",
     "link": "https://openai.com/index/fyxer",
     "published": "2026-09-14 12:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
-    "link": "https://arxiv.org/abs/2609.11977",
-    "published": "2026-09-14 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
-    "link": "https://arxiv.org/abs/2609.11987",
-    "published": "2026-09-14 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -50,12 +56,6 @@
   {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "published": "2026-09-10 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
     "published": "2026-09-10 00:00:00",
     "source": "Hugging Face Blog"
   }
