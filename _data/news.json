@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+    "published": "2026-09-15 21:37:35"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "published": "2026-09-15 20:34:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+    "published": "2026-09-15 16:40:14"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BambooToken malware controls Windows and Linux systems via MQTT",
     "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
     "published": "2026-09-15 15:00:00"
@@ -10,23 +28,5 @@
     "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
     "published": "2026-09-15 14:45:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-    "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-    "published": "2026-09-15 13:45:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "2026-09-15 12:16:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-    "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-    "published": "2026-09-15 09:50:25"
   }
 ]
