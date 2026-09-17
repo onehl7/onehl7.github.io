@@ -1,5 +1,35 @@
 [
   {
+    "title": "Helping older adults use AI in everyday life",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "published": "2026-09-16 16:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "published": "2026-09-16 13:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building the materials foundation for AI",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "published": "2026-09-16 12:47:34",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+    "link": "https://arxiv.org/abs/2609.16129",
+    "published": "2026-09-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+    "link": "https://arxiv.org/abs/2609.16145",
+    "published": "2026-09-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Roundtables: Could AI really kill us all?",
     "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "published": "2026-09-15 17:47:51",
@@ -22,36 +52,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "published": "2026-09-15 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "What’s at stake in AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "published": "2026-09-15 10:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-    "link": "https://arxiv.org/abs/2609.13356",
-    "published": "2026-09-15 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-    "link": "https://arxiv.org/abs/2609.13396",
-    "published": "2026-09-15 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "link": "https://openai.com/index/fyxer",
-    "published": "2026-09-14 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "published": "2026-09-14 00:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
