@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+    "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+    "published": "2026-09-18 16:00:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
     "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
     "published": "2026-09-18 15:19:06"
@@ -22,11 +28,5 @@
     "title": "Webinar: Which Google Workspace security controls actually matter?",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
     "published": "2026-09-18 13:10:19"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-    "published": "2026-09-18 12:16:32"
   }
 ]
