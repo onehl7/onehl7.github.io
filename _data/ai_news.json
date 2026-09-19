@@ -1,27 +1,39 @@
 [
   {
-    "title": "Making global data easier to explore",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "published": "2026-09-17 20:00:00",
+    "title": "New experts join Google’s AI & Economy team",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "published": "2026-09-18 14:00:00",
     "source": "Google AI Blog"
+  },
+  {
+    "title": "Co-creating the future of fashion with Google",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "published": "2026-09-18 13:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "published": "2026-09-18 11:29:22",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+    "link": "https://arxiv.org/abs/2609.19170",
+    "published": "2026-09-18 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+    "link": "https://arxiv.org/abs/2609.19180",
+    "published": "2026-09-18 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "link": "https://openai.com/index/cooley-gopublic",
     "published": "2026-09-17 12:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-    "link": "https://arxiv.org/abs/2609.17631",
-    "published": "2026-09-17 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-    "link": "https://arxiv.org/abs/2609.17632",
-    "published": "2026-09-17 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Introducing Astra for Law",
@@ -36,22 +48,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "published": "2026-09-15 17:47:51",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "published": "2026-09-15 16:00:44",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "AI for Societal Impact",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "published": "2026-09-15 16:00:00",
-    "source": "Google AI Blog"
   },
   {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
