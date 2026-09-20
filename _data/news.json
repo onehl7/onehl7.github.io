@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Malicious npm packages evade install-script defenses at runtime",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "published": "2026-09-20 14:11:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+    "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+    "published": "2026-09-20 12:00:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BragJack attacks hijack AI browser agents through malicious extensions",
     "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
     "published": "2026-09-19 14:56:31"
@@ -16,17 +28,5 @@
     "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
     "published": "2026-09-19 13:48:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-    "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-    "published": "2026-09-19 11:38:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-    "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-    "published": "2026-09-18 16:00:38"
   }
 ]
