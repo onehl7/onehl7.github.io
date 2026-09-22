@@ -1,5 +1,53 @@
 [
   {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "published": "2026-09-21 13:44:34",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "published": "2026-09-21 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "published": "2026-09-21 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "published": "2026-09-21 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "published": "2026-09-21 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "link": "https://arxiv.org/abs/2609.20971",
+    "published": "2026-09-21 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+    "link": "https://arxiv.org/abs/2609.20974",
+    "published": "2026-09-21 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "published": "2026-09-21 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "New experts join Google’s AI & Economy team",
     "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "published": "2026-09-18 14:00:00",
@@ -10,41 +58,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
     "published": "2026-09-18 13:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "published": "2026-09-18 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "published": "2026-09-18 11:29:22",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "link": "https://openai.com/index/cooley-gopublic",
-    "published": "2026-09-17 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Building the materials foundation for AI",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "published": "2026-09-16 12:47:34",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "published": "2026-09-15 16:00:44",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "published": "2026-09-10 00:00:00",
-    "source": "Hugging Face Blog"
   }
 ]
