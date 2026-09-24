@@ -1,15 +1,45 @@
 [
   {
-    "title": "Better prompt caching for GPT-6",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "published": "2026-09-22 21:00:00",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "published": "2026-09-23 18:41:40",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "published": "2026-09-23 18:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Two years of OpenAI Academy",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "published": "2026-09-23 16:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Introducing GPT-6 Sol and Luna",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "published": "2026-09-22 18:00:00",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "published": "2026-09-23 13:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "published": "2026-09-23 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+    "link": "https://arxiv.org/abs/2609.25010",
+    "published": "2026-09-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+    "link": "https://arxiv.org/abs/2609.25013",
+    "published": "2026-09-23 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -18,32 +48,8 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "published": "2026-09-22 11:04:51",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-    "link": "https://arxiv.org/abs/2609.22161",
-    "published": "2026-09-22 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-    "link": "https://arxiv.org/abs/2609.22277",
-    "published": "2026-09-22 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "link": "https://huggingface.co/blog/evaleval-aisi",
-    "published": "2026-09-22 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "published": "2026-09-22 00:00:00",
     "source": "Hugging Face Blog"
   },
@@ -51,12 +57,6 @@
     "title": "New experts join Google’s AI & Economy team",
     "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "published": "2026-09-18 14:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Co-creating the future of fashion with Google",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "published": "2026-09-18 13:00:00",
     "source": "Google AI Blog"
   }
 ]
