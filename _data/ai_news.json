@@ -1,5 +1,23 @@
 [
   {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "published": "2026-09-24 14:08:57",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+    "link": "https://arxiv.org/abs/2609.26836",
+    "published": "2026-09-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+    "link": "https://arxiv.org/abs/2609.26891",
+    "published": "2026-09-24 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
     "published": "2026-09-23 18:41:40",
@@ -30,28 +48,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
-    "link": "https://arxiv.org/abs/2609.25010",
-    "published": "2026-09-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-    "link": "https://arxiv.org/abs/2609.25013",
-    "published": "2026-09-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "published": "2026-09-22 13:42:05",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "published": "2026-09-22 00:00:00",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "New experts join Google’s AI & Economy team",
