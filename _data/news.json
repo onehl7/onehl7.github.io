@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+    "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+    "published": "2026-09-24 20:53:35"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+    "published": "2026-09-24 20:10:48"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Exposed GitLab project email addresses let attackers push code",
+    "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "published": "2026-09-24 17:47:44"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
     "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
     "published": "2026-09-24 14:02:12"
@@ -10,23 +28,5 @@
     "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
     "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
     "published": "2026-09-24 13:27:57"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-    "published": "2026-09-24 12:16:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-    "published": "2026-09-24 10:42:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-    "published": "2026-09-24 09:38:53"
   }
 ]
