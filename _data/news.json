@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "published": "2026-09-26 15:50:38"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+    "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "published": "2026-09-26 14:19:46"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "published": "2026-09-26 12:28:41"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
     "published": "2026-09-25 21:41:07"
@@ -10,23 +28,5 @@
     "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
     "published": "2026-09-25 20:57:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Elementor WordPress flaw lets attackers create admin accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-    "published": "2026-09-25 18:13:33"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-    "published": "2026-09-25 17:24:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-    "published": "2026-09-25 16:00:00"
   }
 ]
