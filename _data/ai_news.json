@@ -1,21 +1,33 @@
 [
   {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "link": "https://openai.com/index/proaction",
+    "published": "2026-09-25 19:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "published": "2026-09-25 09:16:25",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+    "link": "https://arxiv.org/abs/2609.28475",
+    "published": "2026-09-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+    "link": "https://arxiv.org/abs/2609.28506",
+    "published": "2026-09-25 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "published": "2026-09-24 14:08:57",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-    "link": "https://arxiv.org/abs/2609.26836",
-    "published": "2026-09-24 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-    "link": "https://arxiv.org/abs/2609.26891",
-    "published": "2026-09-24 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
@@ -36,21 +48,9 @@
     "source": "OpenAI News"
   },
   {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "published": "2026-09-23 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "The AI Hype Index: AI loves cheating",
     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "published": "2026-09-23 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "published": "2026-09-22 13:42:05",
     "source": "MIT Technology Review AI"
   },
   {
