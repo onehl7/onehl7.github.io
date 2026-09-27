@@ -1,6 +1,24 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now",
+    "link": "https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/",
+    "published": "2026-09-26 19:00:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+    "published": "2026-09-26 13:47:38"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices",
+    "link": "https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/",
+    "published": "2026-09-26 13:46:41"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
     "link": "https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/",
     "published": "2026-09-25 17:04:22"
@@ -24,18 +42,6 @@
     "published": "2026-09-25 12:24:49"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator",
-    "link": "https://thequantuminsider.com/2026/09/25/drdo-zero-mk-india-20-mk-dilution-refrigerator/",
-    "published": "2026-09-25 12:13:55"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "China\u2019s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI",
-    "link": "https://thequantuminsider.com/2026/09/25/chinas-qingxing-raises-nearly-100-million-yuan-to-develop-quantum-inspired-ai/",
-    "published": "2026-09-25 12:06:19"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "For the first time, scientists watch sound jump between quantum states",
     "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
@@ -52,11 +58,5 @@
     "title": "What kills Schr\u00f6dinger\u2019s cat? Gravity may not be the answer",
     "link": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
     "published": "2026-09-21 09:24:50"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-    "published": "2026-09-20 05:16:00"
   }
 ]
