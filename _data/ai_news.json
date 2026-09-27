@@ -12,18 +12,6 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-    "link": "https://arxiv.org/abs/2609.28475",
-    "published": "2026-09-25 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-    "link": "https://arxiv.org/abs/2609.28506",
-    "published": "2026-09-25 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "published": "2026-09-24 14:08:57",
