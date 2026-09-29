@@ -1,15 +1,51 @@
 [
   {
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "link": "https://openai.com/index/proaction",
-    "published": "2026-09-25 19:00:00",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "published": "2026-09-28 22:17:07",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "published": "2026-09-28 19:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "published": "2026-09-25 09:16:25",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "published": "2026-09-28 19:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "published": "2026-09-28 17:03:16",
     "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "published": "2026-09-28 09:44:05",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "published": "2026-09-28 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+    "link": "https://arxiv.org/abs/2609.30291",
+    "published": "2026-09-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+    "link": "https://arxiv.org/abs/2609.30325",
+    "published": "2026-09-28 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -18,33 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "published": "2026-09-23 18:41:40",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Google Beam expands with new regions, partners, and customers",
     "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "published": "2026-09-23 18:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "published": "2026-09-23 16:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "published": "2026-09-23 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "New experts join Google’s AI & Economy team",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "published": "2026-09-18 14:00:00",
     "source": "Google AI Blog"
   }
 ]
