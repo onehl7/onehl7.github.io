@@ -1,7 +1,25 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+    "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+    "published": "2026-09-28 20:56:47"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+    "published": "2026-09-28 20:31:16"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+    "published": "2026-09-28 19:49:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
     "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
     "published": "2026-09-28 18:50:59"
   },
@@ -10,23 +28,5 @@
     "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
     "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
     "published": "2026-09-28 15:49:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-    "published": "2026-09-28 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-    "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-    "published": "2026-09-28 09:25:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "published": "2026-09-28 07:30:15"
   }
 ]
