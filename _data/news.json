@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft is rolling out Linux container support to WSL",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-    "published": "2026-09-30 00:40:57"
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "published": "2026-09-30 15:49:29"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Signal adds encypted local backup support to iOS, desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-    "published": "2026-09-29 21:30:08"
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+    "published": "2026-09-30 14:46:40"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-    "published": "2026-09-29 20:59:39"
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+    "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+    "published": "2026-09-30 14:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-    "published": "2026-09-29 20:09:55"
+    "title": "Microsoft to block Entra ID script injection attacks starting October",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+    "published": "2026-09-30 13:37:15"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-    "published": "2026-09-29 18:37:12"
+    "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d",
+    "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+    "published": "2026-09-30 12:25:10"
   }
 ]
