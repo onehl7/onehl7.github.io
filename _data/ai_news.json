@@ -1,57 +1,57 @@
 [
   {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "published": "2026-09-29 15:30:38",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "published": "2026-09-29 13:07:00",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "published": "2026-09-29 10:43:45",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "published": "2026-09-29 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "published": "2026-09-29 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+    "link": "https://arxiv.org/abs/2609.31763",
+    "published": "2026-09-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+    "link": "https://arxiv.org/abs/2609.31784",
+    "published": "2026-09-29 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "published": "2026-09-28 22:17:07",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "published": "2026-09-28 19:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "published": "2026-09-28 19:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "published": "2026-09-28 17:03:16",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "published": "2026-09-28 09:44:05",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "published": "2026-09-28 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-    "link": "https://arxiv.org/abs/2609.30291",
-    "published": "2026-09-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-    "link": "https://arxiv.org/abs/2609.30325",
-    "published": "2026-09-28 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "published": "2026-09-24 14:08:57",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Google Beam expands with new regions, partners, and customers",
