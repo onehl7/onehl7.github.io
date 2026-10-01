@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "Roadrunner Quantum Lab to Open Its Doors in Albuquerque With First Eleven Tenants",
-    "link": "https://thequantuminsider.com/2026/09/29/roadrunner-quantum-lab-to-open-its-doors-in-albuquerque-with-first-eleven-tenants/",
-    "published": "2026-09-29 18:45:40"
+    "title": "Charles Black Leads C2QA Research on Scalable Quantum Computing",
+    "link": "https://thequantuminsider.com/2026/09/30/charles-black-c2qa-scalable-quantum-computing/",
+    "published": "2026-09-30 13:30:11"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Xanadu and Bluefors Develop Cryogenic Infrastructure for Utility-Scale Quantum Computing",
-    "link": "https://thequantuminsider.com/2026/09/29/xanadu-bluefors-cryogenic-infrastructure-utility-scale-quantum/",
-    "published": "2026-09-29 17:25:45"
+    "title": "New Report Positions Florida as an Emerging Leader in Defense-Led Quantum Technology",
+    "link": "https://thequantuminsider.com/2026/09/30/new-report-positions-florida-as-an-emerging-leader-in-defense-led-quantum-technology/",
+    "published": "2026-09-30 13:02:43"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Cloudflare Plans Public Certificate Authority for Post-Quantum Security",
-    "link": "https://thequantuminsider.com/2026/09/29/cloudflare-public-certificate-authority-post-quantum-securit/",
-    "published": "2026-09-29 14:11:10"
+    "title": "Classiq Introduces Fault Tolerance Engine for Quantum Applications",
+    "link": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
+    "published": "2026-09-30 12:01:16"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Project Eleven Acquires Riva Labs for Post-Quantum Security",
-    "link": "https://thequantuminsider.com/2026/09/29/project-eleven-acquires-riva-labs-post-quantum-security/",
-    "published": "2026-09-29 14:05:59"
+    "title": "Quantum eMotion to Acquire Plurilock Security",
+    "link": "https://thequantuminsider.com/2026/09/30/quantum-emotion-acquire-plurilock-quantum-ai-cybersecurity/",
+    "published": "2026-09-30 11:52:23"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Quantum Computing Explained \u2013 With Maple Syrup and Sunglasses",
-    "link": "https://thequantuminsider.com/2026/09/29/quantum-computing-explained-with-maple-syrup-and-sunglasses/",
-    "published": "2026-09-29 13:33:36"
+    "title": "QuantLase Tests Photonic Computing Platform on Financial Market Data",
+    "link": "https://thequantuminsider.com/2026/09/30/quantlase-tests-photonic-computing-platform-on-financial-market-data/",
+    "published": "2026-09-30 11:02:17"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+    "published": "2026-09-29 12:02:30"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "The LHC just ruled out another hiding place for quantum black holes",
     "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
     "published": "2026-09-22 04:56:49"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "What kills Schr\u00f6dinger\u2019s cat? Gravity may not be the answer",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
-    "published": "2026-09-21 09:24:50"
   }
 ]
