@@ -1,44 +1,44 @@
 [
   {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "published": "2026-10-01 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "published": "2026-10-01 16:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "published": "2026-10-01 15:01:43",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+    "link": "https://arxiv.org/abs/2609.38282",
+    "published": "2026-10-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+    "link": "https://arxiv.org/abs/2609.38288",
+    "published": "2026-10-01 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "published": "2026-09-30 10:40:30",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "published": "2026-09-30 10:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "published": "2026-09-30 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-    "link": "https://arxiv.org/abs/2609.35799",
-    "published": "2026-09-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-    "link": "https://arxiv.org/abs/2609.35833",
-    "published": "2026-09-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
     "link": "https://huggingface.co/blog/open-tts-leaderboard",
     "published": "2026-09-30 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "published": "2026-09-29 15:30:38",
     "source": "Hugging Face Blog"
   },
   {
