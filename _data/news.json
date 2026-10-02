@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "published": "2026-10-01 22:42:49"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+    "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+    "published": "2026-10-01 20:52:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft says threat actors are ahead in the early AI race",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+    "published": "2026-10-01 19:32:47"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
     "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
     "published": "2026-10-01 14:25:14"
@@ -10,23 +28,5 @@
     "title": "The Day-One Hole in Zero Trust Architecture",
     "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
     "published": "2026-10-01 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kiteworks patches max severity code injection vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-    "published": "2026-10-01 13:51:08"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft enables Windows settings backup by default for orgs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-    "published": "2026-10-01 11:14:28"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers stole Pentagon personnel records of over 3 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-    "published": "2026-10-01 09:44:28"
   }
 ]
