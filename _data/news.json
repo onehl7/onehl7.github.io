@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Frontline Education breach exposes school district employee data",
+    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+    "published": "2026-10-02 19:01:40"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "published": "2026-10-02 18:33:01"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
     "published": "2026-10-02 16:20:05"
@@ -16,17 +28,5 @@
     "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
     "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
     "published": "2026-10-02 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-    "published": "2026-10-02 12:37:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
-    "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-    "published": "2026-10-02 09:29:56"
   }
 ]
