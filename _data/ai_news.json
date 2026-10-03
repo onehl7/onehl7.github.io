@@ -1,62 +1,62 @@
 [
   {
-    "title": "The eternal complement",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "published": "2026-10-01 17:00:00",
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "published": "2026-10-02 16:15:00",
     "source": "OpenAI News"
   },
   {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "published": "2026-10-01 16:00:00",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "published": "2026-10-02 15:49:04",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "published": "2026-10-02 15:19:50",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "published": "2026-10-02 15:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "published": "2026-10-02 08:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "published": "2026-10-02 04:01:31",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "link": "https://arxiv.org/abs/2610.00010",
+    "published": "2026-10-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "link": "https://arxiv.org/abs/2610.00012",
+    "published": "2026-10-02 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "published": "2026-10-02 00:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "published": "2026-10-01 15:01:43",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-    "link": "https://arxiv.org/abs/2609.38282",
-    "published": "2026-10-01 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-    "link": "https://arxiv.org/abs/2609.38288",
-    "published": "2026-10-01 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "published": "2026-09-30 10:40:30",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "published": "2026-09-30 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "published": "2026-09-29 10:43:45",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "published": "2026-09-28 19:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "published": "2026-09-23 18:00:00",
     "source": "Google AI Blog"
   }
 ]
