@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "published": "2026-10-03 14:35:20"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Frontline Education breach exposes school district employee data",
     "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
     "published": "2026-10-02 19:01:40"
@@ -22,11 +28,5 @@
     "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
     "published": "2026-10-02 15:20:53"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-    "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "published": "2026-10-02 14:00:10"
   }
 ]
