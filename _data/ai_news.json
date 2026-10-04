@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "published": "2026-10-03 22:56:48",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "A model guide for the GPT-6 family",
     "link": "https://openai.com/index/practical-guide-building-gpt-6",
     "published": "2026-10-02 16:15:00",
@@ -28,24 +34,6 @@
     "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
     "published": "2026-10-02 08:00:00",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "published": "2026-10-02 04:01:31",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-    "link": "https://arxiv.org/abs/2610.00010",
-    "published": "2026-10-02 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "When Do Causal World Models Help Modular LLM Agents",
-    "link": "https://arxiv.org/abs/2610.00012",
-    "published": "2026-10-02 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Chatham scales its capital markets expertise with OpenAI",
