@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+    "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "published": "2026-10-03 23:12:34"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+    "published": "2026-10-03 19:09:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Danish university DTU breach exposes data of up to 200,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
     "published": "2026-10-03 14:35:20"
@@ -16,17 +28,5 @@
     "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
     "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
     "published": "2026-10-02 18:33:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-    "published": "2026-10-02 16:20:05"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-    "published": "2026-10-02 15:20:53"
   }
 ]
