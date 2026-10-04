@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic asks Claude users to share voice data for AI model training",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+    "published": "2026-10-04 10:53:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
     "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
     "published": "2026-10-03 23:12:34"
@@ -22,11 +28,5 @@
     "title": "Frontline Education breach exposes school district employee data",
     "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
     "published": "2026-10-02 19:01:40"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-    "published": "2026-10-02 18:33:01"
   }
 ]
