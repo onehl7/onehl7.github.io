@@ -1,5 +1,23 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+    "published": "2026-10-03 12:03:23"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "IBM Expands AI and Quantum Research With IIT Bombay and IISc",
+    "link": "https://thequantuminsider.com/2026/10/03/ibm-academic-collaborations-iit-bombay-iisc-agentic-ai-quantum/",
+    "published": "2026-10-03 07:00:00"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Helmut Katzgraber (55North): Why materials simulation beats optimization for near-term quantum",
+    "link": "https://thequantuminsider.com/2026/10/03/helmut-katzgraber-55north-why-materials-simulation-beats-optimization-for-near-term-quantum/",
+    "published": "2026-10-03 07:00:00"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Quantum in Business Conference Highlights Commercial Quantum Applications",
     "link": "https://thequantuminsider.com/2026/10/02/quantum-in-business-commercial-quantum-applications/",
@@ -18,16 +36,10 @@
     "published": "2026-10-02 15:28:15"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "SQC and Schneider Electric Advance Quantum-Enhanced Energy Forecasting",
-    "link": "https://thequantuminsider.com/2026/10/02/sqc-schneider-electric-quantum-energy-forecasting/",
-    "published": "2026-10-02 11:17:37"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Quantum Computing Could Cut Industrial Emissions Without an AI-Sized Footprint, BCG Finds",
-    "link": "https://thequantuminsider.com/2026/10/02/quantum-computing-could-cut-industrial-emissions-without-an-ai-sized-footprint-bcg-finds/",
-    "published": "2026-10-02 11:07:59"
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Electrons slow to a crawl in a strange new quantum state",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
+    "published": "2026-10-02 03:10:08"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -46,17 +58,5 @@
     "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
     "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
     "published": "2026-09-26 13:47:38"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-    "published": "2026-09-25 12:45:04"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "The LHC just ruled out another hiding place for quantum black holes",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
-    "published": "2026-09-22 04:56:49"
   }
 ]
