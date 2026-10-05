@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+    "published": "2026-10-04 21:58:01"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Anthropic asks Claude users to share voice data for AI model training",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
     "published": "2026-10-04 10:53:21"
@@ -22,11 +28,5 @@
     "title": "Danish university DTU breach exposes data of up to 200,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
     "published": "2026-10-03 14:35:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Frontline Education breach exposes school district employee data",
-    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-    "published": "2026-10-02 19:01:40"
   }
 ]
