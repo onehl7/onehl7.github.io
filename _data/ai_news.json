@@ -1,32 +1,44 @@
 [
   {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "link": "https://openai.com/index/jump-trading",
-    "published": "2026-10-06 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "published": "2026-10-06 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "published": "2026-10-06 06:44:39",
+    "title": "Multimodal open d1 decision models for the edge",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "published": "2026-10-07 16:54:33",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
-    "link": "https://arxiv.org/abs/2610.03872",
-    "published": "2026-10-06 04:00:00",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "published": "2026-10-07 12:45:31",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "published": "2026-10-07 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "published": "2026-10-07 12:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "published": "2026-10-07 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+    "link": "https://arxiv.org/abs/2610.06910",
+    "published": "2026-10-07 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-    "link": "https://arxiv.org/abs/2610.03888",
-    "published": "2026-10-06 04:00:00",
+    "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+    "link": "https://arxiv.org/abs/2610.06914",
+    "published": "2026-10-07 04:00:00",
     "source": "arXiv AI"
   },
   {
@@ -42,21 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "published": "2026-10-03 22:56:48",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "The latest AI news we announced in September 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "published": "2026-10-02 15:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "published": "2026-09-28 19:00:00",
     "source": "Google AI Blog"
   }
 ]
