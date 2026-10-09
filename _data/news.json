@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-    "published": "2026-10-08 21:42:51"
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+    "published": "2026-10-09 17:17:23"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-    "published": "2026-10-08 20:09:45"
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+    "published": "2026-10-09 17:02:29"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Low-cost Android phones ship with residential proxy malware",
-    "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-    "published": "2026-10-08 19:20:33"
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+    "published": "2026-10-09 15:38:56"
   },
   {
     "source": "Bleeping Computer",
-    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-    "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-    "published": "2026-10-08 17:10:55"
+    "title": "How to keep AI agents within their permissions",
+    "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+    "published": "2026-10-09 14:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-    "published": "2026-10-08 15:26:33"
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+    "published": "2026-10-09 12:32:16"
   }
 ]
