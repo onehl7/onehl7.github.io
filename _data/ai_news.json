@@ -1,57 +1,57 @@
 [
   {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "published": "2026-10-09 00:08:24",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "published": "2026-10-08 16:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "published": "2026-10-08 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "published": "2026-10-08 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+    "link": "https://arxiv.org/abs/2610.08793",
+    "published": "2026-10-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+    "link": "https://arxiv.org/abs/2610.08808",
+    "published": "2026-10-08 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "published": "2026-10-08 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "Multimodal open d1 decision models for the edge",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "published": "2026-10-07 16:54:33",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "published": "2026-10-07 12:45:31",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "published": "2026-10-07 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Introducing Playground: Create and play custom games",
     "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "published": "2026-10-07 12:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "link": "https://openai.com/index/radisson",
-    "published": "2026-10-07 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-    "link": "https://arxiv.org/abs/2610.06910",
-    "published": "2026-10-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-    "link": "https://arxiv.org/abs/2610.06914",
-    "published": "2026-10-07 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Connecting AI agents to enterprise knowledge",
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "published": "2026-10-05 15:47:52",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "published": "2026-10-05 13:29:32",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "The latest AI news we announced in September 2026",
