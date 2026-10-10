@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+    "published": "2026-10-10 15:07:54"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+    "published": "2026-10-10 14:16:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+    "published": "2026-10-10 12:30:39"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
     "published": "2026-10-09 20:31:37"
@@ -10,23 +28,5 @@
     "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
     "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
     "published": "2026-10-09 17:17:23"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-    "published": "2026-10-09 17:02:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-    "published": "2026-10-09 15:38:56"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How to keep AI agents within their permissions",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-    "published": "2026-10-09 14:01:11"
   }
 ]
