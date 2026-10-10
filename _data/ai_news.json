@@ -1,50 +1,50 @@
 [
   {
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "published": "2026-10-09 15:20:29",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "published": "2026-10-09 09:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "published": "2026-10-09 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "published": "2026-10-09 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+    "link": "https://arxiv.org/abs/2610.10541",
+    "published": "2026-10-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "link": "https://arxiv.org/abs/2610.10549",
+    "published": "2026-10-09 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "published": "2026-10-09 00:08:24",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "link": "https://openai.com/index/oracle",
-    "published": "2026-10-08 16:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "link": "https://openai.com/index/pollo-ai",
-    "published": "2026-10-08 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "AI breakthroughs in robotics won’t change your life any time soon",
-    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "published": "2026-10-08 09:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
-    "link": "https://arxiv.org/abs/2610.08793",
-    "published": "2026-10-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
-    "link": "https://arxiv.org/abs/2610.08808",
-    "published": "2026-10-08 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "The model that didn't exist, so you made it yourself",
     "link": "https://huggingface.co/blog/building-with-ml-intern",
     "published": "2026-10-08 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Multimodal open d1 decision models for the edge",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "published": "2026-10-07 16:54:33",
     "source": "Hugging Face Blog"
   },
   {
