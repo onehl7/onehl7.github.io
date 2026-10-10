@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them",
-    "link": "https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/",
-    "published": "2026-10-08 21:21:56"
+    "title": "Tuning a quantum computer: what a violin teaches us about qubit calibration",
+    "link": "https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/",
+    "published": "2026-10-09 18:46:22"
   },
   {
     "source": "The Quantum Insider",
-    "title": "DOE Announces Science Applications For Quantum Computing",
-    "link": "https://thequantuminsider.com/2026/10/08/doe-announces-science-applications-for-quantum-computing/",
-    "published": "2026-10-08 19:24:58"
+    "title": "Guest Post: Quantum Computing\u2019s Transistor Moment",
+    "link": "https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/",
+    "published": "2026-10-09 14:45:33"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers",
-    "link": "https://thequantuminsider.com/2026/10/08/oratomic-secures-775-million-fault-tolerant-quantum-computers/",
-    "published": "2026-10-08 17:45:00"
+    "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect",
+    "link": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/",
+    "published": "2026-10-09 13:20:20"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NTT DOCOMO BUSINESS and Classiq Partner on Enterprise Quantum Computing in Japan",
-    "link": "https://thequantuminsider.com/2026/10/08/ntt-docomo-business-classiq-quantum-computing-japan/",
-    "published": "2026-10-08 17:15:00"
+    "title": "Quantum X Labs Seeks Patent for Structured-Beam Atom Cooling System",
+    "link": "https://thequantuminsider.com/2026/10/09/quantum-x-labs-us-patent-application-cold-atom-technology/",
+    "published": "2026-10-09 13:05:36"
   },
   {
     "source": "The Quantum Insider",
-    "title": "NVIDIA Commits $1 Billion to U.S. Science and Quantum Computing",
-    "link": "https://thequantuminsider.com/2026/10/08/nvidia-commits-1-billion-advance-us-science-next-five-years/",
-    "published": "2026-10-08 16:33:17"
+    "title": "BTQ and MoonPay Korea Partner on Post-Quantum Stablecoin Security",
+    "link": "https://thequantuminsider.com/2026/10/09/btq-technologies-secure-moonpay-korea-stablecoin-infrastructure/",
+    "published": "2026-10-09 12:56:38"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A quantum prediction from 1931 just came to life",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+    "published": "2026-10-09 08:25:24"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
     "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
     "published": "2026-09-29 12:02:30"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-    "published": "2026-09-26 13:47:38"
   }
 ]
