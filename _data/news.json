@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+    "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+    "published": "2026-10-11 14:23:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
     "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
     "published": "2026-10-10 15:07:54"
@@ -22,11 +28,5 @@
     "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
     "published": "2026-10-09 20:31:37"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-    "published": "2026-10-09 17:17:23"
   }
 ]
