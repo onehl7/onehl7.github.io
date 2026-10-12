@@ -1,17 +1,5 @@
 [
   {
-    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "link": "https://arxiv.org/abs/2610.10541",
-    "published": "2026-10-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "link": "https://arxiv.org/abs/2610.10549",
-    "published": "2026-10-10 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Impactful scheduling for GPU clusters",
     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "published": "2026-10-09 15:20:29",
