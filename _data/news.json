@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+    "published": "2026-10-14 22:56:47"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+    "published": "2026-10-14 19:41:43"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+    "published": "2026-10-14 17:46:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+    "published": "2026-10-14 17:29:14"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft fixes VPN issues caused by September Windows updates",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
     "published": "2026-10-14 14:27:01"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-    "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-    "published": "2026-10-14 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Global takedown hits network behind 1 billion phishing messages",
-    "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-    "published": "2026-10-14 13:12:52"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-    "published": "2026-10-14 12:58:07"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hirudo Android malware replaces banking apps to evade security checks",
-    "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-    "published": "2026-10-14 11:41:20"
   }
 ]
