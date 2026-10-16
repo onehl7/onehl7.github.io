@@ -1,39 +1,39 @@
 [
   {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "published": "2026-10-14 16:12:42",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "published": "2026-10-16 01:44:47",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "published": "2026-10-14 12:00:00",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "published": "2026-10-15 20:34:01",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "published": "2026-10-15 19:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone",
-    "published": "2026-10-14 12:00:00",
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "published": "2026-10-15 13:00:00",
     "source": "OpenAI News"
   },
   {
     "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
     "link": "https://arxiv.org/abs/2610.14005",
-    "published": "2026-10-14 04:00:00",
+    "published": "2026-10-15 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "The Silent Failures in Agentic Data Science",
     "link": "https://arxiv.org/abs/2610.14115",
-    "published": "2026-10-14 04:00:00",
+    "published": "2026-10-15 04:00:00",
     "source": "arXiv AI"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "published": "2026-10-13 17:05:48",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
