@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+    "published": "2026-10-15 20:25:04"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Android gets AI defenses against messaging scams, fake calls",
+    "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+    "published": "2026-10-15 19:48:43"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+    "published": "2026-10-15 18:20:59"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Arch Linux packages push malware with root privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+    "published": "2026-10-15 17:12:31"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Is AI pentesting as good as a human pentester?",
     "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
     "published": "2026-10-15 14:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-    "published": "2026-10-15 13:18:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police arrests 95 suspects in international CSAM crackdown action",
-    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-    "published": "2026-10-15 11:55:38"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-    "published": "2026-10-15 09:10:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-    "published": "2026-10-15 08:06:47"
   }
 ]
