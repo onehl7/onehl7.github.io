@@ -1,39 +1,45 @@
 [
   {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "published": "2026-10-16 19:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "published": "2026-10-16 18:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "link": "https://arxiv.org/abs/2610.20665",
+    "published": "2026-10-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Evaluating Model Capabilities After Benchmark Saturation",
+    "link": "https://arxiv.org/abs/2610.20667",
+    "published": "2026-10-16 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "published": "2026-10-16 01:44:47",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "published": "2026-10-15 20:34:01",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "published": "2026-10-16 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "published": "2026-10-16 00:00:00",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "published": "2026-10-15 19:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "published": "2026-10-15 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-    "link": "https://arxiv.org/abs/2610.14005",
-    "published": "2026-10-15 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "The Silent Failures in Agentic Data Science",
-    "link": "https://arxiv.org/abs/2610.14115",
-    "published": "2026-10-15 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -45,12 +51,6 @@
     "title": "Open models have real benefits. Do they outweigh the risks?",
     "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "published": "2026-10-13 10:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "published": "2026-10-13 09:00:00",
     "source": "MIT Technology Review AI"
   },
   {
