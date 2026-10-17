@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "published": "2026-10-17 14:32:48"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
     "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
     "published": "2026-10-16 20:00:59"
@@ -22,11 +28,5 @@
     "title": "Burger King Japan data breach exposes 11 million customer records",
     "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
     "published": "2026-10-16 12:01:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: October Windows update may break Smart App Control",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-    "published": "2026-10-16 08:44:22"
   }
 ]
