@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+    "published": "2026-10-18 14:23:16"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
     "published": "2026-10-17 15:18:51"
@@ -22,11 +28,5 @@
     "title": "Targeted ads installed Candiru spyware in zero-click attacks",
     "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
     "published": "2026-10-16 17:20:03"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-    "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-    "published": "2026-10-16 13:50:59"
   }
 ]
