@@ -1,0 +1,54 @@
+{% assign topic = site.topics | where: "slug", page.category | first %}
+{% assign topic_posts = site.categories[page.category] %}
+
+<main class="topic-page">
+  <section class="topic-hero motion-in" style="--topic-image: url('{{ topic.image_url | relative_url }}');" aria-labelledby="topic-title">
+    <div class="topic-hero-content">
+      <p class="eyebrow">Explore the topic</p>
+      <h1 id="topic-title">{{ topic.emoji }} {{ topic.name }}</h1>
+      <p>{{ topic.description }}</p>
+      <a class="hero-link" href="#topic-posts">Browse articles <span aria-hidden="true">↓</span></a>
+    </div>
+  </section>
+
+  <section id="topic-posts" class="topic-content" aria-labelledby="topic-posts-heading">
+    <div class="section-heading">
+      <p class="eyebrow">{{ topic.name }} collection</p>
+      <h2 id="topic-posts-heading">Latest articles and updates</h2>
+    </div>
+
+    {% if topic_posts and topic_posts.size > 0 %}
+      {% assign featured_post = topic_posts | first %}
+      <article class="topic-feature">
+        {% if featured_post.image %}
+        <a class="topic-feature-image" href="{{ featured_post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+          <img src="{{ featured_post.image | relative_url }}" alt="" loading="lazy">
+        </a>
+        {% endif %}
+        <div class="topic-feature-copy">
+          <p class="post-meta">{{ featured_post.date | date: "%B %d, %Y" }}{% if featured_post.categories.size > 0 %} · {{ featured_post.categories | join: ", " }}{% endif %}</p>
+          <h3><a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a></h3>
+          <p>{{ featured_post.excerpt | strip_html | truncate: 220 }}</p>
+          <a class="text-link" href="{{ featured_post.url | relative_url }}">Read more <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      {% if topic_posts.size > 1 %}
+      <ul class="post-list topic-post-list">
+        {% for post in topic_posts offset:1 %}
+        <li class="post-list-item">
+          <div>
+            <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+          </div>
+          <a class="post-list-arrow" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title }}">→</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    {% else %}
+      <p class="empty-state">New articles for this topic are on the way.</p>
+    {% endif %}
+  </section>
+</main>

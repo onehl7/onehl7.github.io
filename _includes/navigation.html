@@ -22,9 +22,14 @@
         </div>
 
         <!-- Theme Toggle Button -->
-        <button id="theme-toggle" class="nav-link ml-4 p-2 rounded-md focus:outline-none" aria-label="Toggle Theme">
-          <span id="theme-toggle-dark-icon" class="hidden text-xl">🌙</span>
-          <span id="theme-toggle-light-icon" class="hidden text-xl">☀️</span>
+        <button id="theme-toggle" class="nav-link theme-toggle ml-4 p-2 rounded-md focus:outline-none" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+          <svg id="theme-toggle-dark-icon" class="hidden h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20.9 13A9 9 0 0 1 11 3.1 9 9 0 1 0 20.9 13Z" />
+          </svg>
+          <svg id="theme-toggle-light-icon" class="hidden h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4" />
+            <path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" />
+          </svg>
         </button>
 
         <!-- Mobile Menu Button -->
@@ -72,25 +77,21 @@
   const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   const initialTheme = storedTheme ? storedTheme : (systemPrefersDark ? 'dark' : 'light');
 
-  document.documentElement.setAttribute('data-theme', initialTheme);
-
-  if (initialTheme === 'dark') {
-      lightIcon.classList.remove('hidden');
-  } else {
-      darkIcon.classList.remove('hidden');
+  function updateThemeToggle(theme) {
+      const nextTheme = theme === 'dark' ? 'light' : 'dark';
+      themeToggleBtn.setAttribute('aria-label', `Switch to ${nextTheme} mode`);
+      themeToggleBtn.setAttribute('title', `Switch to ${nextTheme} mode`);
+      darkIcon.classList.toggle('hidden', nextTheme !== 'dark');
+      lightIcon.classList.toggle('hidden', nextTheme !== 'light');
   }
+
+  document.documentElement.setAttribute('data-theme', initialTheme);
+  updateThemeToggle(initialTheme);
 
   themeToggleBtn.addEventListener('click', function () {
       const nextTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
       document.documentElement.setAttribute('data-theme', nextTheme);
       localStorage.setItem('theme', nextTheme);
-
-      if (nextTheme === 'dark') {
-          lightIcon.classList.remove('hidden');
-          darkIcon.classList.add('hidden');
-      } else {
-          darkIcon.classList.remove('hidden');
-          lightIcon.classList.add('hidden');
-      }
+      updateThemeToggle(nextTheme);
   });
 </script>

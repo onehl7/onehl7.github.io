@@ -3,7 +3,6 @@ layout: post
 title: "Quantum Technology Readiness Levels (QTRL) — Where Are We Now?"
 date: 2025-08-14
 categories: [quantum]
-image: /assets/images/quantum.png
 ---
 
 In the technology world, we often use **Technology Readiness Levels (TRLs)**—a scale from 1 to 9 originally designed by NASA—to assess how mature a technology is, from the lab bench to full deployment.
