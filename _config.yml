@@ -19,15 +19,19 @@ topics:
     slug: quantum
     emoji: "🧬"
     image_url: "/assets/images/quantum.png"
+    description: "Explore quantum computing, networking, and the ideas reshaping how information is processed and shared."
   - name: Tech
     slug: tech
-    emoji: "💻"
+    emoji: "⚙️"
     image_url: "/assets/images/tech.png"
+    description: "Practical explorations of technology, infrastructure, and the systems shaping our connected world & universe."
   - name: AI
     slug: ai
     emoji: "🤖"
     image_url: "/assets/images/ai.png"
+    description: "Follow developments in artificial intelligence, from new research to the technologies changing everyday life."
   - name: Space
     slug: space
     emoji: "🚀"
     image_url: "/assets/images/space.png"
+    description: "Discover the missions, astronomy, and engineering expanding our understanding of the universe."
