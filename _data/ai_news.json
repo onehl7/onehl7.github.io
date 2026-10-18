@@ -1,5 +1,17 @@
 [
   {
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "link": "https://arxiv.org/abs/2610.20665",
+    "published": "2026-10-17 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Evaluating Model Capabilities After Benchmark Saturation",
+    "link": "https://arxiv.org/abs/2610.20667",
+    "published": "2026-10-17 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "How Itaú is building generative AI for its entire customer base",
     "link": "https://openai.com/index/itau-generative-ai",
     "published": "2026-10-16 19:00:00",
@@ -12,26 +24,14 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-    "link": "https://arxiv.org/abs/2610.20665",
-    "published": "2026-10-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Evaluating Model Capabilities After Benchmark Saturation",
-    "link": "https://arxiv.org/abs/2610.20667",
-    "published": "2026-10-16 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "published": "2026-10-16 01:44:47",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "published": "2026-10-16 00:00:00",
     "source": "OpenAI News"
   },
