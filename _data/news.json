@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-    "published": "2026-10-18 14:23:16"
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+    "published": "2026-10-19 17:27:15"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "published": "2026-10-17 15:18:51"
+    "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+    "published": "2026-10-19 14:55:23"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-    "published": "2026-10-17 14:32:48"
+    "title": "Inside the Underground Market for Know Your Client Services",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+    "published": "2026-10-19 14:00:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-    "published": "2026-10-16 20:00:59"
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+    "published": "2026-10-19 13:49:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-    "published": "2026-10-16 17:20:03"
+    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+    "published": "2026-10-19 12:44:44"
   }
 ]
