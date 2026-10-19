@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+    "published": "2026-10-18 13:37:21"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "Anthropic\u2019s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
     "link": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
@@ -52,11 +58,5 @@
     "title": "A quantum prediction from 1931 just came to life",
     "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
     "published": "2026-10-09 08:25:24"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-    "published": "2026-10-03 12:03:23"
   }
 ]
