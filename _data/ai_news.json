@@ -1,15 +1,33 @@
 [
   {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "published": "2026-10-19 18:22:47",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "published": "2026-10-19 17:45:55",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "published": "2026-10-19 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "published": "2026-10-19 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
     "title": "How Itaú is building generative AI for its entire customer base",
     "link": "https://openai.com/index/itau-generative-ai",
     "published": "2026-10-16 19:00:00",
     "source": "OpenAI News"
-  },
-  {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "published": "2026-10-16 18:00:00",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -18,28 +36,10 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "published": "2026-10-16 00:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "published": "2026-10-16 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "published": "2026-10-13 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "published": "2026-10-13 10:00:00",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Introducing Playground: Create and play custom games",
