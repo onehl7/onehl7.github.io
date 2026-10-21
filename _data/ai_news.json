@@ -1,39 +1,51 @@
 [
   {
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "published": "2026-10-19 18:22:47",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "published": "2026-10-19 17:45:55",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Advancing coding in low‑resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "published": "2026-10-19 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "published": "2026-10-19 00:00:00",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "published": "2026-10-20 18:17:47",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "published": "2026-10-16 19:00:00",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "published": "2026-10-20 16:09:19",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The new economics of enterprise AI",
+    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "published": "2026-10-20 15:20:25",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "published": "2026-10-20 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "published": "2026-10-20 10:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "published": "2026-10-16 01:44:47",
-    "source": "Hugging Face Blog"
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "link": "https://openai.com/index/terminal-x",
+    "published": "2026-10-20 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+    "link": "https://arxiv.org/abs/2610.23866",
+    "published": "2026-10-20 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+    "link": "https://arxiv.org/abs/2610.23921",
+    "published": "2026-10-20 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
