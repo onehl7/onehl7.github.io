@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+    "published": "2026-10-23 15:38:05"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "You gave your AI agent access, but who is giving it orders?",
+    "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+    "published": "2026-10-23 14:00:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "published": "2026-10-23 12:48:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Railway warns devs to rotate secrets after potential breach",
     "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
     "published": "2026-10-22 21:25:31"
@@ -10,23 +28,5 @@
     "title": "Capcom confirms data breach affecting 11.7 million accounts",
     "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
     "published": "2026-10-22 20:22:45"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-    "published": "2026-10-22 19:12:51"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "published": "2026-10-22 17:18:22"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-    "published": "2026-10-22 15:49:32"
   }
 ]
