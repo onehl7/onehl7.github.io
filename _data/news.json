@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+    "published": "2026-10-23 20:55:05"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "published": "2026-10-23 18:54:41"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+    "published": "2026-10-23 17:05:07"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Quest Diagnostics confirms data breach exposed patient records",
+    "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+    "published": "2026-10-23 16:40:07"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "PHP shares mitigation for new RCE vulnerability with no patch",
     "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
     "published": "2026-10-23 15:38:05"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "You gave your AI agent access, but who is giving it orders?",
-    "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-    "published": "2026-10-23 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "published": "2026-10-23 12:48:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Railway warns devs to rotate secrets after potential breach",
-    "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-    "published": "2026-10-22 21:25:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Capcom confirms data breach affecting 11.7 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-    "published": "2026-10-22 20:22:45"
   }
 ]
