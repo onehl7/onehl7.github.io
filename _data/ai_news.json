@@ -1,8 +1,38 @@
 [
   {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "published": "2026-10-22 22:24:34",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "published": "2026-10-23 17:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "published": "2026-10-23 16:15:50",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "published": "2026-10-23 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "link": "https://arxiv.org/abs/2610.30151",
+    "published": "2026-10-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+    "link": "https://arxiv.org/abs/2610.30157",
+    "published": "2026-10-23 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "published": "2026-10-23 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
@@ -12,40 +42,10 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Build more responsive apps with the Decisions API",
-    "link": "https://openai.com/index/decisions-api",
-    "published": "2026-10-22 19:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "The Foundations of Scalable AI",
     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "published": "2026-10-22 18:48:04",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "published": "2026-10-22 16:11:31",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "What FDE means at OpenAI",
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "published": "2026-10-22 06:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-    "link": "https://arxiv.org/abs/2610.28686",
-    "published": "2026-10-22 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-    "link": "https://arxiv.org/abs/2610.28698",
-    "published": "2026-10-22 04:00:00",
-    "source": "arXiv AI"
   },
   {
     "title": "Southeast Asia’s digital economy to hit $368 billion",
