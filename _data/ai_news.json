@@ -18,18 +18,6 @@
     "source": "OpenAI News"
   },
   {
-    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-    "link": "https://arxiv.org/abs/2610.30151",
-    "published": "2026-10-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-    "link": "https://arxiv.org/abs/2610.30157",
-    "published": "2026-10-23 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "published": "2026-10-23 00:00:00",
