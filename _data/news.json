@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "published": "2026-10-25 15:49:38"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
     "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
     "published": "2026-10-24 14:17:32"
@@ -22,11 +28,5 @@
     "title": "Microsoft: Windows Server 2016 reaches end of support in January",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
     "published": "2026-10-23 17:05:07"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Quest Diagnostics confirms data breach exposed patient records",
-    "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-    "published": "2026-10-23 16:40:07"
   }
 ]
