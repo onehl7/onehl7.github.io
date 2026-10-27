@@ -1,9 +1,45 @@
 [
   {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "published": "2026-10-23 17:00:00",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "published": "2026-10-26 22:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "published": "2026-10-26 17:45:43",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "published": "2026-10-26 16:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "published": "2026-10-26 14:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "published": "2026-10-26 09:01:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+    "link": "https://arxiv.org/abs/2610.31701",
+    "published": "2026-10-26 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+    "link": "https://arxiv.org/abs/2610.31789",
+    "published": "2026-10-26 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
@@ -12,39 +48,15 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Securing our frontier model training environment",
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "published": "2026-10-23 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "published": "2026-10-23 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "published": "2026-10-22 21:17:29",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "The Foundations of Scalable AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "published": "2026-10-22 18:48:04",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "published": "2026-10-21 04:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "published": "2026-10-13 16:00:00",
     "source": "Google AI Blog"
   }
 ]
