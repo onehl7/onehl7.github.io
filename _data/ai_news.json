@@ -1,9 +1,45 @@
 [
   {
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "link": "https://openai.com/index/greptile-code-review-codex-astra",
-    "published": "2026-10-26 22:00:00",
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "published": "2026-10-27 17:16:52",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "published": "2026-10-27 16:12:42",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai",
+    "published": "2026-10-27 15:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "published": "2026-10-27 11:19:18",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "published": "2026-10-27 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+    "link": "https://arxiv.org/abs/2610.33096",
+    "published": "2026-10-27 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+    "link": "https://arxiv.org/abs/2610.33097",
+    "published": "2026-10-27 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Will the real Anthropic please stand up",
@@ -16,42 +52,6 @@
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "2026-10-26 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "published": "2026-10-26 14:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "published": "2026-10-26 09:01:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-    "link": "https://arxiv.org/abs/2610.31701",
-    "published": "2026-10-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-    "link": "https://arxiv.org/abs/2610.31789",
-    "published": "2026-10-26 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "published": "2026-10-23 16:15:50",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "published": "2026-10-23 00:00:00",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Southeast Asia’s digital economy to hit $368 billion",
