@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+    "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+    "published": "2026-10-28 20:47:22"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Discord to let search engines index public server messages",
+    "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+    "published": "2026-10-28 18:44:16"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
     "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
     "published": "2026-10-28 16:45:47"
@@ -16,17 +28,5 @@
     "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
     "published": "2026-10-28 14:48:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-    "published": "2026-10-28 14:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-    "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-    "published": "2026-10-28 13:50:59"
   }
 ]
