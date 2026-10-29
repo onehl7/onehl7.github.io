@@ -1,51 +1,51 @@
 [
   {
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "published": "2026-10-28 20:32:02",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "published": "2026-10-28 14:58:17",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "published": "2026-10-28 13:15:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "published": "2026-10-28 12:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "published": "2026-10-28 10:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Counting the Bandages: On measuring the time that AI saves",
+    "link": "https://arxiv.org/abs/2610.35942",
+    "published": "2026-10-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+    "link": "https://arxiv.org/abs/2610.35984",
+    "published": "2026-10-28 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Build specialized multimodal models with LFM3",
     "link": "https://huggingface.co/blog/LiquidAI/lfm3",
     "published": "2026-10-27 17:16:52",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "published": "2026-10-27 16:12:42",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "link": "https://openai.com/index/retell-ai",
-    "published": "2026-10-27 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-    "published": "2026-10-27 11:19:18",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "published": "2026-10-27 07:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
-    "link": "https://arxiv.org/abs/2610.33096",
-    "published": "2026-10-27 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
-    "link": "https://arxiv.org/abs/2610.33097",
-    "published": "2026-10-27 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Will the real Anthropic please stand up",
-    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "published": "2026-10-26 17:45:43",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "Our newest AI Quest: Mapping the human brain",
