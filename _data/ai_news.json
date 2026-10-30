@@ -1,51 +1,51 @@
 [
   {
-    "title": "Creating AI value with enterprise context",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "published": "2026-10-28 20:32:02",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "published": "2026-10-28 14:58:17",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "published": "2026-10-28 13:15:00",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "link": "https://openai.com/index/updated-model-spec",
+    "published": "2026-10-29 17:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Pairing industrial AI autonomy and human control",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "published": "2026-10-28 12:00:00",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "published": "2026-10-29 13:37:07",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "published": "2026-10-29 10:11:12",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "The future of the firm",
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "published": "2026-10-28 10:00:00",
+    "title": "How we detect frontier model misalignment",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "published": "2026-10-29 09:00:00",
     "source": "OpenAI News"
   },
   {
     "title": "Counting the Bandages: On measuring the time that AI saves",
     "link": "https://arxiv.org/abs/2610.35942",
-    "published": "2026-10-28 04:00:00",
+    "published": "2026-10-29 04:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
     "link": "https://arxiv.org/abs/2610.35984",
-    "published": "2026-10-28 04:00:00",
+    "published": "2026-10-29 04:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "published": "2026-10-27 17:16:52",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "published": "2026-10-29 00:00:00",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "published": "2026-10-28 20:32:02",
+    "source": "MIT Technology Review AI"
   },
   {
     "title": "Our newest AI Quest: Mapping the human brain",
