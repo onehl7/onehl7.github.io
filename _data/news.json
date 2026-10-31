@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "published": "2026-10-31 15:35:11"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "published": "2026-10-31 14:05:15"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+    "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "published": "2026-10-31 13:10:19"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+    "published": "2026-10-31 12:50:09"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
     "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
     "published": "2026-10-30 21:09:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-    "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-    "published": "2026-10-30 15:58:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-    "published": "2026-10-30 14:36:54"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-    "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-    "published": "2026-10-30 14:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA says max severity GitLab flaw now exploited in the wild",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-    "published": "2026-10-30 13:00:32"
   }
 ]
