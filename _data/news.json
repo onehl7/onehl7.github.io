@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+    "published": "2026-10-30 21:09:46"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
     "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
     "published": "2026-10-30 15:58:20"
@@ -22,11 +28,5 @@
     "title": "CISA says max severity GitLab flaw now exploited in the wild",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
     "published": "2026-10-30 13:00:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft finally fixes VPN issues caused by September updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-    "published": "2026-10-30 11:20:26"
   }
 ]
