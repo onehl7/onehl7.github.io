@@ -1,9 +1,33 @@
 [
   {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec",
-    "published": "2026-10-29 17:00:00",
+    "title": "nemotron-halloween",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "published": "2026-10-30 17:57:24",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "published": "2026-10-30 09:30:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "published": "2026-10-30 09:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "link": "https://arxiv.org/abs/2610.37720",
+    "published": "2026-10-30 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "link": "https://arxiv.org/abs/2610.37731",
+    "published": "2026-10-30 04:00:00",
+    "source": "arXiv AI"
   },
   {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -16,30 +40,6 @@
     "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "published": "2026-10-29 10:11:12",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How we detect frontier model misalignment",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "published": "2026-10-29 09:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Counting the Bandages: On measuring the time that AI saves",
-    "link": "https://arxiv.org/abs/2610.35942",
-    "published": "2026-10-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-    "link": "https://arxiv.org/abs/2610.35984",
-    "published": "2026-10-29 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "published": "2026-10-29 00:00:00",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Creating AI value with enterprise context",
