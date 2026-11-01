@@ -1,5 +1,17 @@
 [
   {
+    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "link": "https://arxiv.org/abs/2610.37720",
+    "published": "2026-10-31 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "link": "https://arxiv.org/abs/2610.37731",
+    "published": "2026-10-31 04:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "published": "2026-10-30 17:57:24",
@@ -18,18 +30,6 @@
     "source": "OpenAI News"
   },
   {
-    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-    "link": "https://arxiv.org/abs/2610.37720",
-    "published": "2026-10-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-    "link": "https://arxiv.org/abs/2610.37731",
-    "published": "2026-10-30 04:00:00",
-    "source": "arXiv AI"
-  },
-  {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "published": "2026-10-29 13:37:07",
@@ -46,17 +46,5 @@
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "published": "2026-10-28 20:32:02",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "published": "2026-10-26 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "published": "2026-10-21 04:00:00",
-    "source": "Google AI Blog"
   }
 ]
