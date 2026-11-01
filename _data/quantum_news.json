@@ -1,6 +1,18 @@
 [
   {
     "source": "The Quantum Insider",
+    "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+    "link": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+    "published": "2026-10-31 08:00:00"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+    "published": "2026-10-31 02:09:38"
+  },
+  {
+    "source": "The Quantum Insider",
     "title": "Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act",
     "link": "https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/",
     "published": "2026-10-30 19:37:04"
@@ -22,12 +34,6 @@
     "title": "SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook",
     "link": "https://thequantuminsider.com/2026/10/30/suny-chancellor-stony-brook-research-visit/",
     "published": "2026-10-30 13:36:10"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum & AI Summit",
-    "link": "https://thequantuminsider.com/2026/10/30/speakers-point-to-risk-appetite-and-capital-as-uk-deep-tech-bottlenecks-at-city-quantum-ai-summit/",
-    "published": "2026-10-30 13:10:19"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Scientists reach the ultimate quantum limit on a surface",
     "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
     "published": "2026-10-20 03:02:41"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-    "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-    "published": "2026-10-18 13:37:21"
   }
 ]
