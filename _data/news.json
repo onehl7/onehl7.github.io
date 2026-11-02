@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "published": "2026-11-01 19:57:53"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
     "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
     "published": "2026-11-01 15:11:21"
@@ -22,11 +28,5 @@
     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
     "published": "2026-10-31 15:35:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Reddit to lock content behind logins to fight scrapers",
-    "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-    "published": "2026-10-31 14:05:15"
   }
 ]
