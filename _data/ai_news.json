@@ -1,21 +1,51 @@
 [
   {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "published": "2026-11-03 04:18:47",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "The latest AI news we announced in October 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "published": "2026-11-02 17:45:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "published": "2026-11-02 17:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "published": "2026-11-02 15:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "published": "2026-11-02 15:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+    "link": "https://arxiv.org/abs/2610.40758",
+    "published": "2026-11-02 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+    "link": "https://arxiv.org/abs/2610.40798",
+    "published": "2026-11-02 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "published": "2026-10-30 17:57:24",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "published": "2026-10-30 09:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "published": "2026-10-30 09:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -24,27 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "published": "2026-10-29 10:11:12",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Creating AI value with enterprise context",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "published": "2026-10-28 20:32:02",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Our newest AI Quest: Mapping the human brain",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "2026-10-26 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "published": "2026-10-21 04:00:00",
     "source": "Google AI Blog"
   }
 ]
