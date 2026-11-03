@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "published": "2026-11-02 21:40:14"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
     "published": "2026-11-02 19:00:45"
@@ -22,11 +28,5 @@
     "title": "Your Mobile Carrier Stores Your Call Logs for Years",
     "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
     "published": "2026-11-02 15:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers disrupt refrigeration systems at European supermarkets",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-    "published": "2026-11-02 14:28:39"
   }
 ]
