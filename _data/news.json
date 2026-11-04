@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+    "published": "2026-11-03 22:18:50"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+    "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+    "published": "2026-11-03 21:28:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+    "published": "2026-11-03 20:05:50"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
     "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
     "published": "2026-11-03 18:51:04"
@@ -10,23 +28,5 @@
     "title": "Barracuda warns of critical flaws allowing root access to devices",
     "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
     "published": "2026-11-03 15:06:16"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-    "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-    "published": "2026-11-03 15:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-    "published": "2026-11-03 14:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police seizes over 100 servers in investment scam crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-    "published": "2026-11-03 13:33:49"
   }
 ]
