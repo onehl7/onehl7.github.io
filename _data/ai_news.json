@@ -1,5 +1,47 @@
 [
   {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "published": "2026-11-03 17:15:21",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "published": "2026-11-03 16:35:36",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "published": "2026-11-03 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "published": "2026-11-03 10:43:41",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
+    "published": "2026-11-03 08:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+    "link": "https://arxiv.org/abs/2611.00159",
+    "published": "2026-11-03 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
+    "link": "https://arxiv.org/abs/2611.00165",
+    "published": "2026-11-03 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "published": "2026-11-03 04:18:47",
@@ -10,48 +52,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "published": "2026-11-02 17:45:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Raising the quality of insights in agentic analytics",
-    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "published": "2026-11-02 17:00:00",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Scaling Git at OpenAI",
-    "link": "https://openai.com/index/scaling-git-at-openai",
-    "published": "2026-11-02 15:30:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing the Grid Protectors Program",
-    "link": "https://openai.com/index/grid-protectors-program",
-    "published": "2026-11-02 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-    "link": "https://arxiv.org/abs/2610.40758",
-    "published": "2026-11-02 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-    "link": "https://arxiv.org/abs/2610.40798",
-    "published": "2026-11-02 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "nemotron-halloween",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "published": "2026-10-30 17:57:24",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "published": "2026-10-29 13:37:07",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Our newest AI Quest: Mapping the human brain",
