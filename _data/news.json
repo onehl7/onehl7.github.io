@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Vercel rolls out new protection against stolen session cookie attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+    "published": "2026-11-04 21:31:18"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+    "published": "2026-11-04 20:58:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
     "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
     "published": "2026-11-04 19:05:19"
@@ -16,17 +28,5 @@
     "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
     "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
     "published": "2026-11-04 16:58:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "mSecure password manager hack prompts password reset warnings",
-    "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-    "published": "2026-11-04 16:00:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-    "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-    "published": "2026-11-04 15:00:10"
   }
 ]
