@@ -1,51 +1,51 @@
 [
   {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "published": "2026-11-04 18:50:55",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "published": "2026-11-04 17:50:10",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "published": "2026-11-04 14:30:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "published": "2026-11-04 13:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "published": "2026-11-04 07:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Alignment Faking Depends on the Value, Not Just the Model",
+    "link": "https://arxiv.org/abs/2611.03650",
+    "published": "2026-11-04 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+    "link": "https://arxiv.org/abs/2611.03651",
+    "published": "2026-11-04 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "StateBench: Testing how language models track state changes over long documents",
     "link": "https://huggingface.co/blog/allenai/statebench",
     "published": "2026-11-03 17:15:21",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "published": "2026-11-03 16:35:36",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Accelerating engineering for the physical world",
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "published": "2026-11-03 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "published": "2026-11-03 10:43:41",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "link": "https://openai.com/index/cisco-cyber",
-    "published": "2026-11-03 08:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
-    "link": "https://arxiv.org/abs/2611.00159",
-    "published": "2026-11-03 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
-    "link": "https://arxiv.org/abs/2611.00165",
-    "published": "2026-11-03 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "published": "2026-11-03 04:18:47",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "The latest AI news we announced in October 2026",
