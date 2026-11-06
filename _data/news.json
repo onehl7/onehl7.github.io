@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "published": "2026-11-06 00:56:44"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+    "published": "2026-11-05 21:30:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+    "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+    "published": "2026-11-05 20:15:08"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks",
     "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
     "published": "2026-11-05 19:24:26"
@@ -10,23 +28,5 @@
     "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
     "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
     "published": "2026-11-05 17:45:29"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-    "published": "2026-11-05 16:24:26"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DigiCert data breach exposes customer information, identity documents",
-    "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-    "published": "2026-11-05 16:12:46"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Closing the Identity Gap at the Service Desk",
-    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-    "published": "2026-11-05 15:00:10"
   }
 ]
