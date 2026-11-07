@@ -1,21 +1,45 @@
 [
   {
-    "title": "Cult.fit builds operational muscle with Codex",
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "published": "2026-11-05 20:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "published": "2026-11-05 19:35:16",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "published": "2026-11-06 14:00:48",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Australian universities are creating AI-native graduates",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "published": "2026-11-05 17:00:00",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "published": "2026-11-06 10:00:00",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "published": "2026-11-06 08:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+    "link": "https://arxiv.org/abs/2611.06962",
+    "published": "2026-11-06 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "link": "https://arxiv.org/abs/2611.06972",
+    "published": "2026-11-06 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "published": "2026-11-06 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "published": "2026-11-06 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -24,33 +48,9 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-    "link": "https://arxiv.org/abs/2611.05390",
-    "published": "2026-11-05 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-    "link": "https://arxiv.org/abs/2611.05391",
-    "published": "2026-11-05 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "published": "2026-11-05 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
     "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "published": "2026-11-04 18:50:55",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Securing the agentic enterprise with data lineage",
-    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "published": "2026-11-04 13:00:00",
     "source": "MIT Technology Review AI"
   },
   {
