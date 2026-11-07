@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "published": "2026-11-07 00:00:55"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+    "published": "2026-11-06 22:27:25"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "published": "2026-11-06 20:24:19"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake security tools on GitHub push backdoors and infostealers",
     "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
     "published": "2026-11-06 18:46:52"
@@ -10,23 +28,5 @@
     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
     "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
     "published": "2026-11-06 17:04:23"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-    "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-    "published": "2026-11-06 15:25:31"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-    "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-    "published": "2026-11-06 15:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chainalysis says breach exposed credentials for all customers",
-    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-    "published": "2026-11-06 14:17:07"
   }
 ]
