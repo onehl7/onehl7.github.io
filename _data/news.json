@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+    "published": "2026-11-08 15:43:08"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers pull off $133 million French bank heist via service provider",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
     "published": "2026-11-07 15:25:35"
@@ -22,11 +28,5 @@
     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
     "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
     "published": "2026-11-06 22:27:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-    "published": "2026-11-06 20:24:19"
   }
 ]
