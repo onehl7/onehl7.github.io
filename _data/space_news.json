@@ -1,6 +1,24 @@
 [
   {
     "source": "NASA",
+    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+    "published": "2026-11-07 22:47:03"
+  },
+  {
+    "source": "NASA",
+    "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "published": "2026-11-07 18:11:57"
+  },
+  {
+    "source": "NASA",
+    "title": "APOD: 2026 November 7 \u2013 De Gerlache-Kocher Massif",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+    "published": "2026-11-07 05:05:00"
+  },
+  {
+    "source": "NASA",
     "title": "M30\u2019s Sparkling Stars",
     "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
     "published": "2026-11-06 16:23:41"
@@ -10,23 +28,5 @@
     "title": "Supercomputing Tech Demo Schedule",
     "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
     "published": "2026-11-06 16:03:52"
-  },
-  {
-    "source": "NASA",
-    "title": "APOD: 2026 November 6 \u2013 A Farewell to Swift",
-    "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-    "published": "2026-11-06 05:05:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Taking a Gander at Utah\u2019s Goosenecks",
-    "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-    "published": "2026-11-06 05:01:00"
-  },
-  {
-    "source": "NASA",
-    "title": "Midwestern City Lights",
-    "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-    "published": "2026-11-05 15:17:19"
   }
 ]
