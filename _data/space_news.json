@@ -1,6 +1,18 @@
 [
   {
     "source": "NASA",
+    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+    "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+    "published": "2026-11-08 15:26:38"
+  },
+  {
+    "source": "NASA",
+    "title": "APOD: 2026 November 8 \u2013 Major Fireball Meteor",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+    "published": "2026-11-08 05:05:00"
+  },
+  {
+    "source": "NASA",
     "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
     "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
     "published": "2026-11-07 22:47:03"
@@ -16,17 +28,5 @@
     "title": "APOD: 2026 November 7 \u2013 De Gerlache-Kocher Massif",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
     "published": "2026-11-07 05:05:00"
-  },
-  {
-    "source": "NASA",
-    "title": "M30\u2019s Sparkling Stars",
-    "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-    "published": "2026-11-06 16:23:41"
-  },
-  {
-    "source": "NASA",
-    "title": "Supercomputing Tech Demo Schedule",
-    "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-    "published": "2026-11-06 16:03:52"
   }
 ]
