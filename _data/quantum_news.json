@@ -1,5 +1,11 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+    "published": "2026-11-07 23:34:19"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
     "link": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
@@ -52,11 +58,5 @@
     "title": "Tiny magnetic vortices could help computers work more like your brain",
     "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
     "published": "2026-10-26 10:06:16"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A tiny defect in a crystal reveals a big quantum surprise",
-    "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
-    "published": "2026-10-23 10:22:55"
   }
 ]
