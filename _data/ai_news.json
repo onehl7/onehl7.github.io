@@ -1,32 +1,50 @@
 [
   {
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "published": "2026-11-06 14:00:48",
-    "source": "Hugging Face Blog"
+    "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+    "link": "https://arxiv.org/abs/2611.08572",
+    "published": "2026-11-10 05:00:00",
+    "source": "arXiv AI"
   },
   {
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "published": "2026-11-06 10:00:00",
+    "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+    "link": "https://arxiv.org/abs/2611.08613",
+    "published": "2026-11-10 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "published": "2026-11-09 19:35:33",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "published": "2026-11-06 08:00:00",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "published": "2026-11-09 19:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "published": "2026-11-06 00:00:00",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "published": "2026-11-09 17:05:43",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "published": "2026-11-09 15:05:57",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "published": "2026-11-09 13:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "published": "2026-11-06 00:00:00",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "published": "2026-11-09 12:34:29",
     "source": "Hugging Face Blog"
   },
   {
@@ -34,12 +52,6 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "published": "2026-11-05 17:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "published": "2026-11-04 18:50:55",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "The latest AI news we announced in October 2026",
