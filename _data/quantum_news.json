@@ -1,39 +1,45 @@
 [
   {
+    "source": "The Quantum Insider",
+    "title": "Diraq Deploys Silicon Spin Quantum Computer Inside a Commercial Data Center",
+    "link": "https://thequantuminsider.com/2026/11/09/diraq-deploys-silicon-spin-quantum-computer-inside-a-commercial-data-center/",
+    "published": "2026-11-09 19:52:56"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "IonQ and Carahsoft Partner to Bring Quantum Solutions to the Public Sector",
+    "link": "https://thequantuminsider.com/2026/11/09/ionq-carahsoft-quantum-technologies-government/",
+    "published": "2026-11-09 17:46:06"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "PQSecure Technologies Partners with Carahsoft to Distribute PQC Solutions",
+    "link": "https://thequantuminsider.com/2026/11/09/pqsecure-technologies-carahsoft-pqc-partnership/",
+    "published": "2026-11-09 16:25:39"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Q.ANT and IONOS Launch Pilot for Photonic Computing",
+    "link": "https://thequantuminsider.com/2026/11/09/qant-photonic-processors-ionos-cloud-infrastructure/",
+    "published": "2026-11-09 16:19:31"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "UKRI: How the UK built a quantum technology nation",
+    "link": "https://thequantuminsider.com/2026/11/09/ukri-how-the-uk-built-a-quantum-technology-nation/",
+    "published": "2026-11-09 15:46:52"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+    "published": "2026-11-09 11:19:39"
+  },
+  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
     "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
     "published": "2026-11-07 23:34:19"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
-    "link": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
-    "published": "2026-11-06 21:28:02"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "University of Cambridge Joins UK Quantum Commercialisation Initiative",
-    "link": "https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/",
-    "published": "2026-11-06 18:53:02"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
-    "link": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
-    "published": "2026-11-06 18:36:58"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "ITIC Develops Taiwan-UK Partnership to Support Deep Tech Businesses",
-    "link": "https://thequantuminsider.com/2026/11/06/itic-taiwan-uk-deep-tech-investment-commercialisation/",
-    "published": "2026-11-06 18:26:33"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Quantum SuperConnector to Accelerate Commercial Success of UK quantum Research",
-    "link": "https://thequantuminsider.com/2026/11/06/uk-universities-quantum-commercialisation-programme/",
-    "published": "2026-11-06 16:52:13"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "Scientists just broke a textbook rule of physics",
     "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
     "published": "2026-10-29 03:39:27"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Tiny magnetic vortices could help computers work more like your brain",
-    "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-    "published": "2026-10-26 10:06:16"
   }
 ]
