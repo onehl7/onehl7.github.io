@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+    "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+    "published": "2026-11-09 23:52:12"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+    "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+    "published": "2026-11-09 22:09:33"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
     "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
     "published": "2026-11-09 21:26:25"
@@ -16,17 +28,5 @@
     "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
     "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
     "published": "2026-11-09 18:32:42"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-    "published": "2026-11-09 17:50:32"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Binance denies data breach after alleged ShinyHunters claims",
-    "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-    "published": "2026-11-09 16:12:39"
   }
 ]
