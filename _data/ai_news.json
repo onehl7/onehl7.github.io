@@ -1,15 +1,51 @@
 [
   {
-    "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-    "link": "https://arxiv.org/abs/2611.08572",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "published": "2026-11-12 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "published": "2026-11-10 19:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "published": "2026-11-10 14:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "published": "2026-11-10 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+    "link": "https://arxiv.org/abs/2611.10045",
     "published": "2026-11-10 05:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-    "link": "https://arxiv.org/abs/2611.08613",
+    "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+    "link": "https://arxiv.org/abs/2611.10048",
     "published": "2026-11-10 05:00:00",
     "source": "arXiv AI"
+  },
+  {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "published": "2026-11-10 00:00:00",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Decision Models in Hugging Face",
+    "link": "https://huggingface.co/blog/decision",
+    "published": "2026-11-10 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "The backlash about data centers might really just be about electricity",
@@ -18,45 +54,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "published": "2026-11-09 19:00:00",
-    "source": "OpenAI News"
-  },
-  {
     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
     "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "published": "2026-11-09 17:05:43",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "published": "2026-11-09 15:05:57",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "link": "https://openai.com/index/control-room",
-    "published": "2026-11-09 13:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "published": "2026-11-09 12:34:29",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "published": "2026-11-05 17:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The latest AI news we announced in October 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "published": "2026-11-02 17:45:00",
-    "source": "Google AI Blog"
   }
 ]
