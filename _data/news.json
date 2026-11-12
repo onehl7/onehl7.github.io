@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Baker Tilly notifies clients of data breach at third-party provider",
+    "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+    "published": "2026-11-11 23:01:31"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+    "published": "2026-11-11 22:56:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+    "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+    "published": "2026-11-11 21:27:40"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+    "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+    "published": "2026-11-11 20:54:20"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
     "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
     "published": "2026-11-11 16:24:18"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-    "published": "2026-11-11 15:12:59"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-    "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-    "published": "2026-11-11 15:01:11"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-    "published": "2026-11-11 12:32:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes audio issues caused by September security updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-    "published": "2026-11-11 11:18:36"
   }
 ]
