@@ -6,45 +6,33 @@
     "source": "OpenAI News"
   },
   {
-    "title": "Gemini Intelligence: New features, on more devices",
-    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "published": "2026-11-10 19:00:00",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "published": "2026-11-11 18:00:00",
     "source": "Google AI Blog"
   },
   {
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "published": "2026-11-10 14:00:00",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "published": "2026-11-11 16:00:00",
     "source": "Google AI Blog"
   },
   {
-    "title": "Helping caregivers use AI in everyday life",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "published": "2026-11-10 12:00:00",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "published": "2026-11-11 08:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-    "link": "https://arxiv.org/abs/2611.10045",
-    "published": "2026-11-10 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
-    "link": "https://arxiv.org/abs/2611.10048",
-    "published": "2026-11-10 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "published": "2026-11-10 00:00:00",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "published": "2026-11-11 05:01:16",
     "source": "Hugging Face Blog"
   },
   {
-    "title": "Decision Models in Hugging Face",
-    "link": "https://huggingface.co/blog/decision",
-    "published": "2026-11-10 00:00:00",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "published": "2026-11-11 00:00:00",
     "source": "Hugging Face Blog"
   },
   {
