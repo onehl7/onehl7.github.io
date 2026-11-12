@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Baker Tilly notifies clients of data breach at third-party provider",
-    "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-    "published": "2026-11-11 23:01:31"
+    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+    "published": "2026-11-12 19:12:55"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-    "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-    "published": "2026-11-11 22:56:21"
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+    "published": "2026-11-12 16:04:00"
   },
   {
     "source": "Bleeping Computer",
-    "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-    "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-    "published": "2026-11-11 21:27:40"
+    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+    "published": "2026-11-12 15:07:20"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-    "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-    "published": "2026-11-11 20:54:20"
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+    "published": "2026-11-12 15:00:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-    "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-    "published": "2026-11-11 16:24:18"
+    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+    "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+    "published": "2026-11-12 14:36:47"
   }
 ]
