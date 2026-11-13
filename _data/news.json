@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-    "published": "2026-11-12 22:53:10"
+    "title": "German military drone operations disrupted by cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+    "published": "2026-11-13 17:31:56"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-    "published": "2026-11-12 22:25:30"
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+    "published": "2026-11-13 16:21:43"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-    "published": "2026-11-12 20:15:16"
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+    "published": "2026-11-13 15:01:11"
   },
   {
     "source": "Bleeping Computer",
-    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-    "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-    "published": "2026-11-12 19:51:16"
+    "title": "Microsoft says November security updates cause printing issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+    "published": "2026-11-13 12:27:40"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-    "published": "2026-11-12 19:12:55"
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "published": "2026-11-13 10:44:22"
   }
 ]
