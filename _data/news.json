@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+    "published": "2026-11-12 22:53:10"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+    "published": "2026-11-12 22:25:30"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+    "published": "2026-11-12 20:15:16"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "published": "2026-11-12 19:51:16"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
     "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
     "published": "2026-11-12 19:12:55"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-    "published": "2026-11-12 16:04:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-    "published": "2026-11-12 15:07:20"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-    "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-    "published": "2026-11-12 15:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-    "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-    "published": "2026-11-12 14:36:47"
   }
 ]
