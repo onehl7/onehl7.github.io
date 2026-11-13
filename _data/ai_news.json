@@ -1,9 +1,39 @@
 [
   {
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "published": "2026-11-12 00:00:00",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "published": "2026-11-12 20:16:24",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "published": "2026-11-12 20:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "published": "2026-11-12 19:07:35",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "published": "2026-11-12 18:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "published": "2026-11-12 12:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "published": "2026-11-12 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -12,39 +42,9 @@
     "source": "Google AI Blog"
   },
   {
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "published": "2026-11-11 16:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "published": "2026-11-11 08:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "published": "2026-11-11 05:01:16",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "published": "2026-11-11 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "The backlash about data centers might really just be about electricity",
     "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "published": "2026-11-09 19:35:33",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "published": "2026-11-09 17:05:43",
     "source": "MIT Technology Review AI"
   }
 ]
