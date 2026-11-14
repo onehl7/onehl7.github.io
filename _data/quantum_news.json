@@ -1,33 +1,51 @@
 [
   {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+    "published": "2026-11-14 01:13:05"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+    "link": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+    "published": "2026-11-13 18:36:11"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+    "link": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+    "published": "2026-11-13 16:17:23"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Classical Light Dynamics Could Help Simulate Quantum Interactions",
+    "link": "https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/",
+    "published": "2026-11-13 09:01:36"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "University at Buffalo Study Decodes Quantum Material\u2019s \u2018Optical Fingerprints\u2019",
+    "link": "https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/",
+    "published": "2026-11-13 08:48:53"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+    "published": "2026-11-13 05:26:41"
+  },
+  {
     "source": "The Quantum Insider",
     "title": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
     "link": "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/",
     "published": "2026-11-13 02:40:00"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "Train the Trainer: Inside MAHE\u2019s Hardware-First Bet on Quantum",
-    "link": "https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/",
-    "published": "2026-11-12 17:51:35"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing",
-    "link": "https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/",
-    "published": "2026-11-12 16:19:28"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
-    "link": "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/",
-    "published": "2026-11-12 16:04:33"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
-    "link": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
-    "published": "2026-11-12 15:54:57"
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+    "published": "2026-11-13 01:40:17"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -37,26 +55,8 @@
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
-    "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-    "published": "2026-11-09 11:19:39"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
     "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
     "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
     "published": "2026-11-07 23:34:19"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-    "published": "2026-11-04 10:43:44"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-    "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-    "published": "2026-10-31 02:09:38"
   }
 ]
