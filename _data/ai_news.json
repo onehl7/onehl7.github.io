@@ -1,39 +1,51 @@
 [
   {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "published": "2026-11-13 18:00:39",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "published": "2026-11-13 17:02:35",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "published": "2026-11-13 15:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "published": "2026-11-13 08:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+    "link": "https://arxiv.org/abs/2611.14544",
+    "published": "2026-11-13 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+    "link": "https://arxiv.org/abs/2611.14654",
+    "published": "2026-11-13 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
     "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "published": "2026-11-12 20:16:24",
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "link": "https://openai.com/business/customer-stories/amplitude",
-    "published": "2026-11-12 20:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "published": "2026-11-12 19:07:35",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "published": "2026-11-12 18:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "published": "2026-11-12 12:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "published": "2026-11-12 00:00:00",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
