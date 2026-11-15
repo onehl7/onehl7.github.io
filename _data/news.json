@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "published": "2026-11-15 18:29:53"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TSMC employee data breach linked to cloud provider",
+    "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+    "published": "2026-11-15 15:23:48"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cursor confirms security breach led to malicious Claude Code extension",
     "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
     "published": "2026-11-14 17:27:25"
@@ -16,17 +28,5 @@
     "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
     "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
     "published": "2026-11-13 19:38:36"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "German military drone operations disrupted by cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-    "published": "2026-11-13 17:31:56"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-    "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-    "published": "2026-11-13 16:21:43"
   }
 ]
