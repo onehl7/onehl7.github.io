@@ -1,5 +1,17 @@
 [
   {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "published": "2026-11-15 22:00:01",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Our new blog for science",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "published": "2026-11-15 22:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "published": "2026-11-13 18:00:39",
@@ -10,18 +22,6 @@
     "link": "https://huggingface.co/blog/allenai/xybench",
     "published": "2026-11-13 17:02:35",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Introducing ChatGPT Wallet",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "published": "2026-11-13 15:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "published": "2026-11-13 08:00:00",
-    "source": "OpenAI News"
   },
   {
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
