@@ -1,15 +1,51 @@
 [
   {
-    "title": "A step toward defining the Standard Model on a lattice",
-    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "published": "2026-11-15 22:00:01",
+    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "link": "https://arxiv.org/abs/2611.17338",
+    "published": "2026-11-17 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+    "link": "https://arxiv.org/abs/2611.17339",
+    "published": "2026-11-17 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "published": "2026-11-16 18:38:47",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "published": "2026-11-16 17:00:00",
     "source": "OpenAI News"
   },
   {
-    "title": "Our new blog for science",
-    "link": "https://openai.com/index/our-new-blog-for-science",
-    "published": "2026-11-15 22:00:00",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "published": "2026-11-16 17:00:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "published": "2026-11-16 16:04:28",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "published": "2026-11-16 14:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "link": "https://huggingface.co/blog/openrouter",
+    "published": "2026-11-16 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -18,33 +54,9 @@
     "source": "Hugging Face Blog"
   },
   {
-    "title": "XYBench: Helping with the problem behind the question",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "published": "2026-11-13 17:02:35",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "published": "2026-11-12 20:16:24",
-    "source": "MIT Technology Review AI"
-  },
-  {
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "published": "2026-11-12 18:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "published": "2026-11-11 18:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The backlash about data centers might really just be about electricity",
-    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "published": "2026-11-09 19:35:33",
-    "source": "MIT Technology Review AI"
   }
 ]
