@@ -1,45 +1,51 @@
 [
   {
+    "source": "The Quantum Insider",
+    "title": "GenQ Emerges From Stealth to Commercialize Quantum Measurement Technology",
+    "link": "https://thequantuminsider.com/2026/11/16/genq-emerges-from-stealth-to-commercialize-quantum-measurement-technology/",
+    "published": "2026-11-16 20:48:53"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "From First-Timers to PhDs: 1,000+ Builders Take on Quantum at the Qollab \u00d7 IonQ Hackathon",
+    "link": "https://thequantuminsider.com/2026/11/16/from-first-timers-to-phds-1000-builders-take-on-quantum-at-the-qollab-x-ionq-hackathon/",
+    "published": "2026-11-16 18:21:45"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+    "link": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+    "published": "2026-11-16 18:02:01"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+    "link": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+    "published": "2026-11-16 17:33:34"
+  },
+  {
+    "source": "The Quantum Insider",
+    "title": "IQM Supports NVIDIA\u2019s Work to Make Quantum Computers Schedulable in Slurm",
+    "link": "https://thequantuminsider.com/2026/11/16/iqm-quantum-computers-slurm-integration/",
+    "published": "2026-11-16 16:30:50"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+    "published": "2026-11-16 02:56:02"
+  },
+  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Scientists capture electrons making seemingly impossible quantum jumps",
     "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
     "published": "2026-11-14 01:13:05"
   },
   {
-    "source": "The Quantum Insider",
-    "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
-    "link": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
-    "published": "2026-11-13 18:36:11"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
-    "link": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
-    "published": "2026-11-13 16:17:23"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "Classical Light Dynamics Could Help Simulate Quantum Interactions",
-    "link": "https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/",
-    "published": "2026-11-13 09:01:36"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "University at Buffalo Study Decodes Quantum Material\u2019s \u2018Optical Fingerprints\u2019",
-    "link": "https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/",
-    "published": "2026-11-13 08:48:53"
-  },
-  {
     "source": "ScienceDaily (Quantum Computing)",
     "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
     "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
     "published": "2026-11-13 05:26:41"
-  },
-  {
-    "source": "The Quantum Insider",
-    "title": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
-    "link": "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/",
-    "published": "2026-11-13 02:40:00"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "A massive new simulation reveals how the universe emerged from darkness",
     "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
     "published": "2026-11-12 04:07:24"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-    "published": "2026-11-07 23:34:19"
   }
 ]
