@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "published": "2026-11-17 02:12:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "published": "2026-11-16 22:54:00"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
     "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
     "published": "2026-11-16 21:31:44"
@@ -16,17 +28,5 @@
     "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
     "published": "2026-11-16 19:57:13"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-    "published": "2026-11-16 16:43:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fandango says hackers stole payment card details from checkout pages",
-    "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-    "published": "2026-11-16 15:44:21"
   }
 ]
