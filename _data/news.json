@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+    "published": "2026-11-17 23:04:21"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+    "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+    "published": "2026-11-17 21:27:17"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+    "published": "2026-11-17 20:51:21"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
     "published": "2026-11-17 19:24:07"
@@ -10,23 +28,5 @@
     "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
     "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
     "published": "2026-11-17 18:21:24"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Tor releases emergency update amid ongoing DDoS attack",
-    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-    "published": "2026-11-17 18:04:15"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
-    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-    "published": "2026-11-17 16:00:00"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-    "published": "2026-11-17 15:01:11"
   }
 ]
