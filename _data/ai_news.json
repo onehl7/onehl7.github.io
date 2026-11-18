@@ -1,38 +1,44 @@
 [
   {
-    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-    "link": "https://arxiv.org/abs/2611.17338",
-    "published": "2026-11-17 05:00:00",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21682",
+    "published": "2026-11-18 05:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-    "link": "https://arxiv.org/abs/2611.17339",
-    "published": "2026-11-17 05:00:00",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "link": "https://arxiv.org/abs/2611.21799",
+    "published": "2026-11-18 05:00:00",
     "source": "arXiv AI"
+  },
+  {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "published": "2026-11-17 17:45:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Put Gemini to work for you",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "published": "2026-11-17 17:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Research Reports",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "published": "2026-11-17 14:39:46",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "published": "2026-11-17 00:00:00",
+    "source": "OpenAI News"
   },
   {
     "title": "The open-source movement wants Jensen Huang back",
     "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
     "published": "2026-11-16 18:38:47",
-    "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "Broadening access to AI for scientists",
-    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "published": "2026-11-16 17:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "link": "https://openai.com/index/strengthening-online-child-safety",
-    "published": "2026-11-16 17:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "published": "2026-11-16 16:04:28",
     "source": "MIT Technology Review AI"
   },
   {
@@ -52,11 +58,5 @@
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "published": "2026-11-13 18:00:39",
     "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "published": "2026-11-12 18:00:00",
-    "source": "Google AI Blog"
   }
 ]
