@@ -1,33 +1,39 @@
 [
   {
     "source": "The Quantum Insider",
-    "title": "GenQ Emerges From Stealth to Commercialize Quantum Measurement Technology",
-    "link": "https://thequantuminsider.com/2026/11/16/genq-emerges-from-stealth-to-commercialize-quantum-measurement-technology/",
-    "published": "2026-11-16 20:48:53"
+    "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
+    "link": "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/",
+    "published": "2026-11-17 19:34:26"
   },
   {
     "source": "The Quantum Insider",
-    "title": "From First-Timers to PhDs: 1,000+ Builders Take on Quantum at the Qollab \u00d7 IonQ Hackathon",
-    "link": "https://thequantuminsider.com/2026/11/16/from-first-timers-to-phds-1000-builders-take-on-quantum-at-the-qollab-x-ionq-hackathon/",
-    "published": "2026-11-16 18:21:45"
+    "title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+    "link": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+    "published": "2026-11-17 17:47:39"
   },
   {
     "source": "The Quantum Insider",
-    "title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
-    "link": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
-    "published": "2026-11-16 18:02:01"
+    "title": "SAXON Q Announces \u2018Quantum Watchdog,\u2019 to Detect When Quantum Computers Fail",
+    "link": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+    "published": "2026-11-17 15:40:15"
   },
   {
     "source": "The Quantum Insider",
-    "title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
-    "link": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
-    "published": "2026-11-16 17:33:34"
+    "title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+    "link": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+    "published": "2026-11-17 15:02:20"
   },
   {
     "source": "The Quantum Insider",
-    "title": "IQM Supports NVIDIA\u2019s Work to Make Quantum Computers Schedulable in Slurm",
-    "link": "https://thequantuminsider.com/2026/11/16/iqm-quantum-computers-slurm-integration/",
-    "published": "2026-11-16 16:30:50"
+    "title": "Classiq Powers Award-Winning Quantum Application Development at Japan\u2019s NEDO Challenge",
+    "link": "https://thequantuminsider.com/2026/11/17/classiq-shionogi-kddi-softbank-research-projects-nedo-awards/",
+    "published": "2026-11-17 13:04:49"
+  },
+  {
+    "source": "ScienceDaily (Quantum Computing)",
+    "title": "A material just one atom thick reveals a strange quantum secret",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+    "published": "2026-11-17 01:25:39"
   },
   {
     "source": "ScienceDaily (Quantum Computing)",
@@ -52,11 +58,5 @@
     "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
     "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
     "published": "2026-11-13 01:40:17"
-  },
-  {
-    "source": "ScienceDaily (Quantum Computing)",
-    "title": "A massive new simulation reveals how the universe emerged from darkness",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-    "published": "2026-11-12 04:07:24"
   }
 ]
