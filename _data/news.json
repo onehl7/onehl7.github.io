@@ -1,6 +1,18 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+    "published": "2026-11-18 23:08:33"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+    "published": "2026-11-18 20:49:32"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
     "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
     "published": "2026-11-18 19:39:33"
@@ -16,17 +28,5 @@
     "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
     "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
     "published": "2026-11-18 15:00:10"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-    "published": "2026-11-18 11:50:25"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-    "published": "2026-11-18 10:35:05"
   }
 ]
