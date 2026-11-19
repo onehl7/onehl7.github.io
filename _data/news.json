@@ -1,32 +1,32 @@
 [
   {
     "source": "Bleeping Computer",
-    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-    "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-    "published": "2026-11-18 23:08:33"
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+    "published": "2026-11-19 18:20:01"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-    "published": "2026-11-18 20:49:32"
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "published": "2026-11-19 16:28:23"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-    "published": "2026-11-18 19:39:33"
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "published": "2026-11-19 15:00:10"
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-    "published": "2026-11-18 16:58:42"
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+    "published": "2026-11-19 14:57:24"
   },
   {
     "source": "Bleeping Computer",
-    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-    "published": "2026-11-18 15:00:10"
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "published": "2026-11-19 13:08:08"
   }
 ]
