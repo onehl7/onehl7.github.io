@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "published": "2026-11-21 22:59:58"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
     "published": "2026-11-21 18:01:58"
@@ -22,11 +28,5 @@
     "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
     "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
     "published": "2026-11-20 18:51:43"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-    "published": "2026-11-20 17:30:00"
   }
 ]
