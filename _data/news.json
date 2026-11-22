@@ -1,6 +1,24 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "published": "2026-11-22 18:45:37"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+    "published": "2026-11-22 15:43:04"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "published": "2026-11-22 15:15:25"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
     "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
     "published": "2026-11-21 22:59:58"
@@ -10,23 +28,5 @@
     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
     "published": "2026-11-21 18:01:58"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-    "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-    "published": "2026-11-21 15:17:27"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-    "published": "2026-11-21 14:26:04"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-    "published": "2026-11-20 18:51:43"
   }
 ]
