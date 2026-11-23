@@ -1,5 +1,11 @@
 [
   {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "published": "2026-11-22 00:00:00",
+    "source": "OpenAI News"
+  },
+  {
     "title": "The most misunderstood graph in AI just got a major update",
     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "published": "2026-11-20 18:15:15",
@@ -9,12 +15,6 @@
     "title": "Combatting adversarial distillation",
     "link": "https://openai.com/index/combatting-adversarial-distillation",
     "published": "2026-11-20 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "link": "https://openai.com/business/customer-stories/hebbia",
-    "published": "2026-11-20 00:00:00",
     "source": "OpenAI News"
   },
   {
