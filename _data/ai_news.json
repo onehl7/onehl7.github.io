@@ -1,9 +1,39 @@
 [
   {
-    "title": "Perplexity and Intelligence",
-    "link": "https://openai.com/index/perplexity-and-intelligence",
-    "published": "2026-11-22 00:00:00",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "published": "2026-11-23 21:20:00",
     "source": "OpenAI News"
+  },
+  {
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "published": "2026-11-23 17:36:08",
+    "source": "MIT Technology Review AI"
+  },
+  {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "published": "2026-11-23 17:20:37",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "published": "2026-11-23 17:00:00",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Connected intelligence for in-house legal",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "published": "2026-11-23 08:00:00",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "published": "2026-11-23 00:00:00",
+    "source": "Hugging Face Blog"
   },
   {
     "title": "The most misunderstood graph in AI just got a major update",
@@ -12,39 +42,9 @@
     "source": "MIT Technology Review AI"
   },
   {
-    "title": "Combatting adversarial distillation",
-    "link": "https://openai.com/index/combatting-adversarial-distillation",
-    "published": "2026-11-20 10:00:00",
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "link": "https://huggingface.co/blog/inkling2mini",
-    "published": "2026-11-20 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "published": "2026-11-20 00:00:00",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Introducing Tool Retrieval in the Gemini API",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "published": "2026-11-19 18:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "published": "2026-11-19 17:00:00",
-    "source": "Google AI Blog"
-  },
-  {
-    "title": "The AI Hype Index: AI is everywhere",
-    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-    "published": "2026-11-18 14:42:44",
-    "source": "MIT Technology Review AI"
   }
 ]
