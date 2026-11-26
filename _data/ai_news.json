@@ -1,33 +1,39 @@
 [
   {
-    "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-    "link": "https://arxiv.org/abs/2611.31284",
-    "published": "2026-11-25 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-    "link": "https://arxiv.org/abs/2611.31301",
-    "published": "2026-11-25 05:00:00",
-    "source": "arXiv AI"
-  },
-  {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "published": "2026-11-24 16:34:13",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "published": "2026-11-26 05:05:36",
     "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Context Scaling: A New Frontier of AI Scaling",
+    "link": "https://arxiv.org/abs/2611.33160",
+    "published": "2026-11-26 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+    "link": "https://arxiv.org/abs/2611.33161",
+    "published": "2026-11-26 05:00:00",
+    "source": "arXiv AI"
+  },
+  {
+    "title": "Where scientists draw the line on AI agents",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "published": "2026-11-25 18:52:55",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI is straining America’s open records systems",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "published": "2026-11-25 10:00:00",
+    "source": "MIT Technology Review AI"
   },
   {
     "title": "How Gemini is changing the game for Golden State's organization and fans.",
     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "published": "2026-11-24 16:00:00",
     "source": "Google AI Blog"
-  },
-  {
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-    "published": "2026-11-24 15:15:16",
-    "source": "MIT Technology Review AI"
   },
   {
     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -46,12 +52,6 @@
     "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
     "published": "2026-11-23 17:36:08",
     "source": "MIT Technology Review AI"
-  },
-  {
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "published": "2026-11-23 17:20:37",
-    "source": "Hugging Face Blog"
   },
   {
     "title": "A more tailored Google Search that’s uniquely yours",
