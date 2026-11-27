@@ -1,26 +1,26 @@
 [
   {
-    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "published": "2026-11-26 05:05:36",
-    "source": "Hugging Face Blog"
-  },
-  {
     "title": "Context Scaling: A New Frontier of AI Scaling",
     "link": "https://arxiv.org/abs/2611.33160",
-    "published": "2026-11-26 05:00:00",
+    "published": "2026-11-27 05:00:00",
     "source": "arXiv AI"
   },
   {
     "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
     "link": "https://arxiv.org/abs/2611.33161",
-    "published": "2026-11-26 05:00:00",
+    "published": "2026-11-27 05:00:00",
     "source": "arXiv AI"
   },
   {
-    "title": "Where scientists draw the line on AI agents",
-    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "published": "2026-11-25 18:52:55",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "published": "2026-11-26 11:37:17",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "published": "2026-11-26 05:05:36",
     "source": "Hugging Face Blog"
   },
   {
