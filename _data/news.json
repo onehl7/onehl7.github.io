@@ -1,6 +1,12 @@
 [
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+    "published": "2026-11-26 21:06:22"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
     "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
     "published": "2026-11-26 17:58:42"
@@ -22,11 +28,5 @@
     "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
     "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
     "published": "2026-11-26 11:50:17"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-    "published": "2026-11-25 22:05:09"
   }
 ]
